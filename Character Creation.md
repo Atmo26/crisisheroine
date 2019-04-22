@@ -43,19 +43,19 @@ Evocation: ability to actually use magic, extra MP.
 
 Choose 4 spells from the magic list-
 
-[Spells]()
+[Spells](https://github.com/Atmo26/crisisheroine/blob/master/Spells.md)
 
 ### 5. Crisis Ability
 
 Choose 1 Crisis Ability from the list, also learn "potential" for free-
 
-[Crisis Abilities]()
+[Crisis Abilities](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Abilities.md)
 
 ### 6. Equipment
 
 Use your Conjuration to select items. Note that you do not actually lose your Conjuration but use it as a maximum capacity of equipment.
 
-[Equipment]()
+[Equipment](https://github.com/Atmo26/crisisheroine/blob/master/Equipment.md)
 
 ### 7. Derived Attributes
 
@@ -74,3 +74,16 @@ begin a session with 0 and gain CP via Crisis Acts that occur upon taking damage
 **SP** Sex Points. Characters begin with 0, but as they are violated and lose their purity, this number rises to reflect their
 increasingly lewd nature. This stat is split into Chest, Waist, Ass, Mouth, Pain and Spirit. General references to "SP"
 are for Total SP. Since Corruption checks upon
+
+### 8. Crisis Acts
+
+Choose 10 Crisis Acts from the list.
+
+[Crisis Acts](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md)
+
+
+### 9. Starting Emotions
+
+Distribute three ranks into emotions (Ideals, Affection, Hostility), having one emotion at rank 3 is fine too. Note that
+emotions also always have a specific target with differing ranks (e.g. affection 2 for a childhood friend and affection 1
+for a teammate are as valid as hostility 3 for a teammate to denote a rivalry).
