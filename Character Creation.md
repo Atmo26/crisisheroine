@@ -15,7 +15,7 @@
 
 Choose or roll three features from the feature tables (1 from the first two, 1 each from the other two).
 
-[Feature Tables](./Feature Tables.md)
+[Feature Tables](https://github.com/Atmo26/crisisheroine/blob/master/Feature%20Tables.md)
 
 **2. Stats**
 
@@ -31,8 +31,15 @@ Stat descriptions:
 
 **Magic** Magic power, ability to notice in the magical sense.
 
-Distribute 10 points into Conjuration and Evocation (minimum 1)-
-Conjuration: ability to materialize magic power, basically money-
-Evocation: ability to actually use magic, extra MPChoose
-4 spells from the magic list-
+**3. Attributes**
+
+Distribute 10 points into Conjuration and Evocation (minimum 1).
+
+Conjuration: ability to materialize magic power, basically money.
+
+Evocation: ability to actually use magic, extra MP.
+
+**4. Magic**
+
+Choose 4 spells from the magic list-
 Spells
