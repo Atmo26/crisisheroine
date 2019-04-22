@@ -15,7 +15,7 @@
 
 Choose or roll three features from the feature tables (1 from the first two, 1 each from the other two).
 
-[Feature Tables](Feature Tables.md)
+[Feature Tables](./Feature Tables.md)
 
 **2. Stats**
 
