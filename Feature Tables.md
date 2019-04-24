@@ -55,24 +55,17 @@ The feature tables are described below. The PC has three features selected from 
 ## Physical Features
 | Roll | Work | Body | Agility | Intelligence | Magic |
 | - | - | - | - | - | - | 
-| 11 | - | - | - | - | - | 
-| 12 | - | - | - | - | - | 
-| 13 | - | - | - | - | - | 
-| 14 | - | - | - | - | - | 
-| 15 | - | - | - | - | - | 
-| 16 | - | - | - | - | - | 
-| 22,23 | - | - | - | - | - | 
-| 24,25 | - | - | - | - | - | 
-| 26,33 | - | - | - | - | - | 
-| 34 | - | - | - | - | - | 
-| 35 | - | - | - | - | - | 
-| 36 | - | - | - | - | - | 
-| 44 | - | - | - | - | - | 
-| 45 | - | - | - | - | - | 
-| 46 | - | - | - | - | - | 
-| 55 | - | - | - | - | - | 
-| 56 | - | - | - | - | - | 
-| 66 | - | - | - | - | - | 
+| 11,12 | Albino, Mysterious Appearance | +0 | +0 | +1 | +2 | 
+| 13,14 | Very Petite | +0 | +1 | +1 | +1 | 
+| 15,16 | Sickly | +0 | +0 | +2 | +1 | 
+| 22,23 | Not petite but small breasts | +0 | +1 | +2 | +0 | 
+| 24,25 | Short hair, small chest, androgynous | +1 | +2 | +0 | +0 | 
+| 26,33 | Ordinary standard type | +1 | +0 | +1 | +1 | 
+| 34,35 | Tall and Large | +2 | +1 | +0 | +0 | 
+| 36,44 | Tall and Stylish | +1 | +1 | +0 | +1 | 
+| 45,46 | Oversized Breasts | +1 | +0 | +0 | +2 | 
+| 55,56 | Beauty and center of attention | +0 | +2 | +0 | +1 | 
+| 66 | Voluptous | +2 | +0 | +0 | +1 | 
 
 ## Personality Features
 | Roll | Work | Body | Agility | Intelligence | Magic |
@@ -83,9 +76,11 @@ The feature tables are described below. The PC has three features selected from 
 | 14 | - | - | - | - | - | 
 | 15 | - | - | - | - | - | 
 | 16 | - | - | - | - | - | 
-| 22,23 | - | - | - | - | - | 
-| 24,25 | - | - | - | - | - | 
-| 26,33 | - | - | - | - | - | 
+| 22 | - | - | - | - | - | 
+| 23 | - | - | - | - | - | 
+| 24 | - | - | - | - | - | 
+| 25 | - | - | - | - | - | 
+| 26 | - | - | - | - | - | 
 | 34 | - | - | - | - | - | 
 | 35 | - | - | - | - | - | 
 | 36 | - | - | - | - | - | 
