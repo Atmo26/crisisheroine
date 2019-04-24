@@ -15,20 +15,20 @@ The feature tables are described below. The PC has three features selected from 
 | 12 | Policewoman | +1 | +1 | +1 | 0 | 
 | 13 | Teacher | +1 | 0 | +2 | 0 | 
 | 14 | Shrine Maiden | 0 | 0 | +1 | +2 | 
-| 15 | - | - | - | - | - | 
-| 16 | - | - | - | - | - | 
-| 22,23 | - | - | - | - | - | 
-| 24,25 | - | - | - | - | - | 
-| 26,33 | - | - | - | - | - | 
-| 34 | - | - | - | - | - | 
-| 35 | - | - | - | - | - | 
-| 36 | - | - | - | - | - | 
-| 44 | - | - | - | - | - | 
-| 45 | - | - | - | - | - | 
-| 46 | - | - | - | - | - | 
-| 55 | - | - | - | - | - | 
-| 56 | - | - | - | - | - | 
-| 66 | - | - | - | - | - | 
+| 15 | Sister/Nun | +1 | 0 | 0 | +2 | 
+| 16 | Housewife | +2 | 0 | 0 | +1 | 
+| 22,23 | Student (Council Member) | 0 | +1 | +2 | 0 | 
+| 24,25 | Student (Athletic) | +1 | +1 | 0 | 0 | 
+| 26,33 | Student (General) | +1 | +1 | 0 | +1 | 
+| 34 | Student (Bad) | +2 | 0 | 0 | +1 | 
+| 35 | Reporter | +1 | +1 | +1 | 0 | 
+| 36 | Detective | 0 | +2 | +1 | 0 | 
+| 44 | Office Lady | +1 | 0 | +1 | +1 | 
+| 45 | Waitress | +1 | +1 | 0 | +1 | 
+| 46 | Nurse/Female Doctor | 0 | +1 | +1 | +1 | 
+| 55 | Heiress | 0 | 0 | +2 | +1 | 
+| 56 | Idol | 0 | +2 | 0 | +1 | 
+| 66 | NEET | +1 | 0 | +1 | +1 | 
 
 ## Work-Unreal
 | Roll | Work | Body | Agility | Intelligence | Magic |
