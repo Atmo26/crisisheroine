@@ -11,10 +11,10 @@ The feature tables are described below. The PC has three features selected from 
 ## Work-Real
 | Roll | Work | Body | Agility | Intelligence | Magic |
 | - | - | - | - | - | - | 
-| 11 | Martial Artist | +2 | +1 | 0 | 0 | 
-| 12 | Policewoman | +1 | +1 | +1 | 0 | 
-| 13 | Teacher | +1 | 0 | +2 | 0 | 
-| 14 | Shrine Maiden | 0 | 0 | +1 | +2 | 
+| 11 | Martial Artist | +2 | +1 | +0 | +0 | 
+| 12 | Policewoman | +1 | +1 | +1 | +0 | 
+| 13 | Teacher | +1 | +0 | +2 | +0 | 
+| 14 | Shrine Maiden | +0 | +0 | +1 | +2 | 
 | 15 | Sister/Nun | +1 | 0 | 0 | +2 | 
 | 16 | Housewife | +2 | 0 | 0 | +1 | 
 | 22,23 | Student (Council Member) | 0 | +1 | +2 | 0 | 
@@ -33,12 +33,12 @@ The feature tables are described below. The PC has three features selected from 
 ## Work-Unreal
 | Roll | Work | Body | Agility | Intelligence | Magic |
 | - | - | - | - | - | - | 
-| 11 | - | - | - | - | - | 
-| 12 | - | - | - | - | - | 
-| 13 | - | - | - | - | - | 
-| 14 | - | - | - | - | - | 
-| 15 | - | - | - | - | - | 
-| 16 | - | - | - | - | - | 
+| 11 | Demon (Defecting or Reincarnated) | +1 | +0 | +0 | +2 | 
+| 12 | Demonologist | +0 | +1 | +0 | +2 | 
+| 13 | Kunoichi | +0 | +2 | +0 | +1 | 
+| 14 | Witch | +0 | +0 | +0 | +3 | 
+| 15 | Artifical Life Form | +1 | +1 | +0 | +1 | 
+| 16 | Thief | +0 | +2 | - | - | 
 | 22,23 | - | - | - | - | - | 
 | 24,25 | - | - | - | - | - | 
 | 26,33 | - | - | - | - | - | 
