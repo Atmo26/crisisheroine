@@ -68,25 +68,25 @@ The feature tables are described below. The PC has three features selected from 
 | 66 | Voluptous | +2 | +0 | +0 | +1 | 
 
 ## Personality Features
-| Roll | Work | Body | Agility | Intelligence | Magic |
+| Roll | Feature | Body | Agility | Intelligence | Magic |
 | - | - | - | - | - | - | 
-| 11 | - | - | - | - | - | 
-| 12 | - | - | - | - | - | 
-| 13 | - | - | - | - | - | 
-| 14 | - | - | - | - | - | 
-| 15 | - | - | - | - | - | 
-| 16 | - | - | - | - | - | 
-| 22 | - | - | - | - | - | 
-| 23 | - | - | - | - | - | 
-| 24 | - | - | - | - | - | 
-| 25 | - | - | - | - | - | 
-| 26 | - | - | - | - | - | 
-| 34 | - | - | - | - | - | 
-| 35 | - | - | - | - | - | 
-| 36 | - | - | - | - | - | 
-| 44 | - | - | - | - | - | 
-| 45 | - | - | - | - | - | 
-| 46 | - | - | - | - | - | 
-| 55 | - | - | - | - | - | 
-| 56 | - | - | - | - | - | 
-| 66 | - | - | - | - | - | 
+| 11 | Incredibly shy | +1 | +0 | +1 | +2 | 
+| 12 | Withdrawn, avoids socializing | +0 | +1 | +2 | +1 | 
+| 13 | Serious hard worker | +1 | +1 | +2 | +0 | 
+| 14 | Stiff morals but innocent | +0 | +0 | +2 | +2 | 
+| 15 | Friendly like a small animal | +0 | +2 | +1 | +1 | 
+| 16 | Energetic and innocent | +2 | +1 | +0 | +1 | 
+| 22 | Gently generous | +1 | +0 | +1 | +2 | 
+| 23 | Adult-like, calm | +0 | +1 | +1 | +2 | 
+| 24 | Intellectual calm | +0 | +0 | +2 | +2 | 
+| 25 | Thoughtful, cautious | +1 | +0 | +2 | +1 | 
+| 26 | Quiet and mysterious | +0 | +1 | +1 | +2 | 
+| 34 | Fresh boyish style | +1 | +2 | +1 | +0 | 
+| 35 | Dignifed woman | +2 | +1 | +1 | +0 | 
+| 36 | Strong will, arrogant | +1 | +0 | +2 | +1 | 
+| 44 | Sore loser, obstinate | +1 | +2 | +1 | +0 | 
+| 45 | Moral older sister | +2 | +2 | +0 | +0 | 
+| 46 | A little selfish | +1 | +2 | +0 | +1 | 
+| 55 | Optmist | +2 | +0 | +0 | +2 | 
+| 56 | Bright, spirited, sociable | +1 | +1 | +1 | +1 | 
+| 66 | Acts plain, but secretly a nympho | +1 | +1 | +0 | +2 | 
