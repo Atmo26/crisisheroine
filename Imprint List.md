@@ -23,7 +23,7 @@ other words, heroines with more imprints are lascivious but stronger in a pinch.
 | Creampie Addiction | Waist | None | "The Pleasure of Insemination" | None |
 | Sexual Training | Anywhere | Total SP 20 | Carnal Expert, Hips Moving on Their Own, Cock-Milking Tongue | None |
 | Sow's Desire | Spirit | 5 Spirit SP | A Sow's Joy, Begging | None |
-| Pleasure From Pain | - | - | - | - |
+| Pleasure From Pain | Pain | 5 Pain SP | Exposed Scar, Brand of the Weak, Pain That Turns Into Pleasure | None |
 | - | - | - | - | - |
 | - | - | - | - | - |
 | - | - | - | - | - |
