@@ -20,25 +20,25 @@ other words, heroines with more imprints are lascivious but stronger in a pinch.
 | Perverted Delusions | Spirit | None | Vulgar Words | None |
 | Exhibitionism | Spirit | None | The Joy of Exposure | None |
 | Cum Addiction | Mouth | None | Cum-drunk | None |
-| Creampie Addiction | Waist | None | "The Pleasure of Insemination" | None |
+| Creampie Addiction | Waist | None | The Pleasure of Insemination | None |
 | Sexual Training | Anywhere | Total SP 20 | Carnal Expert, Hips Moving on Their Own, Cock-Milking Tongue | None |
 | Sow's Desire | Spirit | 5 Spirit SP | A Sow's Joy, Begging | None |
 | Pleasure From Pain | Pain | 5 Pain SP | Exposed Scar, Brand of the Weak, Pain That Turns Into Pleasure | None |
 | Perverted Love: (Target) | Spirit | Affection Emotion Ranked 3 or higher | The Pleasure of Servitude, Delirious Smile | Your armor has -1 Direct Hit against the Target of this Imprint |
-| - | - | - | - | Your armor has -1 Direct Hit against the Target of this Imprint |
-| - | - | Total SP 20 | - | Your armor has -1 Direct Hit against the Target of this Imprint |
-| - | - | Total SP 20 | - | Your armor has -1 Direct Hit against the Target of this Imprint |
-| - | - | Total SP 20 | - | Your armor has -1 Direct Hit against the Target of this Imprint |
-| - | - | Total SP 20 | - | Your armor has -1 Direct Hit against the Target of this Imprint |
-| - | - | Mouth SP 5 | - | - |
-| - | - | Ass SP 5 | - | - |
-| - | - | Waist SP 5 | - | - |
-| - | - | Waist SP 5 | - | - |
-| - | - | Not a virgin | - | - |
-| - | - | Have been affected by the "In Heat" Bad Status | - | - |
-| - | - | Have been affected by the "Enlarged Breasts" Bad Status | - | - |
-| - | - | Have been affected by the "Futanari" Bad Status | - | - |
-| - | - | Have been affected by the "Urge to Pee" Bad Status | - | - |
-| - | - | Have been affected by the "Egged" Bad Status | - | - |
+| Personal Meat Toilet: (Target | Anywhere | Hatred Emotion Ranked 3 or higher | Resisting Only With Words, The Pleasure of Servitude | Your armor has -1 Direct Hit against the Target of this Imprint |
+| Xenophillia: Tentacles | Anywhere | Total SP 20 | The Pleasure of Monsters | Your armor has -1 Direct Hit against the Target of this Imprint |
+| Xenophillia: Slime | Anywhere | Total SP 20 | The Pleasure of Monsters | Your armor has -1 Direct Hit against the Target of this Imprint |
+| Xenophillia: Beast | Anywhere | Total SP 20 | The Pleasure of Monsters | Your armor has -1 Direct Hit against the Target of this Imprint |
+| Xenophillia: Plants | Anywhere | Total SP 20 | The Pleasure of Monsters | Your armor has -1 Direct Hit against the Target of this Imprint |
+| Mouth Pussy | Mouth | Mouth SP 5 | Servicing Mouth | None |
+| Ass Pussy | Ass | Ass SP 5 | A Woman's Second Pussy | None |
+| Expandable Genitals | Waist | Waist SP 5 | - | None |
+| Trained Pussy | Waist | Waist SP 5 | - | None |
+| Regenerating Hymen | Waist | Not a virgin | Repeated Loss | None |
+| Aphrodisiac Secretion | Anywhere | Have been affected by the "In Heat" Bad Status | None (Makes certain Crisis Acts easier) | Start the Session with the "In Heat" Bad Status |
+| Lactation | Chest | Have been affected by the "Enlarged Breasts" Bad Status | None (Makes certain Crisis Acts easier) | Start the Session with the "Enlarged Breasts" Bad Status |
+| Meat Spear | Waist | Have been affected by the "Futanari" Bad Status | None (Makes certain Crisis Acts easier) | Start the Session with the "Futanari" Bad Status |
+| Incontinence Habit | Waist | Have been affected by the "Urge to Pee" Bad Status | None (Makes certain Crisis Acts easier) | Start the Session with the "Urge to Pee" Bad Status |
+| Womb Parasite | Waist | Have been affected by the "Egged" Bad Status | None (Makes certain Crisis Acts easier) | Start the Session with the "Egged" Bad Status |
 
 
