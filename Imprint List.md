@@ -32,8 +32,8 @@ other words, heroines with more imprints are lascivious but stronger in a pinch.
 | Xenophillia: Plants | Anywhere | Total SP 20 | The Pleasure of Monsters | Your armor has -1 Direct Hit against the Target of this Imprint |
 | Mouth Pussy | Mouth | Mouth SP 5 | Servicing Mouth | None |
 | Ass Pussy | Ass | Ass SP 5 | A Woman's Second Pussy | None |
-| Expandable Genitals | Waist | Waist SP 5 | - | None |
-| Trained Pussy | Waist | Waist SP 5 | - | None |
+| Expandable Genitals | Waist | Waist SP 5 | Unusual Insertion | None |
+| Trained Pussy | Waist | Waist SP 5 | Vessel of a Whore | None |
 | Regenerating Hymen | Waist | Not a virgin | Repeated Loss | None |
 | Aphrodisiac Secretion | Anywhere | Have been affected by the "In Heat" Bad Status | None (Makes certain Crisis Acts easier) | Start the Session with the "In Heat" Bad Status |
 | Lactation | Chest | Have been affected by the "Enlarged Breasts" Bad Status | None (Makes certain Crisis Acts easier) | Start the Session with the "Enlarged Breasts" Bad Status |
