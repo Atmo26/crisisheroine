@@ -24,21 +24,21 @@ other words, heroines with more imprints are lascivious but stronger in a pinch.
 | Sexual Training | Anywhere | Total SP 20 | Carnal Expert, Hips Moving on Their Own, Cock-Milking Tongue | None |
 | Sow's Desire | Spirit | 5 Spirit SP | A Sow's Joy, Begging | None |
 | Pleasure From Pain | Pain | 5 Pain SP | Exposed Scar, Brand of the Weak, Pain That Turns Into Pleasure | None |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
+| Perverted Love: (Target) | Spirit | Affection Emotion Ranked 3 or higher | The Pleasure of Servitude, Delirious Smile | Your armor has -1 Direct Hit against the Target of this Imprint |
+| - | - | - | - | Your armor has -1 Direct Hit against the Target of this Imprint |
+| - | - | Total SP 20 | - | Your armor has -1 Direct Hit against the Target of this Imprint |
+| - | - | Total SP 20 | - | Your armor has -1 Direct Hit against the Target of this Imprint |
+| - | - | Total SP 20 | - | Your armor has -1 Direct Hit against the Target of this Imprint |
+| - | - | Total SP 20 | - | Your armor has -1 Direct Hit against the Target of this Imprint |
+| - | - | Mouth SP 5 | - | - |
+| - | - | Ass SP 5 | - | - |
+| - | - | Waist SP 5 | - | - |
+| - | - | Waist SP 5 | - | - |
+| - | - | Not a virgin | - | - |
+| - | - | Have been affected by the "In Heat" Bad Status | - | - |
+| - | - | Have been affected by the "Enlarged Breasts" Bad Status | - | - |
+| - | - | Have been affected by the "Futanari" Bad Status | - | - |
+| - | - | Have been affected by the "Urge to Pee" Bad Status | - | - |
+| - | - | Have been affected by the "Egged" Bad Status | - | - |
+
 
