@@ -18,12 +18,12 @@ other words, heroines with more imprints are lascivious but stronger in a pinch.
 | Fear of Sex | Spirit | None | Flashback, Screaming for Mercy | None |
 | Enlarged Tits | Chest | Have been affected by the "Enlarged Breasts" Bad Status | Massive Cheasts, Sandwiched By Breasts | None |
 | Perverted Delusions | Spirit | None | Vulgar Words | None |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
+| Exhibitionism | Spirit | None | The Joy of Exposure | None |
+| Cum Addiction | Mouth | None | Cum-drunk | None |
+| Creampie Addiction | Waist | None | "The Pleasure of Insemination" | None |
+| Sexual Training | Anywhere | Total SP 20 | Carnal Expert, Hips Moving on Their Own, Cock-Milking Tongue | None |
+| Sow's Desire | Spirit | 5 Spirit SP | A Sow's Joy, Begging | None |
+| Pleasure From Pain | - | - | - | - |
 | - | - | - | - | - |
 | - | - | - | - | - |
 | - | - | - | - | - |
