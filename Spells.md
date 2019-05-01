@@ -37,25 +37,21 @@ In addition, [MP] will recover completely at the beginning of the fighting turn.
 
 ## Constant Spells
 
-**Attacker**
-* Use: Constant
-* Class: None
-* MP: 0
-* Range: No
-* Target: Self
+<p><br /><b>Attacker</b>
+<br />Use: Constant
+<br />Class: None
+<br />MP: 0
+<br />Range: No
+<br />Target: Self
+<br />Increase damage of weapons by 1. This magic can be acquired up to 3 times. Its effects stack.</p>
 
-Increase damage of weapons by 1. This magic can be acquired up to 3 times. Its effects stack.
-
-
-
-**Magic Sense**
-* Use: Constant
-* Class: None
-* MP: 0
-* Range: No
-* Target: Self
-
-Sorcery Rolls gain +1 to the effect. It also has an effect on Sorcery that do not roll dice, such as "shield". This magic can be acquired up to 3 times. Its effects stack
+<p><br /><b>Magic Sense</b>
+<br />Use: Constant
+<br />Class: None
+<br />MP: 0
+<br />Range: No
+<br />Target: Self
+<br />Sorcery Rolls gain +1 to the effect. It also has an effect on Sorcery that do not roll dice, such as "shield". This magic can be acquired up to 3 times. Its effects stack. </p>
 
 **Speedster**
 * Use: Constant
