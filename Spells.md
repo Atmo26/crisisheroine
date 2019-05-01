@@ -43,37 +43,59 @@ In addition, [MP] will recover completely at the beginning of the fighting turn.
 * MP: 0
 * Range: No
 * Target: Self
+
 Increase damage of weapons by 1. This magic can be acquired up to 3 times. Its effects stack.
 
 **Magic Sense**
-Use: Constant
-Class: None
-MP: 0
-Range: No
-Target: Self
-Sorcery Rolls gain +1 to the effect. It also has an effect on Sorcery that do not roll dice, such as "shield". This magic can
-be acquired up to 3 times. Its effects stack
+* Use: Constant
+* Class: None
+* MP: 0
+* Range: No
+* Target: Self
+
+Sorcery Rolls gain +1 to the effect. It also has an effect on Sorcery that do not roll dice, such as "shield". This magic can be acquired up to 3 times. Its effects stack
 
 **Speedster**
-Use: Constant
-Class: None
-MP: 0
-Range: No
-Target: Self
+* Use: Constant
+* Class: None
+* MP: 0
+* Range: No
+* Target: Self
+
 Gain +2 IV. This magic can be acquired up to 3 times. Its effects stack.
 
 **Strong Heart**
-Use: Constant
-Class: None
-MP: 0
-Range: No
-Target: Self
+* Use: Constant
+* Class: None
+* MP: 0
+* Range: No
+* Target: Self
+
 Gain +8 HP. This magic can be acquired up to 3 times. Its effects stack.
 
 **Mind Seeker**
-Use: Constant
-Class: None
-MP: 0
-Range: No
-Target: Self
+* Use: Constant
+* Class: None
+* MP: 0
+* Range: No
+* Target: Self
+
 Gain +1 MP. This magic can be acquired up to 3 times. Its effects stack.
+
+**Critical Hit!**
+* Use: Constant
+* Class: None
+* MP: 0
+* Range: No
+* Target: Self
+
+When rolling an attack and multiple "6" faces show, gain a bonus to the damage equal to (the number of "6" faces x 3). This magic can be acquired up to 3 times. Its effects stack.
+
+**Lucky Hit!**
+* Use: Constant
+* Class: None
+* MP: 0
+* Range: No
+* Target: Self
+
+When rolling an attack and multiple "1" faces show, gain a bonus to the damage equal to (the number of "1" faces x 3). This magic can be acquired up to 3 times. Its effects stack.
