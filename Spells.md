@@ -34,3 +34,46 @@ In addition, [MP] will recover completely at the beginning of the fighting turn.
 * "Single" select one person from the range of range of range.
 * "Area" covers all characters in one engagement, such as all enemy vanguards, allied guards ... ... etc. In this case, it is also possible to freely remove someone from the range of effect at will.
 * "Scene", select an object from everyone appearing on the spot. In this case, it is also possible to freely remove someone from the range of effect at will.
+
+## Constant Spells
+
+**Attacker**
+Use: Constant
+Class: None
+MP: 0
+Range: No
+Target: Self
+Increase damage of weapons by 1. This magic can be acquired up to 3 times. Its effects stack.
+
+**Magic Sense**
+Use: Constant
+Class: None
+MP: 0
+Range: No
+Target: Self
+Sorcery Rolls gain +1 to the effect. It also has an effect on Sorcery that do not roll dice, such as "shield". This magic can
+be acquired up to 3 times. Its effects stack
+
+**Speedster**
+Use: Constant
+Class: None
+MP: 0
+Range: No
+Target: Self
+Gain +2 IV. This magic can be acquired up to 3 times. Its effects stack.
+
+**Strong Heart**
+Use: Constant
+Class: None
+MP: 0
+Range: No
+Target: Self
+Gain +8 HP. This magic can be acquired up to 3 times. Its effects stack.
+
+**Mind Seeker**
+Use: Constant
+Class: None
+MP: 0
+Range: No
+Target: Self
+Gain +1 MP. This magic can be acquired up to 3 times. Its effects stack.
