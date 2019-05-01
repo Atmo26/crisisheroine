@@ -37,13 +37,16 @@ In addition, [MP] will recover completely at the beginning of the fighting turn.
 
 ## Constant Spells
 
-<br />**Attacker**
+**Attacker**
 * Use: Constant
 * Class: None
 * MP: 0
 * Range: No
 * Target: Self
-<br />Increase damage of weapons by 1. This magic can be acquired up to 3 times. Its effects stack.
+
+Increase damage of weapons by 1. This magic can be acquired up to 3 times. Its effects stack.
+
+
 
 **Magic Sense**
 * Use: Constant
