@@ -46,7 +46,7 @@ In addition, [MP] will recover completely at the beginning of the fighting turn.
 
 Increase damage of weapons by 1. This magic can be acquired up to 3 times. Its effects stack.
 
-/
+\
 **Magic Sense**
 * Use: Constant
 * Class: None
@@ -56,6 +56,7 @@ Increase damage of weapons by 1. This magic can be acquired up to 3 times. Its e
 
 Sorcery Rolls gain +1 to the effect. It also has an effect on Sorcery that do not roll dice, such as "shield". This magic can be acquired up to 3 times. Its effects stack.
 
+\
 **Speedster**
 * Use: Constant
 * Class: None
