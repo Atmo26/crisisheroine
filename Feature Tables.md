@@ -4,9 +4,9 @@ The feature tables are described below. The PC has three features selected from 
 
 ## Contents
 - [Work-Real](https://github.com/Atmo26/crisisheroine/blob/master/Feature%20Tables.md#work-real)
-- Work-Unreal
-- Physical features
-- Personality Features
+- [Work-Unreal](https://github.com/Atmo26/crisisheroine/blob/master/Feature%20Tables.md#work-unreal)
+- [Physical features](https://github.com/Atmo26/crisisheroine/blob/master/Feature%20Tables.md#physical-features)
+- [Personality Features](https://github.com/Atmo26/crisisheroine/blob/master/Feature%20Tables.md#personality-features)
 
 ## Work-Real
 | Roll | Work | Body | Agility | Intelligence | Magic |
