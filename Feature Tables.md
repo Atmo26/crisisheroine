@@ -3,7 +3,7 @@
 The feature tables are described below. The PC has three features selected from the following table, one for each of "Works", "Physical features" and "Characteristic features". You can choose yourself or you can roll with 2d6. However, when rolling, please read the lower die result as the tens digit and the larger die result as the ones digit. Regarding "Works", there are two types, real and unreal. Please select only one feature from either. In addition, please be sure to obtain GM permission before using unreal work.
 
 ## Contents
-- Work-Real
+- [Work-Real](https://github.com/Atmo26/crisisheroine/blob/master/Feature%20Tables.md#work-real)
 - Work-Unreal
 - Physical features
 - Personality Features
