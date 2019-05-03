@@ -106,7 +106,6 @@ When rolling an attack and multiple "6" faces show, gain a bonus to the damage e
 
 When rolling an attack and multiple "1" faces show, gain a bonus to the damage equal to (the number of "1" faces x 3). This magic can be acquired up to 3 times. Its effects stack.
 
-\
 ## Auxiliary Spells
 
 **Shine hit**
@@ -158,6 +157,7 @@ Increase the damage of a Melee or Shooting weapon attack by +1d6. The element of
 
 Increase a Sorcery Attack by +1d6.
 
+\
 **Split**
 * Use: Auxiliary
 * Class: Sorcery
@@ -328,7 +328,6 @@ Target weapon gains a +1d6 bonus to damage rolls. It also gets +5 damage to slim
 
 Target weapon gains a +1d6 bonus to damage rolls. It also gets +5 damage to tentacle monsters. However, it deals -5 damage to slime monsters. This remains for the duration of the fight and can only be applied once to a single weapon. If another Enchantment is applied to the same weapon, only the newest one applies.
 
-\
 ## Reaction Spells
 
 **Guarding**
