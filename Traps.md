@@ -10,7 +10,7 @@ Even peaceful places such as academic parks, amusement parks, hospitals and natu
 * Invocation: One Shot
 * Target: Single
 * Avoidance Check: Intelligence check of at least 12
-\
+
 When the battle starts, the trap is activated and the effect is sprung the next turn. A poisonous needle jumps out and stabs the target. 
 \
 The target receives the bad status of the needle.
@@ -21,7 +21,7 @@ The target receives the bad status of the needle.
 * Invocation: One Shot
 * Target: Single
 * Avoidance Check: Magic check of at least 12
-\
+
 The trap is activated at the beginning of the battle and is sprung the next turn. 
 \
 A special beam is emitted that changes the atomic structure of the target’s clothes, turning it into an obscene costume with lots of exposure. 
@@ -34,7 +34,7 @@ The hit target receive the bad status [Exhibitionism].
 * Invocation: Sustained
 * Target: Single
 * Avoidance Check: Agility check of at least 12
-\
+
 The trap is activated at the beginning of battle. The effect is sprung during the next turn. 
 \
 A viscous fluid falls down and sticks closely to the target, lowering their IV by 5.
@@ -45,7 +45,7 @@ A viscous fluid falls down and sticks closely to the target, lowering their IV b
 * Invocation: Sustained
 * Target: Single
 * Avoidance Check: Agility check of at least 12
-\
+
 The trap is activated at the beginning of battle and the effect is sprung the next turn. Acid mucus falls down on the target, melting her clothing. 
 \
 Afterwards, the target takes 3 damage to their [AP] at the end of every turn. (The PC selects which parts take the damage.)
@@ -80,7 +80,7 @@ The heroine who is caught in the field of vision (usually for the entire scene) 
 * Invocation: Maintenance
 * Target: Scene
 * Avoidance Check: Every turn make an Agility check of at least 12
-\
+
 This trap and its effect is always active. A group of ordinary citizens who have been brainwashed by the demons to attack the heroines. 
 \
 Deal 6 damage to the heroines at the end of every turn.
