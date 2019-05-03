@@ -35,6 +35,21 @@ In addition, [MP] will recover completely at the beginning of the fighting turn.
 * "Area" covers all characters in one engagement, such as all enemy vanguards, allied guards ... ... etc. In this case, it is also possible to freely remove someone from the range of effect at will.
 * "Scene", select an object from everyone appearing on the spot. In this case, it is also possible to freely remove someone from the range of effect at will.
 
+## Contents
+
+[Constant Spells](https://github.com/Atmo26/crisisheroine/blob/master/Spells.md#constant-spells)
+
+[Auxiliary Spells](https://github.com/Atmo26/crisisheroine/blob/master/Spells.md#auxiliary-spells)
+
+[Active Spells](https://github.com/Atmo26/crisisheroine/blob/master/Spells.md#active-spells)
+
+[Reaction Spells](https://github.com/Atmo26/crisisheroine/blob/master/Spells.md#reaction-spells)
+
+[Opening Spells](https://github.com/Atmo26/crisisheroine/blob/master/Spells.md#opening-spells)
+
+[Just Before Spells](https://github.com/Atmo26/crisisheroine/blob/master/Spells.md#just-before-spells)
+
+
 ## Constant Spells
 
 **Attacker**
