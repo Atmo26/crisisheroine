@@ -70,7 +70,7 @@ As a result, so-called free heroines who work solo or in small teams are still l
 Some sample Cartels are listed below.
 
 ### Iron Maiden
-\
+
 The first Cartel in the world.
 \
 They advocate a a do-or-die mentality to fighting demons, aiming for their complete annihilation.
@@ -81,7 +81,7 @@ Based on these policies, the Heroine of this Cartel often receive training that 
 
 
 ### Twilight Star Church
-\
+
 Based on the belief that Humans - lacking in power and numbers - cannot defeat the demons, this Cartel wishes to make attempts to cooperate and reconcile with them.
 \
 They have a tendency to avoid destructive fights with demons that can understand them, preferring to try and talk it out. Ultimately, through their intimate connections with the demons, they wish to be at the top of human society in a demon-invaded Earth.
@@ -90,7 +90,7 @@ Iron Maiden sees them as "a selfish organisation that has betrayed humanity" and
 
 
 ### Sakura Sentry
-\
+
 A small Cartel with relatively few but elite members.
 \
 Unlike other Cartels, the fate of the world or the battle between humans and demons are not a primary concern. Instead, they focus on aiding solo-fighting Heroines and victims of demon attacks.
@@ -99,7 +99,7 @@ It is an organization overflowing with kindness, fairness, and honesty. However,
 
 
 ## Magus
-\
+
 While Heroines are great warriors indeed, they have been defeated by underhanded traps and fell to evil many times in the past.
 \
 To cope with this, Iron Maiden created the "Magus" System.
