@@ -1,5 +1,37 @@
 # Rolls and Battle
 
+## Contents
+
+[General Rolling Rules](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#general-rolling-rules)
+
+[Magic and MP recovery](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#magic-and-mp-recovery)
+
+[Combat](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#combat)
+
+⠀⠀⠀[Combat Start](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#combat-start)
+  
+⠀⠀⠀[Round Start](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#round-start)
+  
+⠀⠀⠀[Turn Order](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#turn-order)
+
+⠀⠀⠀[Character Turn](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#character-turn)
+
+⠀⠀⠀[Reaction](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#reaction)
+
+[Damage and Violation](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#damage-and-violation)
+
+[Activating and Deactivating Traps](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#activating-and-deactivating-traps)
+
+[AP Recovery](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#ap-recovery)
+
+[Bad Status](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#bad-status)
+
+[SP Roll](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#sp-roll)
+
+[Using CP](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#using-cp)
+
+[Defeat and Corruption](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#defeat-and-corruption)
+
 ## General Rolling Rules
 
 Most rolls are accomplished with (2d6+ a stat of GM's choice.) The result of the roll is checked against a target value decided by the GM. If the Result is higher than the target value, the action succeeded. Sometimes you will need to make an opposed roll. Two parties who are in direct, active competition against each other both roll. The higher result is the winner of the opposed roll. In case of a tie, the winner is the defending character.
@@ -34,17 +66,17 @@ Characters have a Primary Action and a Auxiliary Action on their turn.
 
 A character may use their Primary Action to:
 
-* Attack with a weapon: Make a roll adding the weapon's power and deal that much damage to an enemy. Unlike most RPGs, attacks always hit, the attack roll (2d6+weapon power) is used to calculate damage.
-* Use a Spell: You can use a spell with Active use.
-* Any other Action Permitted by the GM: Usually this includes the protection of civilians in battle.
-* Wait: Instead of taking your turn, your IV drops to 0 for this round.
-* Do nothing: You can always choose to do nothing for the round.
+* *Attack with a weapon*: Make a roll adding the weapon's power and deal that much damage to an enemy. Unlike most RPGs, attacks always hit, the attack roll (2d6+weapon power) is used to calculate damage.
+* *Use a Spell*: You can use a spell with Active use.
+* *Any other Action Permitted by the GM*: Usually this includes the protection of civilians in battle.
+* *Wait*: Instead of taking your turn, your IV drops to 0 for this round.
+* *Do nothing*: You can always choose to do nothing for the round.
 
 A character may use their Auxiliary Action to:
 
-* Move: The character moves from Vanguard to Rearguard or vice-versa. If there are multiple Vanguards, you move from one Vangaurd to a neighboring vanguard. For example, if you are surrounded on the front, back, left, and right, you can move from the back to the left, but not from back to front.
-* Use a Spell: You can use a spell with the Auxiliary Use
-* Remove Bad Status: Several, but not all, Bad Statuses can be removed this way.
+* *Move*: The character moves from Vanguard to Rearguard or vice-versa. If there are multiple Vanguards, you move from one Vangaurd to a neighboring vanguard. For example, if you are surrounded on the front, back, left, and right, you can move from the back to the left, but not from back to front.
+* *Use a Spell*: You can use a spell with the Auxiliary Use
+* *Remove Bad Status*: Several, but not all, Bad Statuses can be removed this way.
 
 ### Reaction
 
