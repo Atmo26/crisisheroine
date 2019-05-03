@@ -10,8 +10,10 @@ Even peaceful places such as academic parks, amusement parks, hospitals and natu
 * Invocation: One Shot
 * Target: Single
 * Avoidance Check: Intelligence check of at least 12
-
-When the battle starts, the trap is activated and the effect is sprung the next turn. A poisonous needle jumps out and stabs the target. The target receives the bad status of the needle.
+\
+When the battle starts, the trap is activated and the effect is sprung the next turn. A poisonous needle jumps out and stabs the target. 
+\
+The target receives the bad status of the needle.
 
 \
 **Cinderella Maker**
@@ -19,8 +21,12 @@ When the battle starts, the trap is activated and the effect is sprung the next 
 * Invocation: One Shot
 * Target: Single
 * Avoidance Check: Magic check of at least 12
-
-The trap is activated at the beginning of the battle and is sprung the next turn. A special beam is emitted that changes the atomic structure of the target’s clothes, turning it into an obscene costume with lots of exposure. The hit target receive the bad status [Exhibitionism].
+\
+The trap is activated at the beginning of the battle and is sprung the next turn. 
+\
+A special beam is emitted that changes the atomic structure of the target’s clothes, turning it into an obscene costume with lots of exposure. 
+\
+The hit target receive the bad status [Exhibitionism].
 
 \
 **Bind Gel**
@@ -28,8 +34,10 @@ The trap is activated at the beginning of the battle and is sprung the next turn
 * Invocation: Sustained
 * Target: Single
 * Avoidance Check: Agility check of at least 12
-
-The trap is activated at the beginning of battle. The effect is sprung during the next turn. A viscous fluid falls down and sticks closely to the target, lowering their IV by 5.
+\
+The trap is activated at the beginning of battle. The effect is sprung during the next turn. 
+\
+A viscous fluid falls down and sticks closely to the target, lowering their IV by 5.
 
 \
 **Acid Gel**
@@ -37,8 +45,10 @@ The trap is activated at the beginning of battle. The effect is sprung during th
 * Invocation: Sustained
 * Target: Single
 * Avoidance Check: Agility check of at least 12
-
-The trap is activated at the beginning of battle and the effect is sprung the next turn. Acid mucus falls down on the target, melting her clothing. Afterwards, the target takes 3 damage to their [AP] at the end of every turn. (The PC selects which parts take the damage.)
+\
+The trap is activated at the beginning of battle and the effect is sprung the next turn. Acid mucus falls down on the target, melting her clothing. 
+\
+Afterwards, the target takes 3 damage to their [AP] at the end of every turn. (The PC selects which parts take the damage.)
 
 \
 **Immoral Pool**
@@ -46,8 +56,10 @@ The trap is activated at the beginning of battle and the effect is sprung the ne
 * Invocation: Maintenance
 * Target: All Characters
 * Avoidance Check: None
-
-This trap is always active. When it is entered, the effect is sprung. The pool of aphrodisiac batters at the skin, which causes the bad status [In heat]. If you already are [In Heat], the effect is doubled.
+\
+This trap is always active. When it is entered, the effect is sprung. 
+\
+The pool of aphrodisiac batters at the skin, which causes the bad status [In heat]. If you already are [In Heat], the effect is doubled.
 
 \
 **Evil Eye**
@@ -56,7 +68,11 @@ This trap is always active. When it is entered, the effect is sprung. The pool o
 * Target: Single
 * Avoidance Check: None
 
-This trap and its effect is always active. Observe the state of battle as if viewed from a camera. The trap can display its view from a screen of a TV or something similar to screens within a few hundred meters. The heroine who is caught in the field of vision (usually for the entire scene) is subject to IV -1.
+This trap and its effect is always active. 
+\
+Observe the state of battle as if viewed from a camera. The trap can display its view from a screen of a TV or something similar to screens within a few hundred meters. 
+\
+The heroine who is caught in the field of vision (usually for the entire scene) is subject to IV -1.
 
 \
 **Witch Hunt**
@@ -64,7 +80,9 @@ This trap and its effect is always active. Observe the state of battle as if vie
 * Invocation: Maintenance
 * Target: Scene
 * Avoidance Check: Every turn make an Agility check of at least 12
-
-This trap and its effect is always active. A group of ordinary citizens who have been brainwashed by the demons to attack the heroines. Deal 6 damage to the heroines at the end of every turn.
+\
+This trap and its effect is always active. A group of ordinary citizens who have been brainwashed by the demons to attack the heroines. 
+\
+Deal 6 damage to the heroines at the end of every turn.
 \
 "It’s impossible for me to beat up normal people. I have somehow to break the magical hold over them!"
