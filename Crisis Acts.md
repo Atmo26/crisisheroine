@@ -45,165 +45,186 @@ Each Crisis Act lists the following
 ## Contents
 
 [Chest Crisis Acts]()
+
 [Waist Acts]()
+
 [Mouth Acts]()
+
 [Ass Acts]()
+
 [Spirit Acts]()
+
 [General Acts]()
+
 [Pain Acts]()
+
 [Status Acts]()
 
 ## Chest Crisis Acts
 
-Massive Chest
-CP Gain: 1
-SP Gain: 0
-Requirements: No feature that gives small breasts OR Imprinted with "Enlarged Breasts", You cannot also have
-the Tiny Chest Crisis Act.
-Battle Use: Chest AP 0
-Your breasts are huge. They're no smaller than an American D cup or Japanese E cup. When your chest armor or
-clothing is removed, they instantly pop out and bounce about. Furthermore, being as big as they are they can be used
-for all sorts of things.
+**Massive Chest**
+* CP Gain: 1
+* SP Gain: 0
+* Requirements: No feature that gives small breasts OR Imprinted with "Enlarged Breasts", You cannot also have the Tiny Chest Crisis Act.
+* Battle Use: Chest AP 0
+
+Your breasts are huge. They're no smaller than an American D cup or Japanese E cup. When your chest armor or clothing is removed, they instantly pop out and bounce about. Furthermore, being as big as they are they can be used for all sorts of things.
+
 Tiny Chest
-CP Gain: 1
-SP Gain: 0
-Requirements: No feature that gives big tits, cannot also have Massive Chest Crisis Act
-Battle Use: Chest AP 0
-Your breasts are tiny. Even the kindest esitmates put you at AA. However, the complex and shyness you have is plenty
-enough to bring out a man's lust.
+* CP Gain: 1
+* SP Gain: 0
+* Requirements: No feature that gives big tits, cannot also have Massive Chest Crisis Act
+* Battle Use: Chest AP 0
+
+Your breasts are tiny. Even the kindest esitmates put you at AA. However, the complex and shyness you have is plenty enough to bring out a man's lust.
+
 Breast Complex
-CP Gain: 1
-SP Gain: Chest or Spirit 1
-Requirements: None
-Battle Use: Chest AP 0
-Are they too big, or are they too small? Regardless, you have a complex about your chest. The embarrassment when
-eyes are upon them is too much for you to endure.
+* CP Gain: 1
+* SP Gain: Chest or Spirit 1
+* Requirements: None
+* Battle Use: Chest AP 0
+
+Are they too big, or are they too small? Regardless, you have a complex about your chest. The embarrassment when eyes are upon them is too much for you to endure.
+
 Nipple Teasing
-CP Gain: 1
-SP Gain: Chest 1
-Requirements: Not Imprinted with "Hypersensitive Nipples"
-Battle Use: HP Damage
+* CP Gain: 1
+* SP Gain: Chest 1
+* Requirements: Not Imprinted with "Hypersensitive Nipples"
+* Battle Use: HP Damage
+
 Rubbing, teasing, or digging into the tips; your nipples are played with as if they were nothing more than a sexual toy.
+
 Obscene Fruit
-CP Gain: 2
-SP Gain: Chest 1
-Requirements: Imprinted with "Hypersensitive Nipples"
-Battle Use: HP Damage
-Whether they are large ripe watermelons or small blossoming cherries, your breasts tremble and your nipples harden
-in anticipation of their sexual assault, regardless of your own desires. The hands of your molester stretch and squeeze
-and mold the shape of your breasts, enjoying their elasticity.
+* CP Gain: 2
+* SP Gain: Chest 1
+* Requirements: Imprinted with "Hypersensitive Nipples"
+* Battle Use: HP Damage
+
+Whether they are large ripe watermelons or small blossoming cherries, your breasts tremble and your nipples harden in anticipation of their sexual assault, regardless of your own desires. The hands of your molester stretch and squeeze and mold the shape of your breasts, enjoying their elasticity.
+
 Nipple Orgasm
-CP Gain: 3
-SP Gain: Chest 2
-Requirements: Imprinted with "Hypersensitive Nipples"
-Battle Use: Less than half HP
-Your stiff nipples, as if yearning impatiently for the moment they are toyed with, jut forward in a desparate appeal for
-attention. When they finally fall into the hands of a molester, a pleasure like lightning courses through your body and
-overwhelms your own will.
+* CP Gain: 3
+* SP Gain: Chest 2
+* Requirements: Imprinted with "Hypersensitive Nipples"
+* Battle Use: Less than half HP
+
+Your stiff nipples, as if yearning impatiently for the moment they are toyed with, jut forward in a desparate appeal for attention. When they finally fall into the hands of a molester, a pleasure like lightning courses through your body and overwhelms your own will.
+
 Sandwiched By Breasts
-CP Gain: 1
-SP Gain: Chest 1
-Requirements: No feature that gives small breasts OR Imprinted with "Enlarged Breasts"
-Battle Use: HP damage
-Whether forcibly or voluntarily, the space between your swelling chest is a paradise that can easily squeeze the cum
-out of any penis. Your soft breasts are like a sexual organ, even moreso now after being freshly stained.
+* CP Gain: 1
+* SP Gain: Chest 1
+* Requirements: No feature that gives small breasts OR Imprinted with "Enlarged Breasts"
+* Battle Use: HP damage
+
+Whether forcibly or voluntarily, the space between your swelling chest is a paradise that can easily squeeze the cum out of any penis. Your soft breasts are like a sexual organ, even moreso now after being freshly stained.
 
 ## Waist Acts
 
 Shaving
-CP Gain: 1
-SP Gain: Waist 2
-Requirements: Disposable
-Battle Use: HP Damage
-You have a slight bush. However, after falling into the hands of vulgar demons, that bush hiding your most precious
-place has been removed.
+* CP Gain: 1
+* SP Gain: Waist 2
+* Requirements: Disposable
+* Battle Use: HP Damage
+
+You have a slight bush. However, after falling into the hands of vulgar demons, that bush hiding your most precious place has been removed.
+
 Bare
-CP Gain: 1
-SP Gain: Waist 1
-Requirements: Cannot also have Shaving Crisis Act
-Battle Use: Waist AP 0
-Whether it was shaved or simply never grew in you do not have any hair down there. While those who see it find it
-beautiful you yourself find it being seen bare shameful.
+* CP Gain: 1
+* SP Gain: Waist 1
+* Requirements: Cannot also have Shaving Crisis Act
+* Battle Use: Waist AP 0
+
+Whether it was shaved or simply never grew in you do not have any hair down there. While those who see it find it beautiful you yourself find it being seen bare shameful.
+
 Crotch Complex
-CP Gain: 1
-SP Gain: Waist or Spirit 1
-Requirements: None
-Battle Use: Waist AP 0
-Whether it is the lack of hair down there or the fact you haven't shaved in a while you have a complex regarding your
-bits down there. Just imagining someone else seeing it is practically enough to make you faint.
+* CP Gain: 1
+* SP Gain: Waist or Spirit 1
+* Requirements: None
+* Battle Use: Waist AP 0
+
+Whether it is the lack of hair down there or the fact you haven't shaved in a while you have a complex regarding your bits down there. Just imagining someone else seeing it is practically enough to make you faint.
+
 Overflowing Female Juices
-CP Gain: 2
-SP Gain: Waist 1
-Requirements: Imprinted with "Hypersensitive Crotch"
-Battle Use: Waist AP Damage
-Thoroughly engraved with the tast of pleasure, your oversensitive pussy reacts to event the slightest of touches. Your
-legs and loins tremble, unable to stand, and slick juices meant to entice men flow out freely.
+* CP Gain: 2
+* SP Gain: Waist 1
+* Requirements: Imprinted with "Hypersensitive Crotch"
+* Battle Use: Waist AP Damage
+
+Thoroughly engraved with the tast of pleasure, your oversensitive pussy reacts to event the slightest of touches. Your legs and loins tremble, unable to stand, and slick juices meant to entice men flow out freely.
+
 Squirting
-CP Gain: 2
-SP Gain: Waist 2
-Requirements: Imprinted with "Hypersensitive Crotch"
-Battle Use: HP Damage
-Humiliation turns into raging waves of pleasure that surge through your body. You cannot hold back your overflowing
-juices, and a spraying arc of cum accompanies your orgasm.
+* CP Gain: 2
+* SP Gain: Waist 2
+* Requirements: Imprinted with "Hypersensitive Crotch"
+* Battle Use: HP Damage
+
+Humiliation turns into raging waves of pleasure that surge through your body. You cannot hold back your overflowing juices, and a spraying arc of cum accompanies your orgasm.
+
 Proof of Purity
-CP Gain: 3
-SP Gain: Waist or Pain 2
-Requirements: Virgin
-Battle Use: Less than half HP
-Something hard and hot is plunged into you, and accompanying the pain is the loss of something precious to a woman.
-Whether it was what you wished for, or robbed from you against your will, the blood running along your sweaty skin is
-proof that the partner in front of you has taken your once in a lifetime first experience.
+* CP Gain: 3
+* SP Gain: Waist or Pain 2
+* Requirements: Virgin
+* Battle Use: Less than half HP
+
+Something hard and hot is plunged into you, and accompanying the pain is the loss of something precious to a woman. Whether it was what you wished for, or robbed from you against your will, the blood running along your sweaty skin is proof that the partner in front of you has taken your once in a lifetime first experience.
+
 Hot Nectar
-CP Gain: 1
-SP Gain: Waist 1
-Requirements: Non-virgin, Not Imprinted with "Trained Pussy"
-Battle Use: Less than half HP
-This is not the same time someone entered you. Your hot pussy pulses in wait for a man. Regardless of your desire, it
-squeezes down on the invading member. This is no longer your first time, and your hot pussy pulses in anticipation of
-another man. Whether you wish for it or not, your pussy lustfully swallows whatever invades it.
+* CP Gain: 1
+* SP Gain: Waist 1
+* Requirements: Non-virgin, Not Imprinted with "Trained Pussy"
+* Battle Use: Less than half HP
+
+This is not the same time someone entered you. Your hot pussy pulses in wait for a man. Regardless of your desire, it squeezes down on the invading member. This is no longer your first time, and your hot pussy pulses in anticipation of another man. Whether you wish for it or not, your pussy lustfully swallows whatever invades it.
+
 Vessel of a Whore
-CP Gain: 2
-SP Gain: Waist 1
-Requirements: Non-virgin, Imprinted with "Trained Pussy"
-Battle Use: Less than half HP
-Perhaps as an adaption to repeated assaults or perhaps merely a natural abiltiy, your genitals have devoloped a unique
-feature. Regardless of the shape or size of what's penetrating it, it can wrap and tighten around it like a vice, giving
-your partner extreme pleasure.
+* CP Gain: 2
+* SP Gain: Waist 1
+* Requirements: Non-virgin, Imprinted with "Trained Pussy"
+* Battle Use: Less than half HP
+
+Perhaps as an adaption to repeated assaults or perhaps merely a natural abiltiy, your genitals have devoloped a unique feature. Regardless of the shape or size of what's penetrating it, it can wrap and tighten around it like a vice, giving your partner extreme pleasure.
+
 Repeated Loss
-CP Gain: 3
-SP Gain: Waist or Pain 2
-Requirements: Non-virgin, Imprinted with "Regenerating Hymen"
-Battle Use: Less than half HP
-Pain and bleeding you should've only have experienced once returns, and you experience the shock and agony of losing
-your purity once again. At a loss for words and your own senses uncertain of what has happened, your mind sinks into
-a haze and consumes all thought.
+* CP Gain: 3
+* SP Gain: Waist or Pain 2
+* Requirements: Non-virgin, Imprinted with "Regenerating Hymen"
+* Battle Use: Less than half HP
+
+Pain and bleeding you should've only have experienced once returns, and you experience the shock and agony of losing your purity once again. At a loss for words and your own senses uncertain of what has happened, your mind sinks into a haze and consumes all thought.
+
 Unusual Insertion
-CP Gain: 1
-SP Gain: Waist or Pain 2
-Requirements: Imprinted with "Expandable Genitals"
-Battle Use: Less than half HP
-A gargantuan dildo, the handle of a sword, double insertion into the same hole. Normally impossible forms of
-penetration no different from torture are inflicted on you.
+* CP Gain: 1
+* SP Gain: Waist or Pain 2
+* Requirements: Imprinted with "Expandable Genitals"
+* Battle Use: Less than half HP
+
+A gargantuan dildo, the handle of a sword, double insertion into the same hole. Normally impossible forms of penetration no different from torture are inflicted on you.
+
 Hips Moving on Their Own
 CP Gain: 2
 SP Gain: Waist 1
 Requirements: Imprinted with "Sexual Training"
 Battle Use: Less than half HP
+
 More than pain, more than disgust; the moment of penetration fills you with pleasure. The sexual development of your
 body can no longer oppose the promise of pleasure, and your hips shake to guide men's semen into your waiting
 womb.
+
 Creampie
 CP Gain: 2
 SP Gain: Waist 1
 Requirements: Not Imprinted with "Creampie Addiction"
 Battle Use: Less than half HP
+
 A hot substance pumps deep into your insides, a substance that is the source of new life. Even the fear of being
 impregnated turns into a warmpleasure, washing away your sense of reason.
+
 The Pleasure of Insemination
 CP Gain: 3
 SP Gain: Waist 2
 Requirements: Imprinted with "Creampie Addiction"
 Battle Use: Less than half HP
+
 Hot lust is driven deep into your womb. Rather than worry over having children, the flood pouring incessantly into
 your womb is like a drug that melts away your mind with pleasure.
 
@@ -214,34 +235,43 @@ CP Gain: 1
 SP Gain: Mouth 1
 Requirements: Not Imprinted with "Mouth-Pussy"
 Battle Use: HP Damage
+
 Right before your eyes a man's thing is shoved into your mouth. Reflexively, your tongue pushes against it. This is not
 an attempt to pleasure it, but the desperate and sloppy motions arouse all the same.
+
 Servicing Mouth
 CP Gain: 2
 SP Gain: Mouth 1
 Requirements: Imprinted with "Mouth-Pussy"
 Battle Use: HP Damage
+
 The cheeks and tongue of your mouth have become like the walls and pleats of a pussy, rivaling it in pleasure. As if it
 was your love juices, your thick saliva wraps around hard members and gives them utmost pleasure.
+
 Cock-Milking Tongue
 CP Gain: 1
 SP Gain: Mouth 1
 Requirements: Imprinted with "Sexual Training"
 Battle Use: HP Damage
+
 Whether it was intentional or not, you have developed miraculous skills with your tongue. You naturally lap up
 anything shoved in your mouth with it.
+
 Force-Fed Cum
 CP Gain: 1
 SP Gain: Mouth 1
 Requirements: Not Imprinted with "Cum Addiction"
 Battle Use: HP Damage
+
 Accompanied with a throat-burning heat, bitter semen is ejaculated down your throat. A choking, sticky, sour taste
 clings to the insides of your mouth.
+
 Cum-Drunk
 CP Gain: 2
 SP Gain: Mouth 1
 Requirements: Imprinted with "Cum Addiction"
 Battle Use: HP Damage
+
 What was once bitter semen has flowed down your throat so many times it has become a delicacy greater than fine
 wine to you. As it hits your stomach, your sense of reason vanishes as if drunk, thinking only of slurping down more.
 
@@ -252,57 +282,72 @@ CP Gain: 1
 SP Gain: 0
 Requirements: Wearing a Skirt
 Battle Use: Waist AP Damage
+
 Either caused by your own movements or the attack of an enemy, your skirt dances around like flower petals in the
 wind, allowing a peek at what's underneath. Even if you rush to hide it the enemy and surrounding people will have
 already gotten a look.
+
 Tantalizing Curves
 CP Gain: 1
 SP Gain: Ass 1
 Requirements: None
 Battle Use: Waist AP Damage
+
 The sight of you on all fours after falling and trying to get up display the beautiful, bewitching curves of your ass. Men
 are unable to take their eyes off of it.
+
 Wedgie
 CP Gain: 1
 SP Gain: Ass or Waist 1
 Requirements: None
 Battle Use: Waist AP Damage
+
 As the result of an enemy attack or something else, the clothes on your bottom half have ridden up inbetween your
 cheeks and completely exposed your ass.
+
 Ravaged Peaches
 CP Gain: 1
 SP Gain: Ass 1
 Requirements: Not Imprinted with "Hypersensitive Ass"
 Battle Use: HP Damage
+
 Tentacles, slime, hands, or even a penis ravage the juicy meat of your ass.
+
 The Pleasure of Being Groped
 CP Gain: 2
 SP Gain: Ass 2
 Requirements: Imprinted with "Hypersensitive Ass"
 Battle Use: HP Damage
+
 Your entire ass has become an erogenous zone, and the sensation of it being stroked transforms into fierce, orgasmic
 pleasure; wilting away your will to fight.
+
 Anal Virginity
 CP Gain: 2
 SP Gain: Ass or Pain 2
 Requirements: Disposable
 Battle Use: Less than Half HP
+
 A hole not originally meant for sex has been forcibly penetrated. The pain and unexpectedness of the act drives you
 into a shameful fury.
+
 Anal Humiliation
 CP Gain: 1
 SP Gain: Ass or Pain 1
 Requirements: Having already disposed of "Anal Virginity" or are otherwise not an Anal Virgin. Not Imprinted with
 "Ass-Pussy"
 Battle Use: Less than Half HP
+
 Your anal purity has once again been stolen. It's not as surprising the first time, but the pain still remains, as well as
 the fear it'll soon turn into pleasure.
+
 A Woman's Second Pussy
 CP Gain: 2
 SP Gain: Ass 1
 Requirements: Having already disposed of "Anal Virginity" or are otherwise not an Anal Virgin. Imprinted with
 "Ass-Pussy"
 Battle Use: Less than Half HP
+
 Your anus no longer feels any pain from being penetrated. It has already become like a second pussy, lustfully
 indulging in whatever's inserted.
 
