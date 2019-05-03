@@ -1,11 +1,8 @@
 # Crisis Acts
 
 This is the list of Crisis Acts that are used by PCs to gain CP.
-You have 10 Crisis Acts. You can use up to 7 crisis acts during the session. Each Crisis Act can only be used once per
-session.
-Normally you can only use 1 Crisis Act per scene. However, during combat you can use multiple Crisis Acts. You must
-fullfil the combat requirements for the Crisis Act to use it. (Even if you qualify for the same Crisis Act multiple times in
-combat, you still can only use it once.)
+You have 10 Crisis Acts. You can use up to 7 crisis acts during the session. Each Crisis Act can only be used once per session.
+Normally you can only use 1 Crisis Act per scene. However, during combat you can use multiple Crisis Acts. You must fullfil the combat requirements for the Crisis Act to use it. (Even if you qualify for the same Crisis Act multiple times in combat, you still can only use it once.)
 PCs activate Crisis Acts to gain CP, growing stronger as they grow lewder and standing up after countless humiliations.
 Each Crisis Act lists the following
 CP Gain
