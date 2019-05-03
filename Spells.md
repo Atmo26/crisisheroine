@@ -148,12 +148,13 @@ Increase the damage of a Melee or Shooting weapon attack by +1d6. The element of
 
 Increase the damage of a Melee or Shooting weapon attack by +1d6. The element of the attack becomes Electric.
 
-Magic Rune
-Use: Auxiliary
-Class: Sorcery
-MP: 2
-Range: No
-Target: Self
+\
+**Magic Rune**
+* Use: Auxiliary
+* Class: Sorcery
+* MP: 2
+* Range: No
+* Target: Self
 
 Increase a Sorcery Attack by +1d6.
 
@@ -166,264 +167,286 @@ Increase a Sorcery Attack by +1d6.
 
 Change the target of a Sorcery from Single to Area.
 
-\
 ## Active Spells
 
-Magic impact
-Use: Active
-Class: Melee/Shooting
-MP: 2
-Range: As Appropiate
-Target: Single
+**Magic impact**
+* Use: Active
+* Class: Melee/Shooting
+* MP: 2
+* Range: As Appropiate
+* Target: Single
 
 Attack with a Melee or Shooting Weapon. The Damage is increased by +1d6.
 
 \
-Rush
-Use: Active
-Class: Melee/Shooting
-MP: 3
-Range: As Appropiate
-Target: Single
+**Rush**
+* Use: Active
+* Class: Melee/Shooting
+* MP: 3
+* Range: As Appropiate
+* Target: Single
+
 Attack with a Melee or Shooting weapon. The Damage is increased by +2d6. However, your own IV must be higher than those attacked.
 
 \
-Heavy Attack
-Use: Active
-Class: Melee
-MP: 3
-Range: No
-Target: Single
+**Heavy Attack**
+* Use: Active
+* Class: Melee
+* MP: 3
+* Range: No
+* Target: Single
 
 Attack with a melee weapon. The damage is increased by +Body. Also, this can be used to increase a roll for brute force. Add +1d6 to that roll.
 
 \
-Piercing
-Use: Active
-Class: Melee
-MP: 5
-Range: No
-Target: Single
+**Piercing**
+* Use: Active
+* Class: Melee
+* MP: 5
+* Range: No
+* Target: Single
 
 Attack with a melee weapon. This damage is increased by +IV. (Temporary increases are not included. Only permanent increases or increases from "Constant" magic are included.)
 
 \
-Mass Target
-Use: Active
-Class: Melee
-MP: 4
-Range: No
-Target: Area
+**Mass Target**
+* Use: Active
+* Class: Melee
+* MP: 4
+* Range: No
+* Target: Area
 
 Make an attack with a Melee weapon. (You can attack all targets in area.)
 
 \
-Sonic Blade
-Use: Active
-Class: Melee
-MP: 2
-Range: Yes
-Target: Single
+**Sonic Blade**
+* Use: Active
+* Class: Melee
+* MP: 2
+* Range: Yes
+* Target: Single
 
 Make an attack with a Melee weapon. (You can attack a target at range.)
 
 \
-Dead point
-Use: Active
-Class: Shooting
-MP: 3
-Range: Yes
-Target: Single
+**Dead point**
+* Use: Active
+* Class: Shooting
+* MP: 3
+* Range: Yes
+* Target: Single
 
 Attack with a shooting weapon. The damage is increased by +Intelligence.
 
 \
-Multiple Snap
-Use: Active
-Class: Shooting
-MP: Special
-Range: Yes
-Target: Special
+**Multiple Snap**
+* Use: Active
+* Class: Shooting
+* MP: Special
+* Range: Yes
+* Target: Special
 
 Perform any number of Shooting attacks. MP cost is the square of the number of attacks. (2 attacks is 4, 3 attacks is 9, 4 is 16 and so on). However, the maximum number of attacks that can be attacked is (PC's intelligence ÷ 2) times, rounded down.
 
 \
-Luminous Ray
-Use: Active
-Class: Sorcery
-MP: 3
-Range: Yes
-Target: Single
+**Luminous Ray**
+* Use: Active
+* Class: Sorcery
+* MP: 3
+* Range: Yes
+* Target: Single
 
 Perform a Sorcery Attack. The damage is 2d6+Magic. This attack has the Light element.
 
 \
-Blaze shot
-Use: Active
-Class: Sorcery
-MP: 3
-Range: Yes
-Target: Single
+**Blaze shot**
+* Use: Active
+* Class: Sorcery
+* MP: 3
+* Range: Yes
+* Target: Single
 
 Perform a Sorcery Attack. The damage is 2d6+Magic. This attack has the Fire element.
 
 \
-Blizzard Wave
-Use: Active
-Class: Sorcery
-MP: 3
-Range: Yes
-Target: Single
+**Blizzard Wave**
+* Use: Active
+* Class: Sorcery
+* MP: 3
+* Range: Yes
+* Target: Single
 
 Perform a Sorcery Attack. The damage is 2d6+Magic. This attack has the Ice element.
 
 \
-Lightning Blast
-Use: Active
-Class: Sorcery
-MP: 3
-Range: Yes
-Target: Single
+**Lightning Blast**
+* Use: Active
+* Class: Sorcery
+* MP: 3
+* Range: Yes
+* Target: Single
 
 Perform a Sorcery Attack. The damage is 2d6+Magic. This attack has the Electric element.
 
 \
-Bright Enchantment
-Use: Active
-Class: Sorcery
-MP: 3
-Range: Yes
-Target: Single
+**Bright Enchantment**
+* Use: Active
+* Class: Sorcery
+* MP: 3
+* Range: Yes
+* Target: Single
 
 Target weapon gains a +1d6 bonus to damage rolls. This remains for the duration of the fight and can only be applied once to a single weapon. If another Enchantment is applied to the same weapon, only the newest one applies.
 
 \
-Fire Enchantment
-Use: Active
-Class: Sorcery
-MP: 3
-Range: Yes
-Target: Single
+**Fire Enchantment**
+* Use: Active
+* Class: Sorcery
+* MP: 3
+* Range: Yes
+* Target: Single
 
 Target weapon gains a +1d6 bonus to damage rolls. It also gets +5 damage to animals and plants monsters. However, it deals -5 damage to tentacle monsters. This remains for the duration of the fight and can only be applied once to a single weapon. If another Enchantment is applied to the same weapon, only the newest one applies.
 
 \
-Ice Enchant
-Use: Active
-Class: Sorcery
-MP: 3
-Range: Yes
-Target: Single
+**Ice Enchant**
+* Use: Active
+* Class: Sorcery
+* MP: 3
+* Range: Yes
+* Target: Single
 
-Target weapon gains a +1d6 bonus to damage rolls. It also gets +5 damage to slime monsters. However, it deals -5 damage to plants and animals. This remains for the duration of the fight and can only be applied once to a single weapon.
-\
-If another Enchantment is applied to the same weapon, only the newest one applies.
+Target weapon gains a +1d6 bonus to damage rolls. It also gets +5 damage to slime monsters. However, it deals -5 damage to plants and animals. This remains for the duration of the fight and can only be applied once to a single weapon. If another Enchantment is applied to the same weapon, only the newest one applies.
 
 \
-Thunder enchant
-Use: Active
-Class: Sorcery
-MP: 3
-Range: Yes
-Target: Single
-Target weapon gains a +1d6 bonus to damage rolls. It also gets +5 damage to tentacle monsters. However, it deals -5
-damage to slime monsters. This remains for the duration of the fight and can only be applied once to a single weapon.
-If another Enchantment is applied to the same weapon, only the newest one applies.
+**Thunder enchant**
+* Use: Active
+* Class: Sorcery
+* MP: 3
+* Range: Yes
+* Target: Single
+
+Target weapon gains a +1d6 bonus to damage rolls. It also gets +5 damage to tentacle monsters. However, it deals -5 damage to slime monsters. This remains for the duration of the fight and can only be applied once to a single weapon. If another Enchantment is applied to the same weapon, only the newest one applies.
 
 \
 ## Reaction Spells
 
-Guarding
-Use: Reaction
-Class: None
-MP: 3
-Range: No
-Target: Self
+**Guarding**
+* Use: Reaction
+* Class: None
+* MP: 3
+* Range: No
+* Target: Self
+
 Reduce damage by the user's Body.
-Avoid
-Use: Reaction
-Class: None
-MP: 2
-Range: No
-Target: Self
-Roll for Agility against an attack. If your Agility roll meets or exceeds the attack's result, you take no damage. Also, this
-can add +1d6 to a roll for whole body movement.
-Sway guard
-Use: Reaction
-Class: None
-MP: 3
-Range: No
-Target: Self
+
+\
+**Avoid**
+* Use: Reaction
+* Class: None
+* MP: 2
+* Range: No
+* Target: Self
+
+Roll for Agility against an attack. If your Agility roll meets or exceeds the attack's result, you take no damage. Also, this can add +1d6 to a roll for whole body movement.
+
+\
+**Sway guard**
+* Use: Reaction
+* Class: None
+* MP: 3
+* Range: No
+* Target: Self
+
 Increase Direct Attack Value by the caster's Agility/2. Round down.
-Shield
-Use: Reaction
-Class: Sorcery
-MP: 3
-Range: Yes
-Target: Single
+
+\
+**Shield**
+* Use: Reaction
+* Class: Sorcery
+* MP: 3
+* Range: Yes
+* Target: Single
+
 Reduce damage by the user's Magic.
-Barrier sphere
-Use: Reaction
-Class: Sorcery
-MP: 5
-Range: Yes
-Target: Area
+
+\
+**Barrier sphere**
+* Use: Reaction
+* Class: Sorcery
+* MP: 5
+* Range: Yes
+* Target: Area
+
 Reduce damage by the user's Magic.
 
 ## Opening Spells
 
-Top speed
-Use: Opening
-Class: None
-MP: 3
-Range: No
-Target: Self
+**Top speed**
+* Use: Opening
+* Class: None
+* MP: 3
+* Range: No
+* Target: Self
+
 Increase IV by Agility for the round.
-Dimension control
-Use: Opening
-Class: None
-MP: 6
-Range: No
-Target: Any
+
+\
+**Dimension control**
+* Use: Opening
+* Class: None
+* MP: 6
+* Range: No
+* Target: Any
+
 Increase IV by Intelligence for the round.
-Flight
-Use: Opening
-Class: None
-MP: 1
-Range: No
-Target: Self
-Magic that fly in the sky. You can disable traps during invocation.
-The effect lasts for one combat turn.
-Break trap
-Use: Opening
-Class: None
-MP: 3
-Range: Yes
-Target: Single
+
+\
+**Flight**
+* Use: Opening
+* Class: None
+* MP: 1
+* Range: No
+* Target: Self
+
+Magic that fly in the sky. You can disable traps during invocation. The effect lasts for one combat turn.
+
+\
+**Break trap**
+* Use: Opening
+* Class: None
+* MP: 3
+* Range: Yes
+* Target: Single
+
 Deal 3d6+Intelligence damage to a Persistant trap or a One Shot Trap that hasn't activated yet.
-Weak point
-Use: Opening
-Class: None
-MP: 6
-Range: Yes
-Target: Single
-This magic doesn't use a roll. It automatically resolves.
-The target's Defense is reduced by the Caster's Intelligence for the round. Defense cannot be lower than 0.
+
+**Weak point**
+* Use: Opening
+* Class: None
+* MP: 6
+* Range: Yes
+* Target: Single
+
+This magic doesn't use a roll. It automatically resolves. The target's Defense is reduced by the Caster's Intelligence for the round. Defense cannot be lower than 0.
 
 ## Just Before Spells
 
-Anti Trap
-Use: Just Before
-Class: None
-MP: 2
-Range: No
-Target: Self
+**Anti Trap**
+* Use: Just Before
+* Class: None
+* MP: 2
+* Range: No
+* Target: Self
+
 Gain + 1D6 to an avoidance roll against an activated trap.
-Guts
-Use: Just Before
-Class: Any
-MP: 3
-Range: No
-Target: Self
-Gain +1d6 bonus to any roll.
-Can only be used during combat.
+
+\
+**Guts**
+* Use: Just Before
+* Class: Any
+* MP: 3
+* Range: No
+* Target: Self
+
+Gain +1d6 bonus to any roll. Can only be used during combat.
