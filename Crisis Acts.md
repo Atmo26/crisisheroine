@@ -472,192 +472,215 @@ The feeling of eyes running along your whole body assaults you with great joy an
 
 ## General Acts
 
-Second-Hand Knowledge
-CP Gain: 1
-SP Gain: 0
-Requirements: Virgin
-Battle Use: None
-You have never experienced sex yourself, but when it comes to knowledge you've got plenty. When you hear one lewd
-thing, you imagine ten, even in the middle of a crisis.
-Soaked Through
-CP Gain: 1
-SP Gain: 0
-Requirements: None
-Battle Use: None
-Your clothes have been drenched in water or some other similar liquid, and your naked body underneath can be seen
-through the wet fabric.
-Bukkake
-CP Gain: 1
-SP Gain: 0
-Requirements: None
-Battle Use: HP Damage
+**Second-Hand Knowledge**
+* CP Gain: 1
+* SP Gain: 0
+* Requirements: Virgin
+* Battle Use: None
+
+You have never experienced sex yourself, but when it comes to knowledge you've got plenty. When you hear one lewd thing, you imagine ten, even in the middle of a crisis.
+
+**Soaked Through**
+* CP Gain: 1
+* SP Gain: 0
+* Requirements: None
+* Battle Use: None
+
+Your clothes have been drenched in water or some other similar liquid, and your naked body underneath can be seen through the wet fabric.
+
+**Bukkake**
+* CP Gain: 1
+* SP Gain: 0
+* Requirements: None
+* Battle Use: HP Damage
+
 Your lovely skin has been coated in cum as if it were a lewd coating of makeup.
-Dirty Glasses
-CP Gain: 1
-SP Gain: 0
-Requirements: None
-Battle Use: HP Damage
-You wear glasses, and they have been coated in cum. This is meant for characters who need actual glasses, fake frames
-won't qualify you without the GM's permission.
-Clinging Substance
-CP Gain: 1
-SP Gain: 0
-Requirements: None
-Battle Use: AP or HP Damage
-Slime that melts clothes, bugs that drink women's juices, giant sex toys; some manner of strange creature or substance
-assaults you, bringing fear, shame, and an obscene pleasure.
-Screaming For Mercy
-CP Gain: 2
-SP Gain: 0
-Requirements: Imprinted with "Fear of Sex"
-Battle Use: HP Damage
-Your heart has been engraved with a deep fear of men and sex. Even if you are normally strong-willed, when an enemy
-comes at you with the intent of dirtying your body you cannot hide your fear. Assuming your own defeat is inevitable,
-you scream and beg for mercy.
-No Panties
-CP Gain: 1
-SP Gain: 0
-Requirements: Wearing a Skirt
-Battle Use: Waist AP Damage
-A light attack at your waist area has torn your panties, and their shredded remains slip down off your legs and to the
-ground below. Nothing is left to hide your dignity now, and any harsh movement will show off what's under your skirt.
-Unrefined Skills
-CP Gain: 1
-SP Gain: 0
-Requirements: Not Imprinted with "Sexual Training"
-Battle Use: None
-You have not yet reached a high level of sexual skill quite yet. However, even unskilled it's still possible to please your
-partner by chance. That unrefinedness of yours has attracted the attention of those who wish to corrupt you.
-Carnal Expert
-CP Gain: 2
-SP Gain: 0
-Requirements: Imprinted with "Sexual Training"
-Battle Use: None
-Having fought countless battles with demons, and having your body toyed with countless times, you have discovered
-the secrets to and joy of giving others pleasure. Your sexual skills have sharpened to the point where it comes as
-naturally as breathing.
+
+**Dirty Glasses**
+* CP Gain: 1
+* SP Gain: 0
+* Requirements: None
+* Battle Use: HP Damage
+
+You wear glasses, and they have been coated in cum. This is meant for characters who need actual glasses, fake frames won't qualify you without the GM's permission.
+
+**Clinging Substance**
+* CP Gain: 1
+* SP Gain: 0
+* Requirements: None
+* Battle Use: AP or HP Damage
+
+Slime that melts clothes, bugs that drink women's juices, giant sex toys; some manner of strange creature or substance assaults you, bringing fear, shame, and an obscene pleasure.
+
+**Screaming For Mercy**
+* CP Gain: 2
+* SP Gain: 0
+* Requirements: Imprinted with "Fear of Sex"
+* Battle Use: HP Damage
+
+Your heart has been engraved with a deep fear of men and sex. Even if you are normally strong-willed, when an enemy comes at you with the intent of dirtying your body you cannot hide your fear. Assuming your own defeat is inevitable, you scream and beg for mercy.
+
+**No Panties**
+* CP Gain: 1
+* SP Gain: 0
+* Requirements: Wearing a Skirt
+* Battle Use: Waist AP Damage
+
+A light attack at your waist area has torn your panties, and their shredded remains slip down off your legs and to the ground below. Nothing is left to hide your dignity now, and any harsh movement will show off what's under your skirt.
+
+**Unrefined Skills**
+* CP Gain: 1
+* SP Gain: 0
+* Requirements: Not Imprinted with "Sexual Training"
+* Battle Use: None
+
+You have not yet reached a high level of sexual skill quite yet. However, even unskilled it's still possible to please your partner by chance. That unrefinedness of yours has attracted the attention of those who wish to corrupt you.
+
+**Carnal Expert**
+* CP Gain: 2
+* SP Gain: 0
+* Requirements: Imprinted with "Sexual Training"
+* Battle Use: None
+
+Having fought countless battles with demons, and having your body toyed with countless times, you have discovered the secrets to and joy of giving others pleasure. Your sexual skills have sharpened to the point where it comes as naturally as breathing.
 
 ## Pain Acts
 
-Scarlet Blood
-CP Gain: 1
-SP Gain: Pain 1
-Requirements: None
-Battle Use: AP or HP Damage
-You thought you completely avoided a fatal attack, but the blow grazed you and fresh blood runs along your skin,
-staining it red.
-Swollen Breasts
-CP Gain: 1
-SP Gain: Chest 1 or Pain 1
-Requirements: None
-Battle Use: Chest AP 0 or HP Damage
-Like the crack of a whip, your breasts are hit with a strong attack. Your breasts swell from the painful blow, looking
-like ripe, reddened fruit to onlookers.
-Swollen Ass
-CP Gain: 1
-SP Gain: Ass 1 or Pain 1
-Requirements: None
-Battle Use: Waist AP 0 or HP Damage
-An attack on your ass leaves it swollen red in pain, bringing a sense of shame to you like a child who was spanked for
-misbehaving.
-Stomach-Gouging Pain
-CP Gain: 1
-SP Gain: Pain 1
-Requirements: None
-Battle Use: HP Damage
-A violent, full-power attack slams into your stomach. Whether it leaves a bruise or a scar, the pain leaves you reeling
-and you fall to your knees.
-Cry of Anguish
-CP Gain: 1
-SP Gain: Pain 1
-Requirements: None
-Battle Use: HP Damage
-Whether it was the result of humiliation or violence, you are in agony. You scream out in anguish, but it is merely
-music to the enemy's ears.
-Submissive Incontinence
-CP Gain: 2
-SP Gain: Spirit 1 or Pain 1
-Requirements: None
-Battle Use: Less Than Half HP
-From either pain or fear, you are overcome with despair at the sight of the enemy before you, unable to beat them.
-Letting go of your urge to resist, the tension leaves your body and you wet the floor with a sign of your dejection.
-Bloodstained Vomit
-CP Gain: 1
-SP Gain: Pain 1
-Requirements: None
-Battle Use: Less Than Half HP
-A brutal attack causes you to violently vomit, showing an unsighty appearance for a holy maiden such as yourself.
-However, the fight must continue.
-Exposed Scar
-CP Gain: 2
-SP Gain: Spirit 1 or Pain 1
-Requirements: Imprinted with "Pleasure from Pain"
-Battle Use: Chest or Waist HP 0
-From the torn fabric of your clothes is the sight of scars from your previous battles along your skin. Showing off these
-scars from countless enemies is a sign of your weakness.
-Brand of the Weak
-CP Gain: 2
-SP Gain: Pain 2
-Requirements: Imprinted with "Pleasure from Pain"
-Battle Use: HP Damage
-Your enemy's strength far outmatched you. Your body has been branded with another mark of defeat. It is a mark that
-will not disappear and torment you long afterwards.
-Pain That Turns Into Pleasure
-CP Gain: 2
-SP Gain: Pain 1
-Requirements: Imprinted with "Pleasure from Pain" or "Masochistic Desire"
-Battle Use: Less Than Half HP
-Being struck by a whip or raped violently should bring you pain but instead it has become untold pleasure that
-dominates your body.
+**Scarlet Blood**
+* CP Gain: 1
+* SP Gain: Pain 1
+* Requirements: None
+* Battle Use: AP or HP Damage
+
+You thought you completely avoided a fatal attack, but the blow grazed you and fresh blood runs along your skin, staining it red.
+
+**Swollen Breasts**
+* CP Gain: 1
+* SP Gain: Chest 1 or Pain 1
+* Requirements: None
+* Battle Use: Chest AP 0 or HP Damage
+
+Like the crack of a whip, your breasts are hit with a strong attack. Your breasts swell from the painful blow, looking like ripe, reddened fruit to onlookers.
+
+**Swollen Ass**
+* CP Gain: 1
+* SP Gain: Ass 1 or Pain 1
+* Requirements: None
+* Battle Use: Waist AP 0 or HP Damage
+
+An attack on your ass leaves it swollen red in pain, bringing a sense of shame to you like a child who was spanked for misbehaving.
+
+**Stomach-Gouging Pain**
+* CP Gain: 1
+* SP Gain: Pain 1
+* Requirements: None
+* Battle Use: HP Damage
+
+A violent, full-po wer attack slams into your stomach. Whether it leaves a bruise or a scar, the pain leaves you reeling and you fall to your knees.
+
+**Cry of Anguish**
+* CP Gain: 1
+* SP Gain: Pain 1
+* Requirements: None
+* Battle Use: HP Damage
+
+Whether it was the result of humiliation or violence, you are in agony. You scream out in anguish, but it is merely music to the enemy's ears.
+
+**Submissive Incontinence**
+* CP Gain: 2
+* SP Gain: Spirit 1 or Pain 1
+* Requirements: None
+* Battle Use: Less Than Half HP
+
+From either pain or fear, you are overcome with despair at the sight of the enemy before you, unable to beat them. Letting go of your urge to resist, the tension leaves your body and you wet the floor with a sign of your dejection.
+
+**Bloodstained Vomit**
+* CP Gain: 1
+* SP Gain: Pain 1
+* Requirements: None
+* Battle Use: Less Than Half HP
+
+A brutal attack causes you to violently vomit, showing an unsighty appearance for a holy maiden such as yourself. However, the fight must continue.
+
+**Exposed Scar**
+* CP Gain: 2
+* SP Gain: Spirit 1 or Pain 1
+* Requirements: Imprinted with "Pleasure from Pain"
+* Battle Use: Chest or Waist HP 0
+
+From the torn fabric of your clothes is the sight of scars from your previous battles along your skin. Showing off these scars from countless enemies is a sign of your weakness.
+
+**Brand of the Weak**
+* CP Gain: 2
+* SP Gain: Pain 2
+* Requirements: Imprinted with "Pleasure from Pain"
+* Battle Use: HP Damage
+
+Your enemy's strength far outmatched you. Your body has been branded with another mark of defeat. It is a mark that will not disappear and torment you long afterwards.
+
+**Pain That Turns Into Pleasure**
+* CP Gain: 2
+* SP Gain: Pain 1
+* Requirements: Imprinted with "Pleasure from Pain" or "Masochistic Desire"
+* Battle Use: Less Than Half HP
+
+Being struck by a whip or raped violently should bring you pain but instead it has become untold pleasure that dominates your body.
 
 ## Status Act
 
-Masturbation
-CP Gain: 1
-SP Gain: 0
-Requirements: None
-Battle Use: When getting rid of "In Heat", "Futanari", or "Giant Boobs" Bad Status
-You are unable to resist the rising wave of pleasure. Telling yourself it's merely to rid yourself of the demon's poison,
-you immediately begin to pleasure yourself, even in the middle of battle where anyone can see you.
-Lewd Bondage
-CP Gain: 2
-SP Gain: Spirit 1
-Requirements: None
-Battle Use: Inflicted by "Bound" Bad Status
-You have been bound by a demon's trap, the bindings digging into your female parts. Placed in one of various lewd
-bondage positions, will you be able to free yourself?
-A Girl's Sperm
-CP Gain: 2
-SP Gain: Waist 2
-Requirements: None
-Battle Use: Inflicted by "Futanari" Bad Status and taking either Waist AP or HP Damage
-A demon's curse has caused you to grow a penis. Unable to resist the new stimulus and your own curiosity, you spill
-your seed and taste the pleasure of a man.
-Peeing
-CP Gain: 2
-SP Gain: Waist 1
-Requirements: None
-Battle Use: Inflicted by "Urge to Pee" Bad Status and taking either Waist AP or HP Damage
-Inflicted by a strong urge to pee by something, you are hit in the lower body and are unable to hold it in, leaking all
-over. You are consumed with shame.
-Milking
-CP Gain: 2
-SP Gain: Chest 1
-Requirements: None
-Battle Use: Inflicted by "Giant Boobs" Bad Status and taking either Chest AP or HP Damage
-Inflicted by a special poison of lust demons, your breasts have grown to a gigantic size and milk bursts forth from
-them, whether you are pregant or not.
-Forced Orgasm
-CP Gain: 2
-SP Gain: Waist 1
-Requirements: None
-Battle Use: Inflicted by "In Heat" Bad Status and taking either Waist AP or HP Damage
-A powerful aphrodiasic courses through you, robbing you of reason and melting your body in lust. Even the smallest
-amount of stimulus forces you to a shameful orgasm.
-Spawning
-CP Gain: 2
-SP Gain: Waist 1
-Requirements: None
-Battle Use: Inflicted by "Egged" Bad Status and taking either Waist AP or HP Damage
+**Masturbation**
+* CP Gain: 1
+* SP Gain: 0
+* Requirements: None
+* Battle Use: When getting rid of "In Heat", "Futanari", or "Giant Boobs" Bad Status
+
+You are unable to resist the rising wave of pleasure. Telling yourself it's merely to rid yourself of the demon's poison, you immediately begin to pleasure yourself, even in the middle of battle where anyone can see you.
+
+**Lewd Bondage**
+* CP Gain: 2
+* SP Gain: Spirit 1
+* Requirements: None
+* Battle Use: Inflicted by "Bound" Bad Status
+
+You have been bound by a demon's trap, the bindings digging into your female parts. Placed in one of various lewd bondage positions, will you be able to free yourself?
+
+**A Girl's Sperm**
+* CP Gain: 2
+* SP Gain: Waist 2
+* Requirements: None
+* Battle Use: Inflicted by "Futanari" Bad Status and taking either Waist AP or HP Damage
+
+A demon's curse has caused you to grow a penis. Unable to resist the new stimulus and your own curiosity, you spill your seed and taste the pleasure of a man.
+
+**Peeing**
+* CP Gain: 2
+* SP Gain: Waist 1
+* Requirements: None
+* Battle Use: Inflicted by "Urge to Pee" Bad Status and taking either Waist AP or HP Damage
+
+Inflicted by a strong urge to pee by something, you are hit in the lower body and are unable to hold it in, leaking all over. You are consumed with shame.
+
+**Milking**
+* CP Gain: 2
+* SP Gain: Chest 1
+* Requirements: None
+* Battle Use: Inflicted by "Giant Boobs" Bad Status and taking either Chest AP or HP Damage
+
+Inflicted by a special poison of lust demons, your breasts have grown to a gigantic size and milk bursts forth from them, whether you are pregant or not.
+
+**Forced Orgasm**
+* CP Gain: 2
+* SP Gain: Waist 1
+* Requirements: None
+* Battle Use: Inflicted by "In Heat" Bad Status and taking either Waist AP or HP Damage
+
+A powerful aphrodiasic courses through you, robbing you of reason and melting your body in lust. Even the smallest amount of stimulus forces you to a shameful orgasm.
+
+**Spawning**
+* CP Gain: 2
+* SP Gain: Waist 1
+* Requirements: None
+* Battle Use: Inflicted by "Egged" Bad Status and taking either Waist AP or HP Damage
+
 The eggs layed in side of your body warm up, take a portion of your life force, and creep out of you. A strange life rests
 inside them. Experiencing a normally impossible childbirth has left your body in shock.
