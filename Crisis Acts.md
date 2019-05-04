@@ -70,6 +70,7 @@ Each Crisis Act lists the following
 
 Your breasts are huge. They're no smaller than an American D cup or Japanese E cup. When your chest armor or clothing is removed, they instantly pop out and bounce about. Furthermore, being as big as they are they can be used for all sorts of things.
 
+\
 **Tiny Chest**
 * CP Gain: 1
 * SP Gain: 0
