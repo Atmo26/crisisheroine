@@ -22,17 +22,17 @@ Monster Classes are as follows:
 
 Pawn Class: The weakest level of monsters. Slime and Orc etc.
 \
-Rook Class： A lower level monster such as a roper or a werebeast. A strong mob that’s a step above Pawns.
+Rook Class：A lower level monster such as a roper or a werebeast. A strong mob that’s a step above Pawns.
 \
-Knight Class ： A mid class monster. Along with large monsters such as the Hydra and Alraune, demons such as succubi and incubi also begin at this level.
+Knight Class：A mid class monster. Along with large monsters such as the Hydra and Alraune, demons such as succubi and incubi also begin at this level.
 \
-Bishop Class： A high level monster such as the Flesh Torrent and Deep Slime power demons. This is a boss class monster.
+Bishop Class：A high level monster such as the Flesh Torrent and Deep Slime power demons. This is a boss class monster.
 \
-King Class ： Higher demons who strategize and manipulate humans. They lead many demons and their strength designates them as the Last Boss of the campaign.
+King Class：Higher demons who strategize and manipulate humans. They lead many demons and their strength designates them as the Last Boss of the campaign.
  
 Please choose the suitable class for the monster you’re about to make.
 \
-（You may ask "But there are no queens?" Dark Heroines are in fact the queens.）
+(You may ask "But there are no queens?" Dark Heroines are in fact the queens.)
 
 ## 2. Monster Features
 
@@ -72,14 +72,19 @@ Select Monster features from the table below. Based on the features chosen, assi
 ## 3. Determine Monster Stats
 
 In addition to the stats obtained from the features, you can allocate 2 additional stat points freely.
+\
 However, please add the stat points so there are no stats with 0. In addition the upper limit that the stats can reach for
 each class is as follows:
+\
 Pawn: 6
+\
 Rook: 8
+\
 Knight: 10
+\
 Bishop: 12
+\
 King: 14
-
 
 ## 4. Calculating battle stats
 
@@ -98,5 +103,3 @@ Please choose from the Magical Skills list.
 Pawns can have 1 skill, Rooks 3, Knights 5, Bishops 6, and Kings can have 7 skills.
 
 Your monster is now finished!
-
-
