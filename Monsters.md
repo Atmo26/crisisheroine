@@ -157,10 +157,10 @@ It’s good at melting clothes and armor but can’t reproduce on its own.
 
 \
 **Imitator**
-* Class: Pawn
-* Feature: Slime/Dark
-* Feature Special Abilities: Electric Damage Taken +5; Fire Damage Taken -5; -1 MP to darkness based skills
-* Magical Skills: 《Mimicry》：0
+* **Class**: Pawn
+* **Feature**: Slime/Dark
+* **Feature Special Abilities**: Electric Damage Taken +5; Fire Damage Taken -5; -1 MP to Darkness based skills
+* **Magical Skills**: 《Mimicry》：0
 
 |||||
 |-|-|-|-|
@@ -174,10 +174,10 @@ This amorphous monster has the ability to mimic things. From doors to furniture 
 
 \
 **Mimic**
-* Class: Rook
-* Feature: Slime/Dark/Power
-* Feature Special Abilities: Ice Damage Taken +5; Electric Damage Taken -5; -1 MP to Darkness based skills; -1 MP to Strength basd skills
-* Magical Skills: 《Human Mimicry》：0 《Power Assault》：2 《Super Strength》：2
+* **Class**: Rook
+* **Feature**: Slime/Dark/Power
+* **Feature Special Abilities**: Ice Damage Taken +5; Electric Damage Taken -5; -1 MP to Darkness based skills; -1 MP to Strength basd skills
+* **Magical Skills**: 《Human Mimicry》：0 《Power Assault》：2 《Super Strength》：2
 
 |||||
 |-|-|-|-|
@@ -190,10 +190,10 @@ This amorphous monster has the ability to mimic things. From doors to furniture 
 Monsters with relatively high intelligence that can pretend to be human and surprise the heroines. They can also turn into other objects but if you can break their entanglement, they’re not much of a threat.
 
 **Wall Gel**
-* Class: Rook
-* Feature: Slime/Power/Giant
-* Feature Special Abilities: Ice Damage Taken +5; Electric Damage Taken -5; DP+5; -1 MP to Strength based skills
-* Magical Skills: 《Armor》：0 《Armor》：0 《Defense Form》：2
+* **Class**: Rook
+* **Feature**: Slime/Power/Giant
+* **Feature Special Abilities**: Ice Damage Taken +5; Electric Damage Taken -5; DP+5; -1 MP to Strength based skills
+* **Magical Skills**: 《Armor》：0 《Armor》：0 《Defense Form》：2
 
 |||||
 |-|-|-|-|
@@ -209,10 +209,10 @@ By swelling to a large size it protects its master in accordance to the master�
 
 \
 **Mutant Gel**
-* Class: Knight
-* Feature: Slime/Power/Giant/Lewd
-* Feature Special Abilities: Ice Damage Taken +5; Electric Damage Taken -5; DP+5; -1 MP to Strength based skills; -1 MP to Aphrodisiac class skills
-* Magical Skills: 《Toughness》：0 《Super Strength》：3 《Aphrodisiac》：2 《Power Assault》：3 《Defensive Form》：3
+* **Class**: Knight
+* **Feature**: Slime/Power/Giant/Lewd
+* **Feature Special Abilities**: Ice Damage Taken +5; Electric Damage Taken -5; DP+5; -1 MP to Strength based skills; -1 MP to Aphrodisiac class skills
+* **Magical Skills**: 《Toughness》：0 《Super Strength》：3 《Aphrodisiac》：2 《Power Assault》：3 《Defensive Form》：3
 
 |||||
 |-|-|-|-|
@@ -230,10 +230,10 @@ During sexual intercourse, a part of the body is formed into a penis and which i
 
 \
 **Deep Slime**
-* Class: Bishop
-* Feature: Slime/Lewd/Giant/Earth/Water
-* Feature Special Abilities: Ice Damage Taken +5; Electric Damage Taken -5; DP+5; MP+2; -1 MP to Aphrodisiac class skills
-* Magical Skills: 《Toughness》：0 《Binding》：3 《Aphrodisiac》：2 《Mass Target》：4 《Defensive Form》：3 《Insemination》：3
+* **Class**: Bishop
+* **Feature**: Slime/Lewd/Giant/Earth/Water
+* **Feature Special Abilities**: Ice Damage Taken +5; Electric Damage Taken -5; DP+5; MP+2; -1 MP to Aphrodisiac class skills
+* **Magical Skills**: 《Toughness》：0 《Binding》：3 《Aphrodisiac》：2 《Mass Target》：4 《Defensive Form》：3 《Insemination》：3
 
 |||||
 |-|-|-|-|
@@ -261,188 +261,143 @@ While it can’t reproduce, it is imprinted with reproductive instinct. It will 
 
 ## Animal Monster
 
-**OctoDevil**
-* Class: Pawn
-* Feature: Tentacle/ Water
+**Barghest**
+* **Class**: Pawn
+* **Feature**: Beast/Fire
+* **Feature Special Abilities**: Fire Damage Taken +5; Ice Damage Taken -5; -1 MP to Fire based skills
+* **Magical Skills**: 《Flame Power》：3
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
-|Intelligence|2|Magic|4|
+|DP|17|MP|3|
+|Body|4|Agility|4|
+|Intelligence|1|Magic|3|
 |Attack Power|2D6+4|Defense|0|
 |IV|4|
 
-* Feature Special Abilities
+It is known as the hound of hell.
 \
-Electric Damage Taken +5
+It has a violent and ferocious nature and attacks with fire.
 \
-Fire Damage Taken -5
+It's generally kept as a pet for demons.
 
-* Magical Skills
 \
-《Trick Assault》：3
-
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
-\
-In relation to the Hydra mentioned later, this is a lesser monster.
-
-**OctoDevil**
-* Class: Pawn
-* Feature: Tentacle/ Water
+**Poisonique Vine**
+* **Class**: Pawn
+* **Feature**: Plant/Lewd
+* **Feature Special Abilities**: Fire Damage Taken +5; Ice Damage Taken -5; 1 MP to Aphrodisiac class skills
+* **Magical Skills**: 《Aphrodisiac》：2
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
-|Intelligence|2|Magic|4|
-|Attack Power|2D6+4|Defense|0|
-|IV|4|
+|DP|14|MP|4|
+|Body|3|Agility|2|
+|Intelligence|3|Magic|4|
+|Attack Power|2D6+3|Defense|0|
+|IV|3|
 
-* Feature Special Abilities
+A plant type monster in the shape of ivy filled with aphrodisiac poison.
 \
-Electric Damage Taken +5
-\
-Fire Damage Taken -5
+It injects poison through a needle at the tip of the ivy and sucks nutrients from prey who’ve gone into heat.
 
-* Magical Skills
 \
-《Trick Assault》：3
-
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
-\
-In relation to the Hydra mentioned later, this is a lesser monster.
-
-**OctoDevil**
-* Class: Pawn
-* Feature: Tentacle/ Water
+**Mad Ape**
+* Class: Rook
+* Feature: Beast/Beast/Power
+* Feature Special Abilities: Fire Damage Taken +5; Ice Damage Taken -5; -1 MP to Strength based skill
+* Magical Skills: 《Toughness》：0 《Super Strength》：2 《Power Assault》：2
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
-|Intelligence|2|Magic|4|
-|Attack Power|2D6+4|Defense|0|
-|IV|4|
+|DP|43|MP|4|
+|Body|7|Agility|5|
+|Intelligence|1|Magic|4|
+|Attack Power|2D6+7|Defense|2|
+|IV|5|
 
-* Feature Special Abilities
+A monkey of the demon world that is close to 2m in length. Is good at defeating opponents with its big body and strength.
 \
-Electric Damage Taken +5
-\
-Fire Damage Taken -5
+It’s in heat all year round and especially likes attacking human women.
 
-* Magical Skills
 \
-《Trick Assault》：3
-
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
-\
-In relation to the Hydra mentioned later, this is a lesser monster.
-
-**OctoDevil**
-* Class: Pawn
-* Feature: Tentacle/ Water
+**WereBeast**
+* **Class**: Rook
+* **Feature**: Beast/Technique/Wind
+* **Feature Special Abilities**: Fire Damage Taken +5; Ice Damage Taken +5; 1 MP to Agility based skills; IV+2
+* **Magical Skills**: 《Avoid》：1 《Speed Star》：0 《Demonic Beast Nail》：2
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
-|Intelligence|2|Magic|4|
-|Attack Power|2D6+4|Defense|0|
-|IV|4|
+|DP|27|MP|4|
+|Body|4|Agility|8|
+|Intelligence|1|Magic|4|
+|Attack Power|2D6+8|Defense|2|
+|IV|12|
 
-* Feature Special Abilities
+Bipedal monsters with the forms of carnivores such as tigers and wolves.
 \
-Electric Damage Taken +5
+In battle, they fight with agility and precision clawing attacks.
 \
-Fire Damage Taken -5
+They often act as subordinates of the Lycanthrope and always look for an opportunity to impregnate women.
 
-* Magical Skills
 \
-《Trick Assault》：3
-
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
-\
-In relation to the Hydra mentioned later, this is a lesser monster.
-
-**OctoDevil**
-* Class: Pawn
-* Feature: Tentacle/ Water
+**Uterus Worm**
+* Class: Rook
+* Feature: Plant/Lewd/Earth
+* Feature Special Abilities: Fire Damage Taken +5; Ice Damage Taken -5; 1 MP to Aphrodisiac skills; MP+1
+* Magical Skills: 《Grotesque Brood Parasitism》：3 《Aphrodisiac》：2 《Trick Assault》：3
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
-|Intelligence|2|Magic|4|
-|Attack Power|2D6+4|Defense|0|
-|IV|4|
+|DP|30|MP|5|
+|Body|5|Agility|2|
+|Intelligence|5|Magic|5|
+|Attack Power|2D6+5|Defense|2|
+|IV|5|
 
-* Feature Special Abilities
+A highly fertile worm that lays eggs.
 \
-Electric Damage Taken +5
-\
-Fire Damage Taken -5
+It prefers dark and humid places and likes to lay eggs in places that can replenish nutrients easily. As such, the vagina of a human female is its preferable spawning place.
 
-* Magical Skills
 \
-《Trick Assault》：3
-
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
-\
-In relation to the Hydra mentioned later, this is a lesser monster.
-
-**OctoDevil**
-* Class: Pawn
-* Feature: Tentacle/ Water
+**Mansnake**
+* **Class**: Rook
+* **Feature**: Beast/Lewd/Technique
+* **Feature Special Abilities**: Fire Damage Taken +5; Ice Damage Taken -5; -1 MP to Aphrodisiac skills; -1 MP cost to all Agility based skills
+* **Magical Skills**: 《Attacker》：0 《Demonic Beast Skill》：2 《Aphrodisiac》：2
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
+|DP|27|MP|5|
+|Body|4|Agility|7|
 |Intelligence|2|Magic|4|
-|Attack Power|2D6+4|Defense|0|
-|IV|4|
+|Attack Power|2D6+8|Defense|2|
+|IV|7|
 
-* Feature Special Abilities
+A lower class demon with 2 arms and legs and the head of a viper protected by scaly skin.
 \
-Electric Damage Taken +5
-\
-Fire Damage Taken -5
+Its poisonous fangs can produce a poison that makes women go into heat.
 
-* Magical Skills
 \
-《Trick Assault》：3
-
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
-\
-In relation to the Hydra mentioned later, this is a lesser monster.
-
-**OctoDevil**
-* Class: Pawn
-* Feature: Tentacle/ Water
+**Alraune**
+* **Class**: Knight
+* **Feature**: Plant/Lewd/Earth/Art
+* **Feature Special Abilities**: Fire Damage Taken +5; Ice Damage Taken -5; 1 MP to Aphrodisiac skills; MP+1; -1 MP to Magic based skills
+* **Magical Skills**: 《Aphrodisiac》：3 《Extend Arm》：3 《Insemination》：3 《Mass Target》：4 《Dark Barrier》：2
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
-|Intelligence|2|Magic|4|
-|Attack Power|2D6+4|Defense|0|
-|IV|4|
+|DP|55|MP|11|
+|Body|5|Agility|2|
+|Intelligence|7|Magic|8|
+|Attack Power|2D6+5|Defense|3|
+|IV|7|
 
-* Feature Special Abilities
+A plant type monster that has the upper body looks like a woman and the lower body is cupped in an ivy resembling a hand.
 \
-Electric Damage Taken +5
-\
-Fire Damage Taken -5
+The sap of the ivy can produce semen-like fluid that can impregnate humans along with being an aphrodisiac.
 
-* Magical Skills
 \
-《Trick Assault》：3
-
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
-\
-In relation to the Hydra mentioned later, this is a lesser monster.
-
 **OctoDevil**
 * Class: Pawn
 * Feature: Tentacle/ Water
