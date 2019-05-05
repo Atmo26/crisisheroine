@@ -20,15 +20,15 @@ Monsters in this game have a “Class” and “Monster Features”.Class is a r
 
 Monster Classes are as follows:
 
-Pawn Class: The weakest level of monsters. Slime and Orc etc.
+**Pawn Class**: The weakest level of monsters. Slime and Orc etc.
 \
-Rook Class：A lower level monster such as a roper or a werebeast. A strong mob that’s a step above Pawns.
+**Rook Class**: A lower level monster such as a roper or a werebeast. A strong mob that’s a step above Pawns.
 \
-Knight Class：A mid class monster. Along with large monsters such as the Hydra and Alraune, demons such as succubi and incubi also begin at this level.
+**Knight Class**: A mid class monster. Along with large monsters such as the Hydra and Alraune, demons such as succubi and incubi also begin at this level.
 \
-Bishop Class：A high level monster such as the Flesh Torrent and Deep Slime power demons. This is a boss class monster.
+**Bishop Class**: A high level monster such as the Flesh Torrent and Deep Slime power demons. This is a boss class monster.
 \
-King Class：Higher demons who strategize and manipulate humans. They lead many demons and their strength designates them as the Last Boss of the campaign.
+**King Class**: Higher demons who strategize and manipulate humans. They lead many demons and their strength designates them as the Last Boss of the campaign.
  
 Please choose the suitable class for the monster you’re about to make.
 \
@@ -100,6 +100,14 @@ Please refer to the table below to calculate these stats.
 
 Please choose from the Magical Skills list.
 \
-Pawns can have 1 skill, Rooks 3, Knights 5, Bishops 6, and Kings can have 7 skills.
+Pawns: 1 skill;
+\
+Rooks: 3 skills;
+\
+Knights: 5 skills;
+\
+Bishops: 6 skills;
+\
+Kings: 7 skills.
 
 Your monster is now finished!
