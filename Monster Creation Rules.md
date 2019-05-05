@@ -43,12 +43,31 @@ Select Monster features from the table below. Based on the features chosen, assi
 * Do not acquire 2 or more separate main features
 * Do not choose the same monster feature twice. In some cases however, you can acquire up to 2 of the same monster feature as the main attribute. In this case, elemental strengths and weaknesses remain the same.
 
-| - | - | - | - | - | - |
-| - |
-| - | - | - | - | - | - |
-| - |
-| - | - | - | - | - | - |
-| - | - | - | - | - | - |
+| Monster Feature | Body | Agility | Int | Magic | Feature Special Abilities |
+| - | :-: | :-: | :-: | :-: | - |
+| **Main Features** |
+|Magic | 1 | 1 | 1 | 2 | None|
+|Tentacle | 1 | 2 | 0 | 2 | Electric Damage taken +5, Fire Damage taken -5|
+|Slime | 2 | 0 | 1 | 2 | Ice Damage taken +5, Electric Damage taken -5|
+|Beast | 2 | 2 | 0 | 1 | Fire Damage taken +5, Ice Damage taken -5|
+|Plant | 1 | 1 | 2 | 1 | Fire Damage taken +5, Ice Damage taken -5|
+| **Sub Features** |
+|Dark |0 |1 |2 |2 |-1 MP cost to all Dark based skills|
+|Fire |2 |1 |0 |2 |-1 MP cost to all Fire based skills| 
+|Ice |0 |2 |1 |2 |-1 MP cost to all Ice based skills|
+|Electric |1 |2 |1 |1 |-1 MP cost to all Electric based skills|
+|Earth |2 |0 |2 |1 |MP+1|
+|Water |1 |0 |2 |2 |MP+1|
+|Wind |1 |3 |0 |1 |IV+2|
+|Sword |2 |2 |1 |0 |Attack Power+1|
+|Steel |2 |0 |3 |0 |Defense +1|
+|Giant |3 |0 |1 |1 |DP+5|
+|Power |3 |1 |0 |1 |-1 MP cost to all Body based skills|
+|Technique |1 |3 |1 |0 |-1 MP cost to all Agility based skills|
+|Intellect |0 |0 |3 |2 |-1 MP cost to all Intelligence based skills|
+|Art |0 |0 |2 |3 |-1 MP cost to all Magic based skills|
+|Lewd |0 |1 |1 |3 |-1 MP cost to Aphrodisiac, Seven Colored Aphrodisiac, and Devilish Banquet|
+|Beauty | 0 | 2 | 2 | 1 | Obtain the Human Mimicry spell|
 
 3. Determine Monster Stats
 
