@@ -69,7 +69,7 @@ Select Monster features from the table below. Based on the features chosen, assi
 |Lewd |0 |1 |1 |3 |-1 MP cost to Aphrodisiac, Seven Colored Aphrodisiac, and Devilish Banquet|
 |Beauty | 0 | 2 | 2 | 1 | Obtain the Human Mimicry spell|
 
-3. Determine Monster Stats
+## 3. Determine Monster Stats
 
 In addition to the stats obtained from the features, you can allocate 2 additional stat points freely.
 However, please add the stat points so there are no stats with 0. In addition the upper limit that the stats can reach for
@@ -81,14 +81,17 @@ Bishop: 12
 King: 14
 
 
-4. Calculating battle stats
+## 4. Calculating battle stats
 
 Please refer to the table below to calculate these stats.
 
-| - |
-| - |
+| - | Pawn | Rook | Knight | Bishop | King |
+|-|-|-|-|-|-|
+|DP |Body X 3 + 5 |Body X 3 + 15 |Body X 3 + 40 |Body X 3 + 70 |Body X 3 + 100
+|MP |Intelligence or Magic |Intelligence or Magic |(Intelligence or Magic)+2 |(Intelligence or Magic)+4 |(Intelligence or Magic)+6
+|Defense |0 |2 |4| 5| 6|
 
-5. Choose Skills
+## 5. Choose Skills
 
 Please choose from the Magical Skills list.
 \
