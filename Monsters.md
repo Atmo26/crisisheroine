@@ -25,8 +25,10 @@ There are rules for creating monsters in another section.
 ## Tentacle Group Monsters
 
 **OctoDevil**
-* Class: Pawn
-* Feature: Tentacle/Water
+* **Class**: Pawn
+* **Feature**: Tentacle/Water
+* **Feature Special Abilities**: Electric Damage Taken +5; Fire Damage Taken -5
+* **Magical Skills**: 《Trick Assault》：3
 
 |||||
 |-|-|-|-|
@@ -36,24 +38,15 @@ There are rules for creating monsters in another section.
 |Attack Power|2D6+4|Defense|0|
 |IV|4|
 
-* Feature Special Abilities
-
-Electric Damage Taken +5
-\
-Fire Damage Taken -5
-
-* Magical Skills
-
-《Trick Assault》：3
-
 A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
 \
 In relation to the Hydra mentioned later, this is a lesser monster.
 
-
 **Roper**
-* Class: Pawn
-* Feature: Tentacle/Power
+* **Class**: Pawn
+* **Feature**: Tentacle/Power
+* **Feature Special Abilities**: Electric Damage Taken +5; Fire Damage Taken -5
+* **Magical Skills**: 《Super Strength》：3
 
 |||||
 |-|-|-|-|
@@ -62,16 +55,6 @@ In relation to the Hydra mentioned later, this is a lesser monster.
 |Intelligence|1|Magic|3|
 |Attack Power|2D6+5|Defense|0|
 |IV|3|
-
-* Feature Special Abilities
-
-Electric Damage Taken +5
-\
-Fire Damage Taken -5
-
-* Magical Skills
-
-《Super Strength》：3
 
 An organism that’s a crawling meat mass with countless tentacles.
 \
@@ -160,7 +143,7 @@ DP+5
 MP+1
 
 * Magical Skills
-\
+
 《Toughness》：0 《Extend Arm》：3 《Multi Attack》：Special 《Binding》：3 《Super Strength》：3
 
 With a myriad of tentacles it can attack 3 times in one breath. A monster that resembles a giant sea anemone. It has low intelligence but is fairly powerful, to a fledgling heroine it’s a strong enemy. Also, the tips of its tentacles resemble a penis and can inject a liquid similar to semen.
@@ -168,6 +151,8 @@ With a myriad of tentacles it can attack 3 times in one breath. A monster that r
 **Flesh Torrent**
 * Class: Bishop
 * Feature: Tentacle/Giant/Power/Earth/Tentacle
+* Feature Special Abilities: Electric Damage Taken +5; Fire Damage Taken -5; DP+5; -1 MP to Body based skills; MP+1
+* Magical Skills: 《Toughness》：0  《Extend Arm》：3 《Multi Attack》：Special 《Attacker》：0 《Super Strength》：3 《Binding》：3
 
 |||||
 |-|-|-|-|
@@ -177,51 +162,33 @@ With a myriad of tentacles it can attack 3 times in one breath. A monster that r
 |Attack Power|2D6+13|Defense|5|
 |IV|5|
 
-* Feature Special Abilities
-
-Electric Damage Taken +5
-\
-Fire Damage Taken -5
-\
-DP+5
-\
--1 MP to Body based skills
-\
-MP+1
-
-* Magical Skills
-
-《Toughness》：0  《Extend Arm》：3 《Multi Attack》：Special 《Attacker》：0 《Super Strength》：3 《Binding》：3
-
 It is as if a meat pillar resembling a towering tree grew out countless tentacles like branches. A lump of strange wriggling meaty tentacles.
 
 ## Slime Monsters
 
-**OctoDevil**
+**Slime**
 * Class: Pawn
-* Feature: Tentacle/ Water
+* Feature: Slime/Power
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
-|Intelligence|2|Magic|4|
-|Attack Power|2D6+4|Defense|0|
-|IV|4|
+|DP|23|MP|4|
+|Body|6|Agility|1|
+|Intelligence|1|Magic|4|
+|Attack Power|2D6+6|Defense|0|
+|IV|1|
 
 * Feature Special Abilities
-\
-Electric Damage Taken +5
-\
-Fire Damage Taken -5
+
+Electric Damage Taken +5; Fire Damage Taken -5; -1 MP to strength based skills
 
 * Magical Skills
-\
-《Trick Assault》：3
 
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
+《Defensive Form》：2
+
+A gel organism whose entire body is made of mucus. It has no intelligence, and merely acts according to its magic programming, like a robot.
 \
-In relation to the Hydra mentioned later, this is a lesser monster.
+It’s good at melting clothes and armor but can’t reproduce on its own.
 
 **OctoDevil**
 * Class: Pawn
