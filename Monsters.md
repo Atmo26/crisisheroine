@@ -33,11 +33,13 @@ There are rules for creating monsters in another section.
 |IV|4|
 
 * Feature Special Abilities
+\
 Electric Damage Taken +5
 \
 Fire Damage Taken -5
 
 * Magical Skills
+\
 《Trick Assault》：3
 
 A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
