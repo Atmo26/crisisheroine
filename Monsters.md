@@ -2,25 +2,29 @@
 
 Here is the data for established monsters. Monsters are divided according to rank, from weak mobs to hard to handle scenario bosses.
 
-Class Outlines
-* Pawn: The lowest level monster. As long as they aren’t a horde, even a level one heroine can deal with them quickly.
-* Rook: A low level monster. It’s a strong mob, but even a level one heroine can defeat them.
-* Knight: A mid level monster. Its strength is nearly equal to a level two or three heroine.
-* Bishop: A High level monster. It has enough strength to beat heroines level three or higher.
+*Class Outlines*
+\
+**Pawn**: The lowest level monster. As long as they aren’t a horde, even a level one heroine can deal with them quickly.
+\
+**Rook**: A low level monster. It’s a strong mob, but even a level one heroine can defeat them.
+\
+**Knight**: A mid level monster. Its strength is nearly equal to a level two or three heroine.
+\
+**Bishop**: A High level monster. It has enough strength to beat heroines level three or higher.
 
 There are rules for creating monsters in another section.
 
 ## Contents
 
-[Tentacle Group Monsters]()
+[Tentacle Group Monsters](https://github.com/Atmo26/crisisheroine/blob/master/Monsters.md#tentacle-group-monsters)
 
-[Slime Monsters]()
+[Slime Monsters](https://github.com/Atmo26/crisisheroine/blob/master/Monsters.md#slime-monsters)
 
-[Animal Monsters]()
+[Animal Monsters](https://github.com/Atmo26/crisisheroine/blob/master/Monsters.md#animal-monsters)
 
-[DemiHuman Monsters]()
+[DemiHuman Monsters](https://github.com/Atmo26/crisisheroine/blob/master/Monsters.md#demihuman-monsters)
 
-[Other Monsters]()
+[Other Monsters](https://github.com/Atmo26/crisisheroine/blob/master/Monsters.md#other-monsters)
 
 ## Tentacle Group Monsters
 
@@ -61,8 +65,10 @@ An organism that’s a crawling meat mass with countless tentacles.
 There are several types of tentacles with clawed tips and penis-shaped tips that the organism knows how to use.
 
 **Tentacle Ball**
-* Class: Rook
-* Feature: Tentacle/Wind/Technique
+* **Class**: Rook
+* **Feature**: Tentacle/Wind/Technique
+* **Feature Special Abilities**: Electric Damage Taken +5; Fire Damage Taken -5; IV+2; -1 MP to Agility based skills
+* **Magical Skills**: 《Binding》：4 《Trick Assault》：3 《Extend Arm》：3
 
 |||||
 |-|-|-|-|
@@ -72,25 +78,13 @@ There are several types of tentacles with clawed tips and penis-shaped tips that
 |Attack Power|2D6+8|Defense|2|
 |IV|10|
 
-* Feature Special Abilities
-
-Electric Damage Taken +5
-\
-Fire Damage Taken -5
-\
-IV+2
-\
--1 MP to Agility based skills
-
-* Magical Skills
-
-《Binding》：4 《Trick Assault》：3 《Extend Arm》：3
-
 An ugly monster that looks like a collection of tentacles rolled up into a ball. Its tentacles are entangled with weapons and bodies.
 
 **Jelly Kraken**
-* Class: Rook
-* Feature: Tentacle/Water/Intellect
+* **Class**: Rook
+* **Feature**: Tentacle/Water/Intellect
+* **Feature Special Abilities**: Electric Damage Taken +5; Fire Damage Taken -5; MP+1; -1 MP to skills based on Magic
+* **Magical Skills**: 《Sleeper Fluid》：2 《Grotesque Brood Parasitism》：3 《Devilish Lewd Play》：2
 
 |||||
 |-|-|-|-|
@@ -100,27 +94,15 @@ An ugly monster that looks like a collection of tentacles rolled up into a ball.
 |Attack Power|2D6+6|Defense|2|
 |IV|3|
 
-* Feature Special Abilities
-
-Electric Damage Taken +5
-\
-Fire Damage Taken -5
-\
-MP+1
-\
--1 MP to skills based on Magic
-
-* Magical Skills
-
-《Sleeper Fluid》：2 《Grotesque Brood Parasitism》：3 《Devilish Lewd Play》：2
-
 A tentacle type monster with translucent flesh. It looks like a huge jellyfish about 1.5m in length. It can use its tentacles to crawl on land so it’s effectively amphibious.
 \
 The tentacles also serve as ovipositor tubes. It finds a suitable environment to hatch its eggs; a wet, warm environment full of magic-the womb of heroines. The idea that it likes to lay eggs needs to be corrected.
 
 **Hydra**
-* Class: Knight
-* Feature: Tentacle/Giant/Power/Earth
+* **Class**: Knight
+* **Feature**: Tentacle/Giant/Power/Earth
+* **Feature Special Abilities**: Electric Damage Taken +5; Fire Damage Taken -5; DP+5; -1 MP to Body based skills; MP+1
+* **Magical Skills**: 《Toughness》：0 《Extend Arm》：3 《Multi Attack》：Special 《Binding》：3 《Super Strength》：3
 
 |||||
 |-|-|-|-|
@@ -130,29 +112,13 @@ The tentacles also serve as ovipositor tubes. It finds a suitable environment to
 |Attack Power|2D6+9|Defense|4|
 |IV|3|
 
-* Feature Special Abilities
-
-Electric Damage Taken +5
-\
-Fire Damage Taken -5
-\
-DP+5
-\
--1 MP to Body based skills
-\
-MP+1
-
-* Magical Skills
-
-《Toughness》：0 《Extend Arm》：3 《Multi Attack》：Special 《Binding》：3 《Super Strength》：3
-
 With a myriad of tentacles it can attack 3 times in one breath. A monster that resembles a giant sea anemone. It has low intelligence but is fairly powerful, to a fledgling heroine it’s a strong enemy. Also, the tips of its tentacles resemble a penis and can inject a liquid similar to semen.
 
 **Flesh Torrent**
-* Class: Bishop
-* Feature: Tentacle/Giant/Power/Earth/Tentacle
-* Feature Special Abilities: Electric Damage Taken +5; Fire Damage Taken -5; DP+5; -1 MP to Body based skills; MP+1
-* Magical Skills: 《Toughness》：0  《Extend Arm》：3 《Multi Attack》：Special 《Attacker》：0 《Super Strength》：3 《Binding》：3
+* **Class**: Bishop
+* **Feature**: Tentacle/Giant/Power/Earth/Tentacle
+* **Feature Special Abilities**: Electric Damage Taken +5; Fire Damage Taken -5; DP+5; -1 MP to Body based skills; MP+1
+* **Magical Skills**: 《Toughness》：0  《Extend Arm》：3 《Multi Attack》：Special 《Attacker》：0 《Super Strength》：3 《Binding》：3
 
 |||||
 |-|-|-|-|
@@ -167,8 +133,10 @@ It is as if a meat pillar resembling a towering tree grew out countless tentacle
 ## Slime Monsters
 
 **Slime**
-* Class: Pawn
-* Feature: Slime/Power
+* **Class**: Pawn
+* **Feature**: Slime/Power
+* **Feature Special Abilities**: Electric Damage Taken +5; Fire Damage Taken -5; -1 MP to strength based skills
+* **Magical Skills**: 《Defensive Form》：2
 
 |||||
 |-|-|-|-|
@@ -177,14 +145,6 @@ It is as if a meat pillar resembling a towering tree grew out countless tentacle
 |Intelligence|1|Magic|4|
 |Attack Power|2D6+6|Defense|0|
 |IV|1|
-
-* Feature Special Abilities
-
-Electric Damage Taken +5; Fire Damage Taken -5; -1 MP to strength based skills
-
-* Magical Skills
-
-《Defensive Form》：2
 
 A gel organism whose entire body is made of mucus. It has no intelligence, and merely acts according to its magic programming, like a robot.
 \
