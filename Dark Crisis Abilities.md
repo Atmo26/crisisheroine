@@ -60,6 +60,7 @@ When dealing damage on the following attack, double AP damage.
 * Target: Self
 
 Declare use immediately before roll. It can be used only when a heroine friend or a lover is in front of you.
+\
 Only once, you can attack the Corps leader or a subordonate representing it. In this case, double damage. Also, if you defeat the target of this attack, you go back from being a dark heroine to a normal heroine, regardless of the result of the Life or Death roll.
 
 \
@@ -71,8 +72,13 @@ Only once, you can attack the Corps leader or a subordonate representing it. In 
 * Target: Single
 
 Declare at round start. You birth a monster baby or egg that quickly grows to act in combat. The crisis point cost of the ability is based on the class of monster being born.
+\
 Pawn: 1
+\
 Rook: 2
+\
 Knight: 4
+\
 Bishop: 6
+\
 Born monsters will be able to act from that turn, but will disappear at the end of the session.
