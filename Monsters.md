@@ -46,6 +46,7 @@ A being similar to a red and black octopus. Moves using its tentacles, can do ma
 \
 In relation to the Hydra mentioned later, this is a lesser monster.
 
+\
 **Roper**
 * **Class**: Pawn
 * **Feature**: Tentacle/Power
@@ -64,6 +65,7 @@ An organism that’s a crawling meat mass with countless tentacles.
 \
 There are several types of tentacles with clawed tips and penis-shaped tips that the organism knows how to use.
 
+\
 **Tentacle Ball**
 * **Class**: Rook
 * **Feature**: Tentacle/Wind/Technique
@@ -80,6 +82,7 @@ There are several types of tentacles with clawed tips and penis-shaped tips that
 
 An ugly monster that looks like a collection of tentacles rolled up into a ball. Its tentacles are entangled with weapons and bodies.
 
+\
 **Jelly Kraken**
 * **Class**: Rook
 * **Feature**: Tentacle/Water/Intellect
@@ -98,6 +101,7 @@ A tentacle type monster with translucent flesh. It looks like a huge jellyfish a
 \
 The tentacles also serve as ovipositor tubes. It finds a suitable environment to hatch its eggs; a wet, warm environment full of magic-the womb of heroines. The idea that it likes to lay eggs needs to be corrected.
 
+\
 **Hydra**
 * **Class**: Knight
 * **Feature**: Tentacle/Giant/Power/Earth
@@ -114,6 +118,7 @@ The tentacles also serve as ovipositor tubes. It finds a suitable environment to
 
 With a myriad of tentacles it can attack 3 times in one breath. A monster that resembles a giant sea anemone. It has low intelligence but is fairly powerful, to a fledgling heroine it’s a strong enemy. Also, the tips of its tentacles resemble a penis and can inject a liquid similar to semen.
 
+\
 **Flesh Torrent**
 * **Class**: Bishop
 * **Feature**: Tentacle/Giant/Power/Earth/Tentacle
@@ -150,135 +155,111 @@ A gel organism whose entire body is made of mucus. It has no intelligence, and m
 \
 It’s good at melting clothes and armor but can’t reproduce on its own.
 
-**OctoDevil**
+\
+**Imitator**
 * Class: Pawn
-* Feature: Tentacle/ Water
+* Feature: Slime/Dark
+* Feature Special Abilities: Electric Damage Taken +5; Fire Damage Taken -5; -1 MP to darkness based skills
+* Magical Skills: 《Mimicry》：0
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
-|Intelligence|2|Magic|4|
-|Attack Power|2D6+4|Defense|0|
-|IV|4|
+|DP|11|MP|6|
+|Body|2|Agility|1|
+|Intelligence|3|Magic|6|
+|Attack Power|2D6+2|Defense|0|
+|IV|3|
 
-* Feature Special Abilities
-\
-Electric Damage Taken +5
-\
-Fire Damage Taken -5
+This amorphous monster has the ability to mimic things. From doors to furniture to vending machines and cars, it can transform into various goods and attacks victims when they unknowingly come close.
 
-* Magical Skills
 \
-《Trick Assault》：3
-
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
-\
-In relation to the Hydra mentioned later, this is a lesser monster.
-
-**OctoDevil**
-* Class: Pawn
-* Feature: Tentacle/ Water
+**Mimic**
+* Class: Rook
+* Feature: Slime/Dark/Power
+* Feature Special Abilities: Ice Damage Taken +5; Electric Damage Taken -5; -1 MP to Darkness based skills; -1 MP to Strength basd skills
+* Magical Skills: 《Human Mimicry》：0 《Power Assault》：2 《Super Strength》：2
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
-|Intelligence|2|Magic|4|
-|Attack Power|2D6+4|Defense|0|
-|IV|4|
+|DP|33|MP|6|
+|Body|6|Agility|2|
+|Intelligence|3|Magic|6|
+|Attack Power|2D6+6|Defense|2|
+|IV|3|
 
-* Feature Special Abilities
-\
-Electric Damage Taken +5
-\
-Fire Damage Taken -5
+Monsters with relatively high intelligence that can pretend to be human and surprise the heroines. They can also turn into other objects but if you can break their entanglement, they’re not much of a threat.
 
-* Magical Skills
-\
-《Trick Assault》：3
-
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
-\
-In relation to the Hydra mentioned later, this is a lesser monster.
-
-**OctoDevil**
-* Class: Pawn
-* Feature: Tentacle/ Water
+**Wall Gel**
+* Class: Rook
+* Feature: Slime/Power/Giant
+* Feature Special Abilities: Ice Damage Taken +5; Electric Damage Taken -5; DP+5; -1 MP to Strength based skills
+* Magical Skills: 《Armor》：0 《Armor》：0 《Defense Form》：2
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
-|Intelligence|2|Magic|4|
-|Attack Power|2D6+4|Defense|0|
-|IV|4|
+|DP|44|MP|6|
+|Body|8|Agility|1|
+|Intelligence|2|Magic|6|
+|Attack Power|2D6+8|Defense|4|
+|IV|2|
 
-* Feature Special Abilities
+A living wall cherished by demons. Its defensive power is well known.
 \
-Electric Damage Taken +5
-\
-Fire Damage Taken -5
+By swelling to a large size it protects its master in accordance to the master’s order.
 
-* Magical Skills
 \
-《Trick Assault》：3
-
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
-\
-In relation to the Hydra mentioned later, this is a lesser monster.
-
-**OctoDevil**
-* Class: Pawn
-* Feature: Tentacle/ Water
+**Mutant Gel**
+* Class: Knight
+* Feature: Slime/Power/Giant/Lewd
+* Feature Special Abilities: Ice Damage Taken +5; Electric Damage Taken -5; DP+5; -1 MP to Strength based skills; -1 MP to Aphrodisiac class skills
+* Magical Skills: 《Toughness》：0 《Super Strength》：3 《Aphrodisiac》：2 《Power Assault》：3 《Defensive Form》：3
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
-|Intelligence|2|Magic|4|
-|Attack Power|2D6+4|Defense|0|
-|IV|4|
+|DP|82|MP|9|
+|Body|10|Agility|2|
+|Intelligence|3|Magic|7|
+|Attack Power|2D6+10|Defense|4|
+|IV|3|
 
-* Feature Special Abilities
+A slime with seminal vesicles in its body, a fertile slime. Both in body and ability it’s big and stubborn.
 \
-Electric Damage Taken +5
+While it only moves according to its appetite and libido, it can’t disobey its magical programming given to it by an upper demon.
 \
-Fire Damage Taken -5
+During sexual intercourse, a part of the body is formed into a penis and which it uses to screw the women.
 
-* Magical Skills
 \
-《Trick Assault》：3
-
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
-\
-In relation to the Hydra mentioned later, this is a lesser monster.
-
-**OctoDevil**
-* Class: Pawn
-* Feature: Tentacle/ Water
+**Deep Slime**
+* Class: Bishop
+* Feature: Slime/Lewd/Giant/Earth/Water
+* Feature Special Abilities: Ice Damage Taken +5; Electric Damage Taken -5; DP+5; MP+2; -1 MP to Aphrodisiac class skills
+* Magical Skills: 《Toughness》：0 《Binding》：3 《Aphrodisiac》：2 《Mass Target》：4 《Defensive Form》：3 《Insemination》：3
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
-|Intelligence|2|Magic|4|
-|Attack Power|2D6+4|Defense|0|
-|IV|4|
+|DP|112|MP|15|
+|Body|10|Agility|1|
+|Intelligence|7|Magic|9|
+|Attack Power|2D6+10|Defense|5|
+|IV|7|
 
-* Feature Special Abilities
+A slime variant that was changed into a demon.
 \
-Electric Damage Taken +5
+The body is big enough to envelope several people.
 \
-Fire Damage Taken -5
+Making use of it body it sticks to blind spots such as the sealing, and falls onto its opponent, striking it.
+\
+Although it has no intelligence it can create things such as a mouth by the nucleus and create noises such as groaning.
+\
+As a result of combining various demonic elements, this slime species boasts extraordinary magical power.
+\
+Although its life force is not much, it has a strong survival instinct.
+\
+When its in a pinch, it’ll try to absorb allies to heal itself.
+\
+While it can’t reproduce, it is imprinted with reproductive instinct. It will capture an opponent within its body and have sexual intercourse and will penetrate all the woman’s holes, breaking the mind of ordinary women.
 
-* Magical Skills
-\
-《Trick Assault》：3
-
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
-\
-In relation to the Hydra mentioned later, this is a lesser monster.
+## Animal Monster
 
 **OctoDevil**
 * Class: Pawn
