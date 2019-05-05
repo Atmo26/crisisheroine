@@ -16,31 +16,39 @@ Monsters in this game have a “Class” and “Monster Features”.Class is a r
 
 [5. Choose Skills]()
 
-1. Determine the class
+## 1. Determine the class
+
 Monster Classes are as follows:
+
 Pawn Class: The weakest level of monsters. Slime and Orc etc.
+\
 Rook Class： A lower level monster such as a roper or a werebeast. A strong mob that’s a step above Pawns.
-Knight Class ： A mid class monster. Along with large monsters such as the Hydra and Alraune, demons such as
-succubi and incubi also begin at this level.
-Bishop Class： A high level monster such as the Flesh Torrent and Deep Slime power demons. This is a boss class
-monster.
-King Class ： Higher demons who strategize and manipulate humans. They lead many demons and their strength
-designates them as the Last Boss of the campaign.
+\
+Knight Class ： A mid class monster. Along with large monsters such as the Hydra and Alraune, demons such as succubi and incubi also begin at this level.
+\
+Bishop Class： A high level monster such as the Flesh Torrent and Deep Slime power demons. This is a boss class monster.
+\
+King Class ： Higher demons who strategize and manipulate humans. They lead many demons and their strength designates them as the Last Boss of the campaign.
+ 
 Please choose the suitable class for the monster you’re about to make.
+\
 （You may ask "But there are no queens?" Dark Heroines are in fact the queens.）
 
-2. Monster Features
-Select Monster features from the table below. Based on the features chosen, assign stats and special abilities. Please
-follow these rules when choosing features:
-Pawn can choose 2 features, Rooks 3, Knights 4, Bishops and Kings can choose 5.
-The Monster Features are divided into a main and sub feature. You must acquire one main feature.
-Do not acquire 2 or more separate main features
-Do not choose the same monster feature twice. In some cases however, you can acquire up to 2 of the same
-monster feature as the main attribute. In this case, elemental strengths and weaknesses remain the same.
+## 2. Monster Features
 
-| - |
-| - |
+Select Monster features from the table below. Based on the features chosen, assign stats and special abilities. Please follow these rules when choosing features:
 
+* Pawn can choose 2 features, Rooks 3, Knights 4, Bishops and Kings can choose 5.
+* The Monster Features are divided into a main and sub feature. You must acquire one main feature.
+* Do not acquire 2 or more separate main features
+* Do not choose the same monster feature twice. In some cases however, you can acquire up to 2 of the same monster feature as the main attribute. In this case, elemental strengths and weaknesses remain the same.
+
+| - | - | - | - | - | - |
+| - |
+| - | - | - | - | - | - |
+| - |
+| - | - | - | - | - | - |
+| - | - | - | - | - | - |
 
 3. Determine Monster Stats
 
