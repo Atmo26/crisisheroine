@@ -8,37 +8,37 @@
 
 ⠀⠀⠀ [New Monster](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#new-monster)
 
-⠀⠀⠀ [Gain a Dark Heroine]()
+⠀⠀⠀ [Gain a Dark Heroine](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#gain-a-dark-heroine)
 
-⠀⠀⠀ [Improve A Leader's Ability]()
+⠀⠀⠀ [Improve A Leader's Ability](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#improve-a-leaders-ability)
 
-⠀⠀⠀ [Grant the Leader a New Monster Skill]()
+⠀⠀⠀ [Grant the Leader a New Monster Skill](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#grant-the-leader-a-new-monster-skill)
 
-⠀⠀⠀ [Promote Leader]()
+⠀⠀⠀ [Promote Leader](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#promote-leader)
 
-⠀⠀⠀ [Acquire a Trap]()
+⠀⠀⠀ [Acquire a Trap](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#acquire-a-trap)
 
-⠀⠀⠀ [Convert to Invasion Points]()
+⠀⠀⠀ [Convert to Invasion Points](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#convert-to-invasion-points)
 
-⠀⠀⠀ [Gain Facilities]()
+⠀⠀⠀ [Gain Facilities](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#gain-facilities)
 
-[Gaining Miasma and Invasion Points]()
+[Gaining Miasma and Invasion Points](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#gaining-miasma-and-invasion-points)
 
-[Maintenance and Operation of Corps]()
+[Maintenance and Operation of Corps](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#maintenance-and-operation-of-corps)
 
-[Dark Fall of the Heroine]()
+[Dark Fall of the Heroine](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#dark-fall-of-the-heroine)
 
-[End of the Demon Corps]()
+[End of the Demon Corps](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#end-of-the-demon-corps)
 
-[Return of the Dark Heroine]()
+[Return of the Dark Heroine](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#return-of-the-dark-heroine)
 
-⠀⠀⠀ [1. Return to be a Normal Heroine]()
+⠀⠀⠀ [1. Return to be a Normal Heroine](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#1-return-to-be-a-normal-heroine)
 
-⠀⠀⠀ [2. Serve another Demon Corps]()
+⠀⠀⠀ [2. Serve another Demon Corps](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#2-serve-another-demon-corps)
 
-⠀⠀⠀ [3. She Becomes the Leader]()
+⠀⠀⠀ [3. She Becomes the Leader](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#3-she-becomes-the-leader)
 
-⠀⠀⠀ [4. Voluntarily Leave the Game]()
+⠀⠀⠀ [4. Voluntarily Leave the Game](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#4-voluntarily-leave-the-game)
 
 
 ## Corps Creation
