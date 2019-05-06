@@ -28,16 +28,18 @@ Some things were retouched and corrected.
 ⠀⠀⠀ [Crisis Abilities](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Abilities.md)
 \
 ⠀⠀⠀ [Crisis Acts](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md)
+
+[Advancement](https://github.com/Atmo26/crisisheroine/blob/master/Advancement.md)
 \
-⠀⠀⠀ [Advancement](https://github.com/Atmo26/crisisheroine/blob/master/Advancement.md)
-
-[Imprint List](https://github.com/Atmo26/crisisheroine/blob/master/Imprint%20List.md)
-
-[Traps](https://github.com/Atmo26/crisisheroine/blob/master/Traps.md)
-
-[Monster Creation Rules](https://github.com/Atmo26/crisisheroine/blob/master/Monster%20Creation%20Rules.md)
+⠀⠀⠀ [Imprint List](https://github.com/Atmo26/crisisheroine/blob/master/Imprint%20List.md)
 
 [Monsters](https://github.com/Atmo26/crisisheroine/blob/master/Monsters.md)
+\
+⠀⠀⠀ [Monster Creation Rules](https://github.com/Atmo26/crisisheroine/blob/master/Monster%20Creation%20Rules.md)
+\
+⠀⠀⠀ [Enemy Skills](https://github.com/Atmo26/crisisheroine/blob/master/Enemy%20Skills.md)
+\
+⠀⠀⠀ [Traps](https://github.com/Atmo26/crisisheroine/blob/master/Traps.md)
 
 [Optional Rules](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md)
 \
