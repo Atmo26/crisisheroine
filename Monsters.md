@@ -302,10 +302,10 @@ It injects poison through a needle at the tip of the ivy and sucks nutrients fro
 
 \
 **Mad Ape**
-* Class: Rook
-* Feature: Beast/Beast/Power
-* Feature Special Abilities: Fire Damage Taken +5; Ice Damage Taken -5; -1 MP to Strength based skill
-* Magical Skills: 《Toughness》：0 《Super Strength》：2 《Power Assault》：2
+* **Class**: Rook
+* **Feature**: Beast/Beast/Power
+* **Feature Special Abilities**: Fire Damage Taken +5; Ice Damage Taken -5; -1 MP to Strength based skill
+* **Magical Skills**: 《Toughness》：0 《Super Strength》：2 《Power Assault》：2
 
 |||||
 |-|-|-|-|
@@ -342,10 +342,10 @@ They often act as subordinates of the Lycanthrope and always look for an opportu
 
 \
 **Uterus Worm**
-* Class: Rook
-* Feature: Plant/Lewd/Earth
-* Feature Special Abilities: Fire Damage Taken +5; Ice Damage Taken -5; 1 MP to Aphrodisiac skills; MP+1
-* Magical Skills: 《Grotesque Brood Parasitism》：3 《Aphrodisiac》：2 《Trick Assault》：3
+* **Class**: Rook
+* **Feature**: Plant/Lewd/Earth
+* **Feature Special Abilities**: Fire Damage Taken +5; Ice Damage Taken -5; 1 MP to Aphrodisiac skills; MP+1
+* **Magical Skills**: 《Grotesque Brood Parasitism》：3 《Aphrodisiac》：2 《Trick Assault》：3
 
 |||||
 |-|-|-|-|
@@ -398,184 +398,177 @@ A plant type monster that has the upper body looks like a woman and the lower bo
 The sap of the ivy can produce semen-like fluid that can impregnate humans along with being an aphrodisiac.
 
 \
-**OctoDevil**
-* Class: Pawn
-* Feature: Tentacle/ Water
+**Lycanthrope**
+* **Class**: Knight
+* **Feature**: Beast/Technique/Wind/Beauty
+* **Feature Special Abilities**: Fire Damage Taken +5; Ice Damage Taken -5; -1 MP to Agility based skills; IV+2; 《Human Mimicry》：0
+* **Magical Skills**: 《Speed Star》：0 《Mind Seeker》：0 《Avoid》：1 《Demonic Beast Nail》：3 《Multi Attack》：Special
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
-|Intelligence|2|Magic|4|
-|Attack Power|2D6+4|Defense|0|
-|IV|4|
+|DP|52|MP|7|
+|Body|4|Agility|10|
+|Intelligence|3|Magic|5|
+|Attack Power|2D6+10|Defense|4|
+|IV|14|
 
-* Feature Special Abilities
-\
-Electric Damage Taken +5
-\
-Fire Damage Taken -5
+These lower demons are cunning beast men who usually live in human society with a human appearance and like to deceive the women they declare their prey. They are the top species of were beast and in battle they not only boast a strong defense but quick continuous attacks that are so quick they can’t be seen.
 
-* Magical Skills
-\
-《Trick Assault》：3
+## DemiHuman Monsters
 
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
-\
-In relation to the Hydra mentioned later, this is a lesser monster.
-
-**OctoDevil**
-* Class: Pawn
-* Feature: Tentacle/ Water
+**Human Trash**
+* **Class**: Other
+* **Feature**: Special
+* **Feature Special Abilities**: None
+* **Magical Skills**: None
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
-|Intelligence|2|Magic|4|
-|Attack Power|2D6+4|Defense|0|
-|IV|4|
+|DP|6|MP|0|
+|Body|3|Agility|3|
+|Intelligence|1|Magic|1|
+|Attack Power|2D6+3|Defense|0|
+|IV|3|
 
-* Feature Special Abilities
+Human Beings converted to evil from madness caused by the miasma the demons release. They sometimes return to sanity if you defeat the magic causing this state.
 \
-Electric Damage Taken +5
-\
-Fire Damage Taken -5
+Human beings originally lacking morality are likely to be turned including posers, delinquents (Banbou/Nobunari), unemployed, and the lethargic. When its DP drops to 0, it’s possible to keep it stunned without killing it.
 
-* Magical Skills
 \
-《Trick Assault》：3
-
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
-\
-In relation to the Hydra mentioned later, this is a lesser monster.
-
-**OctoDevil**
-* Class: Pawn
-* Feature: Tentacle/ Water
+**Legion**
+* **Class**: Pawn
+* **Feature**: Magic/Dark
+* **Feature Special Abilities**: -1 MP to strength based skills
+* **Magical Skills**: 《Darkness Power》：3
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
-|Intelligence|2|Magic|4|
-|Attack Power|2D6+4|Defense|0|
-|IV|4|
+|DP|20|MP|3|
+|Body|5|Agility|3|
+|Intelligence|1|Magic|3|
+|Attack Power|2D6+5|Defense|0|
+|IV|3|
 
-* Feature Special Abilities
+Inferior mob of demons. As a whole, they appear to look like humans, but have gray black skin, a mouth so large it appears they ripped it open, sharp tusks, long nails, and glowing red eyes one would associate with the world “devil”.
 \
-Electric Damage Taken +5
+It can also be called a “lower Demon” but it is actually the weakest monster. Nevertheless, even these mobs are enough to threaten the safety of the public.
 \
-Fire Damage Taken -5
+If there is enough of them, even a heroine may be overwhelmed, so pay attention to them.
 
-* Magical Skills
 \
-《Trick Assault》：3
-
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
-\
-In relation to the Hydra mentioned later, this is a lesser monster.
-
-**OctoDevil**
-* Class: Pawn
-* Feature: Tentacle/ Water
+**Night Tricksters**
+* **Class**: Pawn
+* **Feature**: Magic/Technique
+* **Feature Special Abilities**: -1 MP to agility skills
+* **Magical Skills**: 《Avoid》：1
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
-|Intelligence|2|Magic|4|
-|Attack Power|2D6+4|Defense|0|
-|IV|4|
+|DP|11|MP|2|
+|Body|2|Agility|6|
+|Intelligence|2|Magic|2|
+|Attack Power|2D6+6|Defense|0|
+|IV|6|
 
-* Feature Special Abilities
+A demon that appears to be a small person.
 \
-Electric Damage Taken +5
+In spite of its appearance, it’s still a demon and they love playing with older women. Even though they are not powerful, they are still incredibly cunning.
 \
-Fire Damage Taken -5
+Because it’s a demon, even though it is so small, it is full of interest towards sex.
+\
+For self-defense or just plain mischief, they often carry around knives or other mundane weapons.
 
-* Magical Skills
 \
-《Trick Assault》：3
-
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
-\
-In relation to the Hydra mentioned later, this is a lesser monster.
-
-**OctoDevil**
-* Class: Pawn
-* Feature: Tentacle/ Water
+**Night Trickster‧Leader**
+* **Class**: Rook
+* **Feature**: Magic/Technique/Art
+* **Feature Special Abilities**: -1 MP to Agility skills; -1 to Magic based skills
+* **Magical Skills**: 《Avoid》：1 《Demonic Rune》：2 《Summon: Tentacular》：2
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
-|Intelligence|2|Magic|4|
-|Attack Power|2D6+4|Defense|0|
-|IV|4|
+|DP|21|MP|5|
+|Body|2|Agility|6|
+|Intelligence|4|Magic|5|
+|Attack Power|2D6+6|Defense|2|
+|IV|6|
 
-* Feature Special Abilities
+The leader of the Night Kids.
 \
-Electric Damage Taken +5
+Even though it’s that small, it’s still a demon, and as such the title “leader” is due to its fighting ability.
 \
-Fire Damage Taken -5
+It is both stronger and more magically inclined than the other night tricksters.
 
-* Magical Skills
 \
-《Trick Assault》：3
-
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
-\
-In relation to the Hydra mentioned later, this is a lesser monster.
-
-**OctoDevil**
-* Class: Pawn
-* Feature: Tentacle/ Water
+**Orc**
+* **Class**: Pawn
+* **Feature**: Magic/Power
+* **Feature Special Abilities**: -1 MP to Strength based skills
+* **Magical Skills**: 《Toughness》：0
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
-|Intelligence|2|Magic|4|
-|Attack Power|2D6+4|Defense|0|
-|IV|4|
+|DP|30|MP|3|
+|Body|6|Agility|2|
+|Intelligence|1|Magic|3|
+|Attack Power|2D6+6|Defense|0|
+|IV|2|
 
-* Feature Special Abilities
+A lower level monster that resembles a pig walking upright about 1.5m in length. Despite its limited strength, it loves inflicting violence on anything, regardless of strength. Every day it loots food and woman.
 \
-Electric Damage Taken +5
-\
-Fire Damage Taken -5
+Usually Orcs become subordinates of a higher demon and work together in teams. Furthermore, Orcs can only be created by breeding human women.
 
-* Magical Skills
 \
-《Trick Assault》：3
-
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
-\
-In relation to the Hydra mentioned later, this is a lesser monster.
-
-**OctoDevil**
-* Class: Pawn
-* Feature: Tentacle/ Water
+**Orc Mage**
+* **Class**: Rook
+* **Feature**: Magic/Power/Art
+* **Feature Special Abilities**: -1 MP to Strength based skills; -1 MP to Magic based skills
+* **Magical Skills**: 《Dark Barrier》：2 《Demonic Rune》：2 《Summon: Slime》：2
 
 |||||
 |-|-|-|-|
-|DP|11|MP|5|
-|Body|2|Agility|4|
-|Intelligence|2|Magic|4|
-|Attack Power|2D6+4|Defense|0|
-|IV|4|
+|DP|33|MP|6|
+|Body|6|Agility|2|
+|Intelligence|3|Magic|6|
+|Attack Power|2D6+6|Defense|2|
+|IV|3|
 
-* Feature Special Abilities
+An Orc with superior intelligence and the ability to cast magic.
 \
-Electric Damage Taken +5
-\
-Fire Damage Taken -5
+Nevertheless, it is unskilled at casting magic and rather than skillfully manipulating magic, it instead crudely casts it.
 
-* Magical Skills
 \
-《Trick Assault》：3
+**Orc Lord**
+* **Class**: Knight
+* **Feature**: Magic/Power/Giant/Magic
+* **Feature Special Abilities**: -1 MP to Strength based skills; DP+5
+* **Magical Skills**: 《Toughness》：0 《Super Strength》：2 《Power Assault》：2 《Mass Target》：4 《Defensive Form》：2
 
-A being similar to a red and black octopus. Moves using its tentacles, can do manual labor easily, and can also conduct breeding acts.
+|||||
+|-|-|-|-|
+|DP|82|MP|8|
+|Body|10|Agility|3|
+|Intelligence|3|Magic|6|
+|Attack Power|2D6+10|Defense|4|
+|IV|3|
+
+The prince of orcs. Among Orcs, the one who reigns is the most satiated and arrogant.
 \
-In relation to the Hydra mentioned later, this is a lesser monster.
+Its body fat is thick and strong enough to soften any attack and underneath that bulk is amazing muscular power.
+
+## Other Monsters
+
+**Devil’s Machine**
+* **Class**: Rook
+* **Feature**: Magic/Steel/Technique
+* **Feature Special Abilities**: Defense+2
+* **Magical Skills**: 《Avoid》：1 《Demonic Beast Nail》：2 《Trick Assault》：3
+
+|||||
+|-|-|-|-|
+|DP|27|MP|5|
+|Body|4|Agility|6|
+|Intelligence|5|Magic|2|
+|Attack Power|2D6+6|Defense|3|
+|IV|6|
+
