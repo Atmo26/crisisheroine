@@ -259,7 +259,7 @@ When its in a pinch, it’ll try to absorb allies to heal itself.
 \
 While it can’t reproduce, it is imprinted with reproductive instinct. It will capture an opponent within its body and have sexual intercourse and will penetrate all the woman’s holes, breaking the mind of ordinary women.
 
-## Animal Monster
+## Animal Monsters
 
 **Barghest**
 * **Class**: Pawn
