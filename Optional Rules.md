@@ -2,11 +2,11 @@
 
 ## Contents
 
-[Corps Creation]()
+[Corps Creation](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#corps-creation)
 
-[Miasma]()
+[Miasma](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#miasma)
 
-⠀⠀⠀ [New Monster]()
+⠀⠀⠀ [New Monster](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#new-monster)
 
 ⠀⠀⠀ [Gain a Dark Heroine]()
 
@@ -49,10 +49,10 @@ The Corps starts with Miasma equal to ((Leader's Intelligence X 10) + 20).
 
 ## Miasma
 
-Miasma can be spent in the following ways:
+Demonic "money" or resources. Miasma can be spent in the following ways:
 
 ### New Monster
-\
+
 1: Pawn
 \
 3: Rook
