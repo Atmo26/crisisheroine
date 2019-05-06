@@ -8,13 +8,13 @@ While monsters can use magic from the PCs, PC’s can’t use magical techniques
 
 ## Contents
 
-[Constant Skills]()
+[Constant Skills](https://github.com/Atmo26/crisisheroine/blob/master/Enemy%20Skills.md#constant-skills)
 
-[Auxiliary Skills]()
+[Auxiliary Skills](https://github.com/Atmo26/crisisheroine/blob/master/Enemy%20Skills.md#auxiliary-skills)
 
-[Active Skills]()
+[Active Skills](https://github.com/Atmo26/crisisheroine/blob/master/Enemy%20Skills.md#active-skills)
 
-[Reaction Skills]()
+[Reaction Skills](https://github.com/Atmo26/crisisheroine/blob/master/Enemy%20Skills.md#reaction-skills)
 
 ## Constant Skills
 
