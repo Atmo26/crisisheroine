@@ -1,5 +1,9 @@
 # Crisis Heroine
-Repository for Crisis Heroine fan-translation.
+Repository for Crisis Heroine TRPG fan-translation.
+
+**What?**
+
+Crisis Heroine is a R18 japanese tabletop RPG game where magical girls fight demons and monsters. The point of the game is for the heroines to be humiliated by their opponents.
 
 **Why?**
 
