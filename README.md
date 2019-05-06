@@ -5,6 +5,9 @@ Repository for Crisis Heroine fan-translation.
 
 The original wiki died and we needed a place to easily access the translation.
 
+Some things were retouched and corrected.
+
+## Index
 
 [World Setting](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting.md)
 
@@ -24,6 +27,20 @@ The original wiki died and we needed a place to easily access the translation.
 \
 ⠀⠀⠀ [Advancement](https://github.com/Atmo26/crisisheroine/blob/master/Advancement.md)
 
+[Imprint List](https://github.com/Atmo26/crisisheroine/blob/master/Imprint%20List.md)
 
+[Traps](https://github.com/Atmo26/crisisheroine/blob/master/Traps.md)
+
+[Monster Creation Rules](https://github.com/Atmo26/crisisheroine/blob/master/Monster%20Creation%20Rules.md)
+
+[Monsters](https://github.com/Atmo26/crisisheroine/blob/master/Monsters.md)
+
+[Optional Rules](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md)
+\
+⠀⠀⠀ [Dark Crisis Abilities](https://github.com/Atmo26/crisisheroine/blob/master/Dark%20Crisis%20Abilities.md)
+\
+⠀⠀⠀ [Dark Crisis Acts](https://github.com/Atmo26/crisisheroine/blob/master/Dark%20Crisis%20Acts.md)
+\
+⠀⠀⠀ [Facilities](https://github.com/Atmo26/crisisheroine/blob/master/Facilities.md)
 
 [Custom Rules](https://github.com/Atmo26/crisisheroine/blob/master/Custom%20Rules.md)
