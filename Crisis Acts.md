@@ -44,21 +44,14 @@ Each Crisis Act lists the following
 
 ## Contents
 
-[Chest Crisis Acts](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md#chest-crisis-acts)
-
-[Waist Acts](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md#waist-acts)
-
-[Mouth Acts](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md#mouth-acts)
-
-[Ass Acts](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md#ass-acts)
-
-[Spirit Acts](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md#spirit-acts)
-
-[General Acts](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md#general-acts)
-
-[Pain Acts](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md#pain-acts)
-
-[Status Acts](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md#status-act)
+1. [**Chest Crisis Acts**](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md#chest-crisis-acts)
+2. [**Waist Acts**](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md#waist-acts)
+3. [**Mouth Acts**](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md#mouth-acts)
+4. [**Ass Acts**](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md#ass-acts)
+5. [**Spirit Acts**](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md#spirit-acts)
+6. [**General Acts**](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md#general-acts)
+7. [**Pain Acts**](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md#pain-acts)
+8. [**Status Acts**](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md#status-act)
 
 ## Chest Crisis Acts
 
