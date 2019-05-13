@@ -32,7 +32,7 @@ Declare after any roll. The target rerolls the dice.
 Use after succeeding on a corruption roll after being defeated. You rise from the defeated state at half HP.
 
 \
-**Grand extension**
+**Grand Extension**
 * Use: Auxiliary
 * Class: Sorcery
 * CP: 3
