@@ -435,6 +435,7 @@ Magic that fly in the sky. You can disable traps during invocation. The effect l
 
 Deal 3d6+Intelligence damage to a Persistant trap or a One Shot Trap that hasn't activated yet.
 
+\
 **Weak point**
 * Use: Opening
 * Class: None
