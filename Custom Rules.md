@@ -34,19 +34,20 @@ At the end of the scene, the Player may once again declare Crisis Acts that were
 ### Scene 2 and 3
 
 Proceed in the same way as Scene 1. 
-Be sure to do 3 times the "Rebellion Check".
+\
+Be sure to do 3 times the "Rebellion Check", one for each Scene.
 
 ### Climax Battle
 
-GM explains the battle history / PL rolls against it そ れ 
-Here, we check how many times the "defense check" was successful. 
+GM explains who was behind all the lewd and/or the Player finally catches up to the monster. Time for the final battle!
+\
+Here, we check how many times the "Rebellion Check" was successful. 
 In the case of multiple PL sessions, it applies separately. 
-If Rebellion: 3 the character can act one additional turn before the start of the first turn (separate from surprises, can act faster than surprises) 
 
-
-1. If "rebellion: 2", fight as usual 
-2. If Rebellion: 1, that character can not do anything except [passive] on the first turn. 
-3. If "Rebellion: 0" that character can not participate in the battle, the session is automatically defeated. 
+1. If Rebellion = 3 the Player can act one additional turn before the start of the first turn (separate from surprises, can act faster than surprises) ;
+2. If Rebellion = 2, fight as usual;
+3. If Rebellion = 1, the Player can not do anything except [passive] on the first turn. 
+4. If Rebellion = 0, the Player can not participate in the battle, the session is automatically defeated. 
 In a multiple PL session, if there are other characters with "Dist: 1" or more, 
 Participate in the battle as Rebellion: 1, and if you are alive at the end of the session, shake only the Complete List and follow the effect. 
 
