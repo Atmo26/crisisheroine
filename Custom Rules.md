@@ -15,8 +15,6 @@
 Source: http://beemoon.x.fc2.com/HCL42.html
 
 A rule for when you want to roleplay the erotic part first and the battle later.
-\
-
 
 ### Session Flow
 
@@ -24,10 +22,9 @@ A rule for when you want to roleplay the erotic part first and the battle later.
 
 The GM explains what kind of scene is happening and the player makes a "Rebellion Check".
 
-1. For the situation presented by GM, 
-You may declare the use of crisis act. (Ignore usage restrictions. Any number is OK) 
-2. Earn an additional [CP] 1 point. 
-3. Consumption [CP] as many points as you like. (0 points are OK) 
+1. Player assess the situation and may declare the use of a Crisis Act. (Ignore usage restrictions. Any number is ok.) 
+2. Player earns a bonus 1 CP for participation.
+3. Use as many CP as you like. (0 points are OK) 
 Succeeding [1D6] by the number of units consumed, it will be successful if even one "5" or "6" comes out. 
 You can not increase this die by <potential> or reshape it by <saving grace>. 
 4. If it succeeds, record it as "rebellion: 1". 
