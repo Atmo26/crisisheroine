@@ -633,7 +633,7 @@ An attack on your ass leaves it swollen red in pain, bringing a sense of shame t
 * Requirements: None
 * Battle Use: HP Damage
 
-A violent, full-po wer attack slams into your stomach. Whether it leaves a bruise or a scar, the pain leaves you reeling and you fall to your knees.
+A violent, full-power attack slams into your stomach. Whether it leaves a bruise or a scar, the pain leaves you reeling and you fall to your knees.
 
 \
 **Cry of Anguish**
