@@ -5,17 +5,17 @@ something you can buy somewhere, and PCs that are owners of the items can not be
 
 Regarding weapons, they are broad groups. A medium weapon could be a spear or a sword or even a scythe.
 
-[Cost]............ How much Conjuration is required to be allocated to have possession of the item.
+[*Cost*]............  How much Conjuration is required to be allocated to have possession of the item.
 
-[Range] .......... Whether a weapon is ranged or not.
+[*Range*] ..........  Whether a weapon is ranged or not.
 
-[Classification].. Whether the weapon is Shooting or Melee.
+[*Classification*]..  Whether the weapon is Shooting or Melee.
 
-[Power]........... Determines the Damage Bonus when using the weapon.
+[*Power*]...........  Determines the Damage Bonus when using the weapon.
 
-[AP].............. How much [AP] is in each part of armor.
+[*AP*]..............  How much [AP] is in each part of armor.
 
-[Special effect] . It is literally a special effect. However, please be aware that the special effect of armor is lost
+[*Special Effect*] .  It is literally a special effect. However, please be aware that the special effect of armor is lost
 when AP becomes 0.
 
 | Weapon | Cost | Range | Class | Power | Special Effect |
