@@ -1,20 +1,14 @@
 # World Setting
 
-# Contents
+#### Contents
 
-[Opening](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting.md#opening)
-
-[Magic](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting.md#magic)
-
-[Cartel](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting.md#cartel)
-
-[Iron Maiden](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting.md#iron-maiden)
-
-[Twilight Star Church](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting.md#twilight-star-church)
-
-[Sakura Sentry](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting.md#sakura-sentry)
-
-[Magus](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting.md#magus)
+1. [**Opening**](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting.md#opening)
+2. [**Magic**](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting.md#magic)
+3. [**Cartel**](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting.md#cartel)
+4. [**Iron Maiden**](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting.md#iron-maiden)
+5. [**Twilight Star Church**](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting.md#twilight-star-church)
+6. [**Sakura Sentry**](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting.md#sakura-sentry)
+7. [**Magus**](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting.md#magus)
 
 ## Opening
 
