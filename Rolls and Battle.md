@@ -42,11 +42,11 @@ All Heroines can use magic. The majority of spells in the game are used in comba
 
 ## Combat
 
-Eventually you will do battle with monsters. First though, you need to decide the formation. ...That said, just decide if you're in the vanguard or the rearguard.
+Eventually you will do battle with monsters. First though, you need to decide the formation. That said, just decide if you're in the vanguard or the rearguard.
 
-Whether you are in the vanguard or the rearguard decides what attacks, spells, or traps can affect you. You can use weapons and spells with ranged regardless of what position you are in. Weapons or spells without ranged can only be used on Allies in the same position as you, or against enemies in direct opposition of you (usually the other vanguard while you are in the vanguard). An exception is if there is no-one in the vanguard. You can target the opposition's rearguard from the vanguard in this situation.
+Whether you are in the vanguard or the rearguard decides what attacks, spells, or traps can affect you. You can use weapons and spells with *Ranged* regardless of what position you are in. Weapons or spells without *Ranged* can only be used on allies in the same position as you, or against enemies in direct opposition of you (usually the other vanguard while you are in the vanguard). An exception is if there is no one in the vanguard. You can target the opposition's rearguard from the vanguard in this situation.
 
-When a pincer attack, an attack from both sides, occurs, the enclosed side instead has two vanguards. If there is no vanguard on one side, both sides of the enemies in the vanguard may attack without ranged attacks. One round of combat is treated as 1 scene. Thus, at the begining of a combat round, all participants regain all MP. Keep in mind Bad Statuses may affect this.
+When a pincer attack, an attack from both sides, occurs, the enclosed side instead has two vanguards. If there is no vanguard on one side, both sides of the enemies in the vanguard may attack without Ranged attacks. One round of combat is treated as 1 scene. Thus, at the begining of a combat round, all participants regain all MP. Keep in mind Bad Statuses may affect this.
 
 ### Combat Start
 
