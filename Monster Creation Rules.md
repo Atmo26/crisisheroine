@@ -4,17 +4,12 @@ These are the monster creation rules.
 \
 Monsters in this game have a “Class” and “Monster Features”.Class is a rough estimate on the monster’s strength and monster feature indicates where the monster leans towards in terms of ability. When creating your monster, follow the procedure below.
 
-## Contents
-
-[1. Determine the class](https://github.com/Atmo26/crisisheroine/blob/master/Monster%20Creation%20Rules.md#1-determine-the-class)
-
-[2. Monster Features](https://github.com/Atmo26/crisisheroine/blob/master/Monster%20Creation%20Rules.md#2-monster-features)
-
-[3. Determine Monster Stats](https://github.com/Atmo26/crisisheroine/blob/master/Monster%20Creation%20Rules.md#3-determine-monster-stats)
-
-[4. Calculating battle stats](https://github.com/Atmo26/crisisheroine/blob/master/Monster%20Creation%20Rules.md#4-calculating-battle-stats)
-
-[5. Choose Skills](https://github.com/Atmo26/crisisheroine/blob/master/Monster%20Creation%20Rules.md#5-choose-skills)
+### Contents
+1. [**Determine the class**](https://github.com/Atmo26/crisisheroine/blob/master/Monster%20Creation%20Rules.md#1-determine-the-class)
+2. [**Monster Features**](https://github.com/Atmo26/crisisheroine/blob/master/Monster%20Creation%20Rules.md#2-monster-features)
+3. [**Determine Monster Stats**](https://github.com/Atmo26/crisisheroine/blob/master/Monster%20Creation%20Rules.md#3-determine-monster-stats)
+4. [**Calculating battle stats**](https://github.com/Atmo26/crisisheroine/blob/master/Monster%20Creation%20Rules.md#4-calculating-battle-stats)
+5. [**Choose Skills**](https://github.com/Atmo26/crisisheroine/blob/master/Monster%20Creation%20Rules.md#5-choose-skills)
 
 ## 1. Determine the class
 
