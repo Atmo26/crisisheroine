@@ -87,6 +87,6 @@ The feature tables are described below. The PC has three features selected from 
 | 44 | Sore loser, obstinate | +1 | +2 | +1 | +0 | 
 | 45 | Moral older sister | +2 | +2 | +0 | +0 | 
 | 46 | A little selfish | +1 | +2 | +0 | +1 | 
-| 55 | Optmist | +2 | +0 | +0 | +2 | 
+| 55 | Optimist | +2 | +0 | +0 | +2 | 
 | 56 | Bright, spirited, sociable | +1 | +1 | +1 | +1 | 
 | 66 | Acts plain, but secretly a nympho | +1 | +1 | +0 | +2 | 
