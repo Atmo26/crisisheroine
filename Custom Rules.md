@@ -20,13 +20,16 @@ You're forced to take in and taste at the same time, on all fours like a dog or 
 text goes here 
 
 \
-**Partial Petrificaion**
+**Partial Petrification**
 * CP Gain: 0
 * SP Gain: Chest, Mouth, Waist or Ass 1
 * Requeriments: Attacked by any kind of enemy skill fluffed with "petrification"
 * Battle Use: Less than half HP
 
 Your arms and legs have been somehow petrified and you can't defend yourself against your enemies, only watch in horror or happines as they play with your body.
+
+\
+
 
 <hr>
 
@@ -40,7 +43,7 @@ A rule for when you want to roleplay the erotic part first and the battle later.
 
 ### Scene 1
 
-The GM explains what kind of scene is happening and the player makes a "Rebellion Check".
+The GM explains the *Situation* happening.
 
 1. Player assess the situation and may declare the use of a Crisis Act. (Ignore usage restrictions. Any number is ok.) 
 2. Player earns a bonus 1 CP for participation.
@@ -70,28 +73,28 @@ In the case of multiple Players, it applies separately for each.
 3. If Rebellion = 1, the Player can not do anything except Auxiliary actions on the first turn;
 4. If Rebellion = 0, the Player can not participate in the battle, the magical girl is automatically defeated. 
 
-In a multiple Player session, if there are other characters with Rebellion = 1 or more, one will use their Rebellion value and the others will participate in the battle as Rebellion = 1. 
+In a multiple Player session, if there are other characters with Rebellion = 1 or more, one will use their Rebellion value and the others will participate in the battle as Rebellion = 1. Treat this Player as the "protagonist of the episode".
 
 Crisis Acts can't be used during this final battle. 
 
-If you use this rule, award each surviving Player with +5 experience points.
+If you use this rule, award each surviving Player with +5 CP for Advancement.
 
 ### Scenario samples
 
-Situation "in the school erotic brainwashing" 
-Scene 1 "Brainwashing: All girls are willing to accept sexual desire processing for boys" 
-Scene 2 "Brainwashing: The Student President is a Teacher's Meat Urinal" 
-Scene 3 "Brainwashing: It's a Common Sense to Politely Politely Thank You with a Smile" 
-Climax Battle "Brainwashing is solved and fight against the demons that are the cause." 
+*Situation* "School Erotic Brainwashing" 
+*Scene 1* "Brainwashing: All girls are willing to accept sexual requests from boys" 
+*Scene 2* "Brainwashing: The Student President is a Teacher's Meat Toilet" 
+*Scene 3* "Brainwashing: It's a Common Sense to Politely Say Thank You with a Smile" 
+*Climax Battle* "Brainwashing is solved and fight against the demons that are the cause." 
 
-Situation "Restrained and dropped into a basement full of tentacles" 
-Scene 1 "A tentacle sucks around your whole body who can not resist" 
-Scene 2 "The tentacle sucks in to the breast and tries to squeeze out the milk" 
-Scene 3 "The tentacles try to lay eggs by committing your holes" 
-Climax Battle: Escape the tentacles and defeat the rogues! " 
+*Situation* "Restrained and dropped into a basement full of tentacles" 
+*Scene 1* "A tentacle sucks around your whole body and you can not resist" 
+*Scene 2* "The tentacle sucks your boobs and tries to squeeze out the milk" 
+*Scene 3* "The tentacles try to lay eggs by invading your holes" 
+*Climax Battle* "Escape the tentacles and defeat the rogue heroines!"
 
-Situation "Sneaking into the City of Crime City" 
-Scene 1 "First Time Customers and Business Sex" 
-Scene 2 "Pleasure Pole Dance in Front of Many" 
-Scene 3 "Established in the store and treated as a toilet" 
-Climax Battle "The Assassination Mission Holding the Tail of Evil" 
+*Situation* "Sneaking into the City of Crime" 
+*Scene 1* "First Time Customers and Business Sex" 
+*Scene 2* "Pleasure Pole Dance in Front of Many" 
+*Scene 3* "Established in the store and treated as a toilet"
+*Climax Battle* "Assassinate the Evil Boss!" 
