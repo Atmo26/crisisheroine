@@ -8,7 +8,7 @@
 * Requeriments: 2 or more enemies on the scene
 * Battle Use: Less than half HP, Waist AP 0
 
-
+You're forced to take in and taste at the same time, on all fours like a dog or tied belly up on a table. 
 
 ## Rebellion
 
@@ -41,15 +41,16 @@ Be sure to do 3 times the "Rebellion Check", one for each Scene.
 
 GM explains who was behind all the lewd and/or the Player finally catches up to the monster. Time for the final battle!
 \
-Here, we check how many times the "Rebellion Check" was successful. 
-In the case of multiple PL sessions, it applies separately. 
+Here, we check how many times the "Rebellion Check" was successful.
+\
+In the case of multiple Players, it applies separately for each.
 
-1. If Rebellion = 3 the Player can act one additional turn before the start of the first turn (separate from surprises, can act faster than surprises) ;
+1. If Rebellion = 3, the Player can act one additional turn before the start of the first turn (separate from surprises, can act faster than surprises);
 2. If Rebellion = 2, fight as usual;
-3. If Rebellion = 1, the Player can not do anything except [passive] on the first turn. 
-4. If Rebellion = 0, the Player can not participate in the battle, the session is automatically defeated. 
-In a multiple PL session, if there are other characters with "Dist: 1" or more, 
-Participate in the battle as Rebellion: 1, and if you are alive at the end of the session, shake only the Complete List and follow the effect. 
+3. If Rebellion = 1, the Player can not do anything except Auxiliary actions on the first turn;
+4. If Rebellion = 0, the Player can not participate in the battle, the magical girl is automatically defeated. 
+
+In a multiple PL session, if there are other characters with "Dist: 1" or more, Participate in the battle as Rebellion: 1, and if you are alive at the end of the session, shake only the Complete List and follow the effect. 
 
 ↓ 
 Combat start! Crisisact can not be used in this battle. 
