@@ -3,28 +3,24 @@
 Here is the data for established monsters. Monsters are divided according to rank, from weak mobs to hard to handle scenario bosses.
 
 *Class Outlines*
-\
+
 **Pawn**: The lowest level monster. As long as they aren’t a horde, even a level one heroine can deal with them quickly.
-\
+
 **Rook**: A low level monster. It’s a strong mob, but even a level one heroine can defeat them.
-\
+
 **Knight**: A mid level monster. Its strength is nearly equal to a level two or three heroine.
-\
+
 **Bishop**: A High level monster. It has enough strength to beat heroines level three or higher.
 
 There are rules for creating monsters in another section.
 
 ## Contents
 
-[Tentacle Group Monsters](https://github.com/Atmo26/crisisheroine/blob/master/Monsters.md#tentacle-group-monsters)
-
-[Slime Monsters](https://github.com/Atmo26/crisisheroine/blob/master/Monsters.md#slime-monsters)
-
-[Animal Monsters](https://github.com/Atmo26/crisisheroine/blob/master/Monsters.md#animal-monsters)
-
-[DemiHuman Monsters](https://github.com/Atmo26/crisisheroine/blob/master/Monsters.md#demihuman-monsters)
-
-[Other Monsters](https://github.com/Atmo26/crisisheroine/blob/master/Monsters.md#other-monsters)
+1. [**Tentacle Group Monsters**](https://github.com/Atmo26/crisisheroine/blob/master/Monsters.md#tentacle-group-monsters)
+2. [**Slime Monsters**](https://github.com/Atmo26/crisisheroine/blob/master/Monsters.md#slime-monsters)
+3. [**Animal Monsters**](https://github.com/Atmo26/crisisheroine/blob/master/Monsters.md#animal-monsters)
+4. [**DemiHuman Monsters**](https://github.com/Atmo26/crisisheroine/blob/master/Monsters.md#demihuman-monsters)
+5. [**Other Monsters**](https://github.com/Atmo26/crisisheroine/blob/master/Monsters.md#other-monsters)
 
 ## Tentacle Group Monsters
 
