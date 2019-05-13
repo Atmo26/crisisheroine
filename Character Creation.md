@@ -1,15 +1,15 @@
 # Character Creation
 
 ## Contents
-1. **Features**
-2. **Stats**
-3. **Attributes**
-4. **Magic**
-5. **Crisis Ability**
-6. **Equipment**
-7. **Derived Attributes**
-8. **Crisis Acts**
-9. **Starting Emotions**
+1. [**Features**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#1-features)
+2. [**Stats**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#2-stats)
+3. [**Attributes**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#3-attributes)
+4. [**Magic**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#4-magic)
+5. [**Crisis Ability**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#5-crisis-ability)
+6. [**Equipment**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#6-equipment)
+7. [**Derived Attributes**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#7-derived-attributes)
+8. [**Crisis Acts**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#8-crisis-acts)
+9. [**Starting Emotions**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#9-starting-emotions)
 
 ### 1. Features
 
@@ -41,21 +41,15 @@ Evocation: ability to actually use magic, extra MP.
 
 ### 4. Magic
 
-Choose 4 spells from the magic list-
-
-[Spells](https://github.com/Atmo26/crisisheroine/blob/master/Spells.md)
+Choose 4 spells from the magic list: [Spells](https://github.com/Atmo26/crisisheroine/blob/master/Spells.md)
 
 ### 5. Crisis Ability
 
-Choose 1 Crisis Ability from the list, also learn "potential" for free-
-
-[Crisis Abilities](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Abilities.md)
+Choose 1 Crisis Ability from the list, also learn *Potential* for free: [Crisis Abilities](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Abilities.md)
 
 ### 6. Equipment
 
-Use your Conjuration to select items. Note that you do not actually lose your Conjuration but use it as a maximum capacity of equipment.
-
-[Equipment](https://github.com/Atmo26/crisisheroine/blob/master/Equipment.md)
+Use your Conjuration to select items. Note that you do not actually lose your Conjuration but use it as a maximum capacity of equipment: [Equipment](https://github.com/Atmo26/crisisheroine/blob/master/Equipment.md)
 
 ### 7. Derived Attributes
 
@@ -77,13 +71,11 @@ are for Total SP. Since Corruption checks upon
 
 ### 8. Crisis Acts
 
-Choose 10 Crisis Acts from the list.
-
-[Crisis Acts](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md)
+Choose 10 Crisis Acts from the list: [Crisis Acts](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md)
 
 
 ### 9. Starting Emotions
 
-Distribute three ranks into emotions (Ideals, Affection, Hostility), having one emotion at rank 3 is fine too. Note that
-emotions also always have a specific target with differing ranks (e.g. affection 2 for a childhood friend and affection 1
-for a teammate are as valid as hostility 3 for a teammate to denote a rivalry).
+Distribute three ranks into emotions (*Ideals, Affection, Hostility*), having one emotion at rank 3 is fine. Note that
+emotions also always have a specific target with differing ranks (e.g. Affection 2 for a childhood friend and Affection 1
+for a teammate are as valid as Hostility 3 for a teammate to denote a rivalry).
