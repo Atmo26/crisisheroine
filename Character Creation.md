@@ -1,6 +1,6 @@
 # Character Creation
 
-## Contents
+### Contents
 1. [**Features**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#1-features)
 2. [**Stats**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#2-stats)
 3. [**Attributes**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#3-attributes)
@@ -63,7 +63,8 @@ begin a session with 0 and gain CP via Crisis Acts that occur upon taking damage
 \
 **SP**: Sex Points. Characters begin with 0, but as they are violated and lose their purity, this number rises to reflect their
 increasingly lewd nature. This stat is split into Chest, Waist, Ass, Mouth, Pain and Spirit. General references to "SP"
-are for Total SP. Since Corruption checks upon
+are for Total SP. Since Corruption checks upon reaching 0 HP are made vs. your total SP, greater SP results in a
+greater risk of permanently falling to darkness.
 
 ### 8. Crisis Acts
 
