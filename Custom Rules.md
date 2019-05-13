@@ -39,8 +39,6 @@ Source: http://beemoon.x.fc2.com/HCL42.html
 
 A rule for when you want to roleplay the erotic part first and the battle later. Useful for that "lewd monster of the week" games.
 
-### Session Flow
-
 ### Scene 1
 
 The GM explains the *Situation* happening.
@@ -68,10 +66,10 @@ Here, we check how many times the "Rebellion Check" was successful.
 \
 In the case of multiple Players, it applies separately for each.
 
-1. If Rebellion = 3, the Player can act one additional turn before the start of the first turn;
-2. If Rebellion = 2, fight as usual;
-3. If Rebellion = 1, the Player can not do anything except Auxiliary actions on the first turn;
-4. If Rebellion = 0, the Player can not participate in the battle, the magical girl is automatically defeated. 
+- If Rebellion = 3, the Player can act one additional turn before the start of the first turn;
+- If Rebellion = 2, fight as usual;
+- If Rebellion = 1, the Player can not do anything except Auxiliary actions on the first turn;
+- If Rebellion = 0, the Player can not participate in the battle, the magical girl is automatically defeated. 
 
 In a multiple Player session, if there are other characters with Rebellion = 1 or more, one will use their Rebellion value and the others will participate in the battle as Rebellion = 1. Treat this Player as the "protagonist of the episode".
 
@@ -82,19 +80,31 @@ If you use this rule, award each surviving Player with +5 CP for Advancement.
 ### Scenario samples
 
 *Situation* "School Erotic Brainwashing" 
+\
 *Scene 1* "Brainwashing: All girls are willing to accept sexual requests from boys" 
-*Scene 2* "Brainwashing: The Student President is a Teacher's Meat Toilet" 
+\
+*Scene 2* "Brainwashing: The Student Council President is a Teacher's Meat Toilet" 
+\
 *Scene 3* "Brainwashing: It's a Common Sense to Politely Say Thank You with a Smile" 
+\
 *Climax Battle* "Brainwashing is solved and fight against the demons that are the cause." 
 
 *Situation* "Restrained and dropped into a basement full of tentacles" 
+\
 *Scene 1* "A tentacle sucks around your whole body and you can not resist" 
+\
 *Scene 2* "The tentacle sucks your boobs and tries to squeeze out the milk" 
+\
 *Scene 3* "The tentacles try to lay eggs by invading your holes" 
+\
 *Climax Battle* "Escape the tentacles and defeat the rogue heroines!"
 
 *Situation* "Sneaking into the City of Crime" 
+\
 *Scene 1* "First Time Customers and Business Sex" 
+\
 *Scene 2* "Pleasure Pole Dance in Front of Many" 
+\
 *Scene 3* "Established in the store and treated as a toilet"
+\
 *Climax Battle* "Assassinate the Evil Boss!" 
