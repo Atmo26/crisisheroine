@@ -1,6 +1,6 @@
 # Optional Rules
 
-## Contents
+### Contents
 
 1. [**Corps Creation**](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#corps-creation)
 2. [**Miasma**](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#miasma)
@@ -20,7 +20,6 @@
 ⠀⠀⠀ [Convert to Invasion Points](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#convert-to-invasion-points)
 \
 ⠀⠀⠀ [Gain Facilities](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#gain-facilities)
-\
 3. [**Gaining Miasma and Invasion Points**](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#gaining-miasma-and-invasion-points)
 4. [**Maintenance and Operation of Corps**](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#maintenance-and-operation-of-corps)
 5. [**Dark Fall of the Heroine**](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#dark-fall-of-the-heroine)
