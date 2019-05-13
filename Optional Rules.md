@@ -1,7 +1,7 @@
 # Optional Rules
 
 ### Contents
-
+\
 1. [**Corps Creation**](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#corps-creation)
 2. [**Miasma**](https://github.com/Atmo26/crisisheroine/blob/master/Optional%20Rules.md#miasma)
 \
