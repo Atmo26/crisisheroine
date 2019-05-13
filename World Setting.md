@@ -1,7 +1,7 @@
 # World Setting
 
-#### Contents
-
+### Contents
+\
 1. [**Opening**](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting.md#opening)
 2. [**Magic**](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting.md#magic)
 3. [**Cartel**](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting.md#cartel)
