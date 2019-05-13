@@ -40,7 +40,8 @@ Even if you succeed in the "defensive check", you can give in to the situation a
 ↓ 
 At the end of the scene, you may once again declare a crisis act that "was used in that scene". 
 (Ignore usage restrictions. Any number is OK) 
-<Scene 2, 3> 
+
+### Scene 2, 3
 
 Proceed in the same way as scene 1. 
 ※ Be sure to do 3 times the "defensive check" (and the timing of using the crisis act) 
@@ -51,11 +52,10 @@ Here, we check how many times the "defense check" was successful.
 In the case of multiple PL sessions, it applies separately. 
 If Rebellion: 3 the character can act one additional turn before the start of the first turn (separate from surprises, can act faster than surprises) 
 
-If "rebellion: 2", fight as usual 
 
-If Rebellion: 1, that character can not do anything except [passive] on the first turn. 
-
-If "Rebellion: 0" that character can not participate in the battle, the session is automatically defeated. 
+1. If "rebellion: 2", fight as usual 
+2. If Rebellion: 1, that character can not do anything except [passive] on the first turn. 
+3. If "Rebellion: 0" that character can not participate in the battle, the session is automatically defeated. 
 In a multiple PL session, if there are other characters with "Dist: 1" or more, 
 Participate in the battle as Rebellion: 1, and if you are alive at the end of the session, shake only the Complete List and follow the effect. 
 
@@ -66,7 +66,7 @@ It is possible to roll erol with “Takin Engraving” and the first half of the
 Depending on the outcome of the battle, perform a normal end process. 
 If you use this rule, you have to increase your experience level to 5 points at the end to increase the difficulty level.
 
-<< Scenario sample >>
+### Scenario samples
 
 Situation "in the school erotic brainwashing" 
 Scene 1 "Brainwashing: All girls are willing to accept sexual desire processing for boys" 
@@ -79,12 +79,6 @@ Scene 1 "A tentacle sucks around your whole body who can not resist"
 Scene 2 "The tentacle sucks in to the breast and tries to squeeze out the milk" 
 Scene 3 "The tentacles try to lay eggs by committing your holes" 
 Climax Battle: Escape the tentacles and defeat the rogues! " 
-
-Situation "lover and love love etch" 
-Scene 1 "I'm tired and kissed at the entrance with a sweetheart" 
-Scene 2 "Washing your body in the bath & naughty prank" 
-Scene 3 "Children sex in bed" 
-Climax Battle "Suddenly kiss the sleeping lover for a sudden assault order and get out" 
 
 Situation "Sneaking into the City of Crime City" 
 Scene 1 "First Time Customers and Business Sex" 
