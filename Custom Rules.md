@@ -65,19 +65,16 @@ Here, we check how many times the "Rebellion Check" was successful.
 \
 In the case of multiple Players, it applies separately for each.
 
-1. If Rebellion = 3, the Player can act one additional turn before the start of the first turn (separate from surprises, can act faster than surprises);
+1. If Rebellion = 3, the Player can act one additional turn before the start of the first turn;
 2. If Rebellion = 2, fight as usual;
 3. If Rebellion = 1, the Player can not do anything except Auxiliary actions on the first turn;
 4. If Rebellion = 0, the Player can not participate in the battle, the magical girl is automatically defeated. 
 
-In a multiple PL session, if there are other characters with "Dist: 1" or more, Participate in the battle as Rebellion: 1, and if you are alive at the end of the session, shake only the Complete List and follow the effect. 
+In a multiple Player session, if there are other characters with Rebellion = 1 or more, one will use their Rebellion value and the others will participate in the battle as Rebellion = 1. 
 
-↓ 
-Combat start! Crisisact can not be used in this battle. 
-It is possible to roll erol with “Takin Engraving” and the first half of the rhyme, but it is not long. 
-↓ 
-Depending on the outcome of the battle, perform a normal end process. 
-If you use this rule, you have to increase your experience level to 5 points at the end to increase the difficulty level.
+Crisis Acts can't be used during this final battle. 
+
+If you use this rule, award each surviving Player with +5 experience points.
 
 ### Scenario samples
 
