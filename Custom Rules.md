@@ -14,7 +14,7 @@
 
 Source: http://beemoon.x.fc2.com/HCL42.html
 
-A rule for when you want to roleplay the erotic part first and the battle later.
+A rule for when you want to roleplay the erotic part first and the battle later. Useful for that "lewd monster of the week" games.
 
 ### Session Flow
 
@@ -24,25 +24,19 @@ The GM explains what kind of scene is happening and the player makes a "Rebellio
 
 1. Player assess the situation and may declare the use of a Crisis Act. (Ignore usage restrictions. Any number is ok.) 
 2. Player earns a bonus 1 CP for participation.
-3. Use as many CP as you like. (0 points are OK) 
-Succeeding [1D6] by the number of units consumed, it will be successful if even one "5" or "6" comes out. 
-You can not increase this die by <potential> or reshape it by <saving grace>. 
-4. If it succeeds, record it as "rebellion: 1". 
-(Used during climax battle) 
-If it fails, +2 [SP] 
-  
-  Depending on the act used by PL, perform an erol. 
-Even if you succeed in the "defensive check", you can give in to the situation as a role. 
-(A kind of resistance burns up slightly in my heart, etc.) 
-↓ 
-At the end of the scene, you may once again declare a crisis act that "was used in that scene". 
-(Ignore usage restrictions. Any number is OK) 
+3. Player uses as many CP as they like (0 points are ok) then roll a 1D6 for each CP used. Each 5 and 6 counts as success, and you need only 1 success. Crisis Abilities can't be used here.
+4. If it succeeds, record it as "Rebellion: 1". If it fails, player earns +2 SP.
 
-### Scene 2, 3
+Roleplay the scene as usual. Even if the roll succeeds the Player may give in to the situation: "I'm losing my virginity to an orc!" or "why is this tentacle so tasty?".
+/
+At the end of the scene, the Player may once again declare Crisis Acts that were used in that scene. (Ignore usage restrictions. Any number is ok.) 
+
+### Scene 2 and 3
 
 Proceed in the same way as scene 1. 
 ※ Be sure to do 3 times the "defensive check" (and the timing of using the crisis act) 
-<Climax Battle> 
+
+### <Climax Battle> 
 
 GM explains the battle history / PL rolls against it そ れ 
 Here, we check how many times the "defense check" was successful. 
