@@ -10,6 +10,26 @@
 
 You're forced to take in and taste at the same time, on all fours like a dog or tied belly up on a table. 
 
+\
+**Brutal Submission**
+* CP Gain: 1
+* SP Gain: Pain 2, Anal or Waist 1
+* Requeriments: None
+* Battle Use: Less than half HP, Waist AP 0
+
+text goes here 
+
+\
+**Partial Petrificaion**
+* CP Gain: 0
+* SP Gain: Chest, Mouth, Waist or Ass 1
+* Requeriments: Attacked by any kind of enemy skill fluffed with "petrification"
+* Battle Use: Less than half HP
+
+Your arms and legs have been somehow petrified and you can't defend yourself against your enemies, only watch in horror or happines as they play with your body.
+
+<hr>
+
 ## Rebellion
 
 Source: http://beemoon.x.fc2.com/HCL42.html
