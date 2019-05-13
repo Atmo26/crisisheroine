@@ -28,7 +28,7 @@ The GM explains what kind of scene is happening and the player makes a "Rebellio
 4. If it succeeds, record it as "Rebellion: 1". If it fails, player earns +2 SP.
 
 Roleplay the scene as usual. Even if the roll succeeds the Player may give in to the situation: "I'm losing my virginity to an orc!" or "why is this tentacle so tasty?".
-/
+\
 At the end of the scene, the Player may once again declare Crisis Acts that were used in that scene. (Ignore usage restrictions. Any number is ok.) 
 
 ### Scene 2 and 3
