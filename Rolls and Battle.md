@@ -1,36 +1,26 @@
 # Rolls and Battle
 
-## Contents
-
-[General Rolling Rules](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#general-rolling-rules)
-
-[Magic and MP recovery](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#magic-and-mp-recovery)
-
-[Combat](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#combat)
-
+### Contents
+1. [**General Rolling Rules**](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#general-rolling-rules)
+2. [**Magic and MP recovery**](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#magic-and-mp-recovery)
+3. [**Combat**](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#combat)
+\
 ⠀⠀⠀[Combat Start](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#combat-start)
-  
+\
 ⠀⠀⠀[Round Start](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#round-start)
-  
+\
 ⠀⠀⠀[Turn Order](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#turn-order)
-
+\
 ⠀⠀⠀[Character Turn](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#character-turn)
-
+\
 ⠀⠀⠀[Reaction](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#reaction)
-
-[Damage and Violation](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#damage-and-violation)
-
-[Activating and Deactivating Traps](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#activating-and-deactivating-traps)
-
-[AP Recovery](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#ap-recovery)
-
-[Bad Status](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#bad-status)
-
-[SP Roll](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#sp-roll)
-
-[Using CP](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#using-cp)
-
-[Defeat and Corruption](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#defeat-and-corruption)
+4. [**Damage and Violation**](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#damage-and-violation)
+5. [**Activating and Deactivating Traps**](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#activating-and-deactivating-traps)
+6. [**AP Recovery**](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#ap-recovery)
+7. [**Bad Status**](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#bad-status)
+8. [**SP Roll**](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#sp-roll)
+9. [**Using CP**](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#using-cp)
+10. [**Defeat and Corruption**](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md#defeat-and-corruption)
 
 ## General Rolling Rules
 
