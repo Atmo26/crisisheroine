@@ -110,7 +110,7 @@ On the other hand, Sustained keep giving bad effects to the PCs every round. How
 
 ### AP Recovery
 
-Earlier it was mentioned that damage to armor in combat applies to clothes in the untransformed state. In order to recover AP you must 1) Change clothes 2) Wait a few hours after the last transformation These two are needed.
+Earlier it was mentioned that damage to armor in combat applies to clothes in the untransformed state. In order to recover AP you must  change clothes and wait a few hours after the last transformation.
 
 The first task can be accomplished easily. A new medium is needed. As for the latter, please interpret this as "time to fill the power of Conjuration to transform again". It's not good for game balance to transform so quickly with restoration. However, in certain circumstances presented by the GM, there is no limit.
 
