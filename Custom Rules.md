@@ -29,6 +29,14 @@ text goes here
 Your arms and legs have been somehow petrified and you can't defend yourself against your enemies, only watch in horror or happines as they play with your body.
 
 \
+**Impalled by Tentacle**
+* CP Gain: 2
+* SP Gain: Pain 1, Ass 1
+* Requeriments: Attacked by any Tentacle type enemy or trap
+* Battle Use: 0 HP
+
+text goes here
+\
 
 
 <hr>
