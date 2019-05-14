@@ -17,7 +17,7 @@ You're forced to take in and taste at the same time, on all fours like a dog or 
 * Requeriments: None
 * Battle Use: Less than half HP, Waist AP 0
 
-text goes here 
+You didn't lost the battle but it really feels like it. This monster is a sadist brute that loves to hear you screaming and to make you bleed...
 
 \
 **Partial Petrification**
@@ -35,7 +35,7 @@ Your arms and legs have been somehow petrified and you can't defend yourself aga
 * Requeriments: Attacked by any Tentacle type enemy or trap
 * Battle Use: 0 HP
 
-They say "the best way to end 
+They say "the best way to end a tentacle party is by hanging the prizes", and you are the prize. The pain isn't enough to kill you but the humiliation is way worse.
 
 \
 **Demonic Long Tongue**
