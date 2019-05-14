@@ -31,13 +31,22 @@ Your arms and legs have been somehow petrified and you can't defend yourself aga
 \
 **Impalled by Tentacle**
 * CP Gain: 2
-* SP Gain: Pain 1, Ass 1
+* SP Gain: Pain 1, Ass or Mouth 1
 * Requeriments: Attacked by any Tentacle type enemy or trap
 * Battle Use: 0 HP
 
-text goes here
-\
+They say "the best way to end 
 
+\
+**Demonic Long Tongue**
+* CP Gain: 2
+* SP Gain: Waist or Mouth or Ass 1
+* Requeriments: None
+* Battle Use: Less than half HP
+
+You're forcelly held up by a big monster, whose long tongue is promptly used to explore your insides. 
+
+\
 
 <hr>
 
