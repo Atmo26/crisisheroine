@@ -47,6 +47,15 @@ They say "the best way to end a tentacle party is by hanging the prizes", and yo
 You're forcelly held up by a big monster, whose long tongue is promptly used to explore your insides. 
 
 \
+**Asphixiation**
+* CP Gain: 0
+* SP Gain: Pain 1, Spirit 1
+* Requeriments: None
+* Battle Use: HP Damage
+
+text goes here
+
+\
 
 <hr>
 
