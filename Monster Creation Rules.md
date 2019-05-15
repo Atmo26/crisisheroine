@@ -85,7 +85,7 @@ King: 14
 
 Please refer to the table below to calculate these stats.
 
-| - | Pawn | Rook | Knight | Bishop | King |
+| | Pawn | Rook | Knight | Bishop | King |
 |-|-|-|-|-|-|
 |DP |Body X 3 + 5 |Body X 3 + 15 |Body X 3 + 40 |Body X 3 + 70 |Body X 3 + 100
 |MP |Intelligence or Magic |Intelligence or Magic |(Intelligence or Magic)+2 |(Intelligence or Magic)+4 |(Intelligence or Magic)+6
