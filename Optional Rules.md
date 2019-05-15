@@ -127,7 +127,7 @@ When a dark heroine is dropped to 0 DP, she isn't killed and instead can be heal
 
 A Heroine who is defeated by the Demon Corps can fall and become a Dark Heroine (so long as both the player and GM are in agreeance.) The process is a bit complicated.
 \
-The heroine needs to fail a Corruption Roll against an enemy that she has Affection 3 or Hostility 3 towards. Or she fails against a subordanate of an enemy she has qualifying emotion towards.
+The heroine needs to fail a Corruption Roll against an enemy that she has Affection 3 or Hostility 3 towards. Or she fails against a subordinate of an enemy she has qualifying emotion towards.
 \
 After becoming a Dark Heroine, she loses all Crisis Acts and Crisis Abilities. Instead, the Dark Heroine has Dark Crisis Acts and a Dark Crisis Ability. She can only have three Dark Crisis Acts though. The Dark Heroine will also only ever have one Dark Crisis Ability. The Dark Heroine loses all spells and gains an equal number of Monster Skills instead. In addition, HP is changed to DP.
 \
@@ -137,7 +137,7 @@ In this way, the Dark Heroine will spend her days as an impotant soldier and sex
 
 ## End of the Demon Corps
 
-The Demon Corps will fall one day. It is aesthetics.
+The Demon Corps will fall one day. It should happen.
 \
 The Demon Corps created with these rules is no exception. It risks the posibility of its leader being defeated one day.
 \
