@@ -46,6 +46,8 @@ Select Monster features from the table below. Based on the features chosen, assi
 |Slime | 2 | 0 | 1 | 2 | Ice Damage taken +5, Electric Damage taken -5|
 |Beast | 2 | 2 | 0 | 1 | Fire Damage taken +5, Ice Damage taken -5|
 |Plant | 1 | 1 | 2 | 1 | Fire Damage taken +5, Ice Damage taken -5|
+|Insect | 1 | 1 | 2 | 1 | Ice Damage taken +5, Electric Damage taken -5|
+|Machine | 1 | 1 | 2 | 1 | Electric Damage taken +5, Fire Damage taken -5|
 | **Sub Features** |
 |Dark |0 |1 |2 |2 |-1 MP cost to all Dark based skills|
 |Fire |2 |1 |0 |2 |-1 MP cost to all Fire based skills| 
