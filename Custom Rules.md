@@ -1,5 +1,7 @@
 # Custom Rules
 
+Rules and ideas made at the heat of the moment. May be or may be not useful for normal games, use at your own risk.
+
 ## Custom Kinks
 
 **Spitroast**
