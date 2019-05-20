@@ -58,6 +58,14 @@ You're forcelly held up by a big monster, whose long tongue is promptly used to 
 text goes here
 
 \
+**Nipple Chains**
+* CP Gain: 1
+* SP Gain: Chest or Pain 1
+* Requeriments: None
+* Battle Use: Chest AP 0
+
+Your nipples are perfurated by sharp needles, then afixated on chains. They want to show off your meat and keep you in place at the same time. Works better with large boobs.
+
 
 <hr>
 
