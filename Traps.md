@@ -56,7 +56,7 @@ Afterwards, the target takes 3 damage to their [AP] at the end of every turn. (T
 * Invocation: Maintenance
 * Target: All Characters
 * Avoidance Check: None
-\
+
 This trap is always active. When it is entered, the effect is sprung. 
 \
 The pool of aphrodisiac batters at the skin, which causes the bad status [In heat]. If you already are [In Heat], the effect is doubled.
