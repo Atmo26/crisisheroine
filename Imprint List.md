@@ -16,7 +16,7 @@ other words, heroines with more imprints are lascivious but stronger in a pinch.
 | Hypersensitive Ass | Ass | None | The Pleasure of Being Groped | None |
 | Masochistic Desire | Spirit | None | Throbbing Body, Pain That Turns Into Pleasure | None |
 | Fear of Sex | Spirit | None | Flashback, Screaming for Mercy | None |
-| Enlarged Tits | Chest | Have been affected by the "Enlarged Breasts" Bad Status | Massive Cheasts, Sandwiched By Breasts | None |
+| Enlarged Tits | Chest | Have been affected by the "Enlarged Breasts" Bad Status | Massive Chest, Sandwiched By Breasts | None |
 | Perverted Delusions | Spirit | None | Vulgar Words | None |
 | Exhibitionism | Spirit | None | The Joy of Exposure | None |
 | Cum Addiction | Mouth | None | Cum-drunk | None |
