@@ -1,5 +1,5 @@
 # Crisis Heroine
-Repository for Crisis Heroine TRPG fan-translation.
+Repository for [Crisis Heroine](http://www.usagi-o.sakura.ne.jp/TRPG/HC/menu.htm) TRPG fan-translation.
 
 **What?**
 
