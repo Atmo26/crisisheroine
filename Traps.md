@@ -48,7 +48,7 @@ A viscous fluid falls down and sticks closely to the target, lowering their IV b
 
 The trap is activated at the beginning of battle and the effect is sprung the next turn. Acid mucus falls down on the target, melting her clothing. 
 \
-Afterwards, the target takes 3 damage to their [AP] at the end of every turn. (The PC selects which parts take the damage.)
+Afterwards, the target takes 3 damage to their AP at the end of every turn. (The PC selects which parts take the damage.)
 
 \
 **Immoral Pool**
@@ -59,7 +59,7 @@ Afterwards, the target takes 3 damage to their [AP] at the end of every turn. (T
 
 This trap is always active. When it is entered, the effect is sprung. 
 \
-The pool of aphrodisiac batters at the skin, which causes the bad status [In heat]. If you already are [In Heat], the effect is doubled.
+The pool of aphrodisiac batters at the skin, which causes the bad status [In Heat]. If you already are [In Heat], the effect is doubled.
 
 \
 **Evil Eye**
