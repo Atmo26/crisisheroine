@@ -150,17 +150,17 @@ If you use this rule, award each surviving Player with +5 CP for Advancement.
 
 ## Rest
 
-All PCs (including dark heroine) can take a rest in accordance with the following rules.
+All PCs (including Dark Heroines) can take a Rest in accordance with the following rules.
 \
-However, the rest can be done only once after one scenario is over.  (Can not be done in combination)
+However, the rest can be done only once after one scenario is over.  (Cannot be done ingame too.)
 \
-When taking a rest, be sure to state the change point in the character sheet.
+When taking a rest, be sure to record the change point in the character sheet.
 \
-● Consume 5 points of unused experience points of that PC and reduce 5 points of SP obtained in the previous scenario.  (It does not become 1 or less)
+● Use 5 points of unused experience points of that PC and reduce 5 points of SP obtained in the previous scenario.  (It does not become 1 or less)
 \
-● Consume 5 unused experience points of that PC and exchange one magic of that character or one crisis act.
+● Use 5 unused experience points of that PC and exchange one Spell of that character or one Crisis Act.
 \
-● Consume 5 unused experience points of that PC, and exchange one physical and magical.  Re-acquire items at this time.
+● Use 5 unused experience points of that PC, and exchange one physical and magical. Re-acquire items at this time.
  
  
  
