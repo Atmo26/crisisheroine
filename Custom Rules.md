@@ -156,11 +156,11 @@ However, the rest can be done only once after one scenario is over.  (Cannot be 
 \
 When taking a rest, be sure to record the change point in the character sheet.
 \
-● Use 5 points of unused experience points of that PC and reduce 5 points of SP obtained in the previous scenario.  (It does not become 1 or less)
+● Use 5 unused experience points of that PC and reduce 5 points of SP obtained in the previous scenario.  (It does not go below 1 or less)
 \
 ● Use 5 unused experience points of that PC and exchange one Spell of that character or one Crisis Act.
 \
-● Use 5 unused experience points of that PC, and exchange one physical and magical. Re-acquire items at this time.
+● Use 5 unused experience points of that PC, and exchange your weapon and armor.
  
  
- 
+<hr>
