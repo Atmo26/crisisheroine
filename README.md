@@ -13,7 +13,7 @@ Some things were retouched and corrected.
 
 ## Index
 
-[World Setting](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting.md)
+[World Setting](https://github.com/Atmo26/crisisheroine/blob/master/World%20Setting)
 
 [Rolls and Battle](https://github.com/Atmo26/crisisheroine/blob/master/Rolls%20and%20Battle.md)
 
