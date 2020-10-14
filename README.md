@@ -17,38 +17,36 @@ Some things were retouched and corrected.
 
 [Rolls and Battle](https://atmo26.github.io/crisisheroine/Rolls%20and%20Battle)
 
-[Character Creation](https://atmo26.github.io/crisisheroine/Character%20Creation.md)
+[Character Creation](https://atmo26.github.io/crisisheroine/Character%20Creation)
 \
-⠀⠀⠀ [Feature Tables](https://atmo26.github.io/crisisheroine/Feature%20Tables.md)
+⠀⠀⠀ [Feature Tables](https://atmo26.github.io/crisisheroine/Feature%20Tables)
 \
-⠀⠀⠀ [Spells](https://atmo26.github.io/crisisheroine/Spells.md)
+⠀⠀⠀ [Spells](https://atmo26.github.io/crisisheroine/Spells)
 \
-⠀⠀⠀ [Equipment](https://atmo26.github.io/crisisheroine/Equipment.md)
+⠀⠀⠀ [Equipment](https://atmo26.github.io/crisisheroine/Equipment)
 \
-⠀⠀⠀ [Crisis Abilities](https://atmo26.github.io/crisisheroine/Crisis%20Abilities.md)
+⠀⠀⠀ [Crisis Abilities](https://atmo26.github.io/crisisheroine/Crisis%20Abilities)
 \
-⠀⠀⠀ [Crisis Acts](https://atmo26.github.io/crisisheroine/Crisis%20Acts.md)
+⠀⠀⠀ [Crisis Acts](https://atmo26.github.io/crisisheroine/Crisis%20Acts)
 
-[Advancement](https://atmo26.github.io/crisisheroine/Advancement.md)
+[Advancement](https://atmo26.github.io/crisisheroine/Advancement)
 \
-⠀⠀⠀ [Imprint List](https://atmo26.github.io/crisisheroine/Imprint%20List.md)
+⠀⠀⠀ [Imprint List](https://atmo26.github.io/crisisheroine/Imprint%20List)
 
-[Monsters](https://atmo26.github.io/crisisheroine/Monsters.md)
+[Monsters](https://atmo26.github.io/crisisheroine/Monsters)
 \
-⠀⠀⠀ [Monster Creation Rules](https://atmo26.github.io/crisisheroine/Monster%20Creation%20Rules.md)
+⠀⠀⠀ [Monster Creation Rules](https://atmo26.github.io/crisisheroine/Monster%20Creation%20Rules)
 \
-⠀⠀⠀ [Enemy Skills](https://atmo26.github.io/crisisheroine/Enemy%20Skills.md)
+⠀⠀⠀ [Enemy Skills](https://atmo26.github.io/crisisheroine/Enemy%20Skills)
 \
-⠀⠀⠀ [Traps](https://atmo26.github.io/crisisheroine/Traps.md)
+⠀⠀⠀ [Traps](https://atmo26.github.io/crisisheroine/Traps)
 
-[Optional Rules](https://atmo26.github.io/crisisheroine/Optional%20Rules.md)
+[Optional Rules](https://atmo26.github.io/crisisheroine/Optional%20Rules)
 \
-⠀⠀⠀ [Dark Crisis Abilities](https://atmo26.github.io/crisisheroine/Dark%20Crisis%20Abilities.md)
+⠀⠀⠀ [Dark Crisis Abilities](https://atmo26.github.io/crisisheroine/Dark%20Crisis%20Abilities)
 \
-⠀⠀⠀ [Dark Crisis Acts](https://atmo26.github.io/crisisheroine/Dark%20Crisis%20Acts.md)
+⠀⠀⠀ [Dark Crisis Acts](https://atmo26.github.io/crisisheroine/Dark%20Crisis%20Acts)
 \
-⠀⠀⠀ [Facilities](https://atmo26.github.io/crisisheroine/Facilities.md)
+⠀⠀⠀ [Facilities](https://atmo26.github.io/crisisheroine/Facilities)
 
-[Custom Rules](https://atmo26.github.io/crisisheroine/Custom%20Rules.md)
-
-
+[Custom Rules](https://atmo26.github.io/crisisheroine/Custom%20Rules)
