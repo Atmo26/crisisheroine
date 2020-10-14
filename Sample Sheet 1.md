@@ -17,10 +17,10 @@ Luminous Ray [Active, Sorcery, Single, Yes] (3) Perform a Sorcery Attack. The da
 Lightning Blast [Active, Sorcery, Single, Yes] (3) Perform a Sorcery Attack. The damage is 2d6+Magic. This attack has the Electric element. \
 Guts [Just Before, Self] (3) Gain +1d6 bonus to any roll. Can only be used during combat.
 
-| **Crisis Acts** |a|a|a| \
-| --- | --- | --- | --- | \
-| Scarlet Blood | (Pain) | CP+1 SP Pain +1 | [AP or HP Damage] | \
-| Swollen Breasts | (Pain) | CP+1 SP Chest or Pain +1 | [Chest AP 0 or HP Damage] | \
+**Crisis Acts** \
+```
+Scarlet Blood (Pain) CP+1 SP Pain +1 [AP or HP Damage] \
+Swollen Breasts (Pain) CP+1 SP Chest or Pain +1 [Chest AP 0 or HP Damage] \
 Swollen Ass (Pain) CP+1 SP Ass or Pain +1 [Waist AP 0 or HP Damage] \
 Stomach-Gouging Pain (Pain) CP+1 SP Pain +1 [HP Damage] \
 Cry of Anguish (Pain) CP+1 SP Pain +1 [HP Damage] \
@@ -29,6 +29,7 @@ The Pleasure of Monsters (Spirit) CP+2 SP Waist +1 [Less than Half HP] \
 Creampie (Waist) CP+2 SP Waist +1 [Less than Half HP] \
 Spawning () CP+2 SP Waist +1 [Inflicted by "Egged" Bad Status and taking either Waist AP or HP Damage] \
 Milking () CP+2 SP Chest +1 [Inflicted by "Giant Boobs" Bad Status and taking either Waist AP or HP Damage] 
+```
 
 **Crisis Ability** \
 Potential [Special] (Special) This CA can be combined with any roll except for corruption roll. It is also possible to combine with other CA at the same time. Declare the use just before making the roll. Spend any amount of CP and obtains a bonus of +(spent CP)D6 for the roll. \
