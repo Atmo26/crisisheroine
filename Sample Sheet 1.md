@@ -18,7 +18,7 @@ Lightning Blast [Active, Sorcery, Single, Yes] (3) Perform a Sorcery Attack. The
 Guts [Just Before, Self] (3) Gain +1d6 bonus to any roll. Can only be used during combat.
 
 | **Crisis Acts** | | | | \
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | \
 | Scarlet Blood | (Pain) | CP+1 SP Pain +1 | [AP or HP Damage] | \
 | Swollen Breasts | (Pain) | CP+1 SP Chest or Pain +1 | [Chest AP 0 or HP Damage] | \
 Swollen Ass (Pain) CP+1 SP Ass or Pain +1 [Waist AP 0 or HP Damage] \
