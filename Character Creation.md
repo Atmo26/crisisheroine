@@ -1,7 +1,7 @@
 # Character Creation
 
 ### Contents
-1. [**Features**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#1-features)
+1. [**Features**](https://atmo26.github.io/crisisheroine/Character%20Creation#1-features)
 2. [**Stats**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#2-stats)
 3. [**Attributes**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#3-attributes)
 4. [**Magic**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#4-magic)
