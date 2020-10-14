@@ -34,7 +34,7 @@ _Potential_ [Special] (Special) This CA can be combined with any roll except for
 _Resolution_ [Special] (3) Use after succeeding on a corruption roll after being defeated. You rise from the defeated state at half HP.
 
 **Equipments (total = 5)** \
-_Greatsword_ / Cost 4 / Range No / Class Melee / Power 6 / SE None
+_Greatsword_ / Cost 4 / Range No / Class Melee / Power 6 / SE None \
 _Tight Armor_ / Cost 1 / Chest AP 12 / Waist AP 10 / Direct Hit Value 9
 
 **Emotions** \
