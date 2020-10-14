@@ -44,4 +44,4 @@ Hostility (3) Demons
 Xenophilia: Tentacles
 
 **Image** \
-<a href="https://i.imgur.com/xIsd6F3.jpg" src="https://i.imgur.com/xIsd6F3.jpg" width="120"> </a>
+<a src="https://i.imgur.com/xIsd6F3.jpg" width="120"> </a>
