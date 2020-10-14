@@ -50,3 +50,6 @@ Some things were retouched and corrected.
 ⠀⠀⠀ [Facilities](https://atmo26.github.io/crisisheroine/Facilities)
 
 [Custom Rules](https://atmo26.github.io/crisisheroine/Custom%20Rules)
+
+
+[Sample Sheet 1](https://atmo26.github.io/crisisheroine/Sample%20Sheet%201)
