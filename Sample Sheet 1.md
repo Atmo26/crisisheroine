@@ -17,7 +17,7 @@ Luminous Ray [Active, Sorcery, Single, Yes] (3) Perform a Sorcery Attack. The da
 Lightning Blast [Active, Sorcery, Single, Yes] (3) Perform a Sorcery Attack. The damage is 2d6+Magic. This attack has the Electric element. \
 Guts [Just Before, Self] (3) Gain +1d6 bonus to any roll. Can only be used during combat.
 
-| **Crisis Acts** | \
+| **Crisis Acts** | | | | \
 | --- | --- | --- | --- |
 | Scarlet Blood | (Pain) | CP+1 SP Pain +1 | [AP or HP Damage] | \
 | Swollen Breasts | (Pain) | CP+1 SP Chest or Pain +1 | [Chest AP 0 or HP Damage] | \
