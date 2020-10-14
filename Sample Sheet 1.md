@@ -19,7 +19,7 @@ Guts [Just Before, Self] (3) Gain +1d6 bonus to any roll. Can only be used durin
 
 **Crisis Acts** \
 |Scarlet Blood | (Pain) | CP+1 SP Pain +1 | [AP or HP Damage] | \
-Swollen Breasts (Pain) CP+1 SP Chest or Pain +1 [Chest AP 0 or HP Damage] \
+|Swollen Breasts | (Pain) | CP+1 SP Chest or Pain +1 | [Chest AP 0 or HP Damage] | \
 Swollen Ass (Pain) CP+1 SP Ass or Pain +1 [Waist AP 0 or HP Damage] \
 Stomach-Gouging Pain (Pain) CP+1 SP Pain +1 [HP Damage] \
 Cry of Anguish (Pain) CP+1 SP Pain +1 [HP Damage] \
