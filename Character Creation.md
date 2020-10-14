@@ -2,18 +2,18 @@
 
 ### Contents
 1. [**Features**](https://atmo26.github.io/crisisheroine/Character%20Creation#1-features)
-2. [**Stats**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#2-stats)
-3. [**Attributes**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#3-attributes)
-4. [**Magic**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#4-magic)
-5. [**Crisis Ability**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#5-crisis-ability)
-6. [**Equipment**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#6-equipment)
-7. [**Derived Attributes**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#7-derived-attributes)
-8. [**Crisis Acts**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#8-crisis-acts)
-9. [**Starting Emotions**](https://github.com/Atmo26/crisisheroine/blob/master/Character%20Creation.md#9-starting-emotions)
+2. [**Stats**](https://atmo26.github.io/crisisheroine/Character%20Creation#2-stats)
+3. [**Attributes**](https://atmo26.github.io/crisisheroine/Character%20Creation#3-attributes)
+4. [**Magic**](https://atmo26.github.io/crisisheroine/Character%20Creation#4-magic)
+5. [**Crisis Ability**](https://atmo26.github.io/crisisheroine/Character%20Creation#5-crisis-ability)
+6. [**Equipment**](https://atmo26.github.io/crisisheroine/Character%20Creation#6-equipment)
+7. [**Derived Attributes**](https://atmo26.github.io/crisisheroine/Character%20Creation#7-derived-attributes)
+8. [**Crisis Acts**](https://atmo26.github.io/crisisheroine/Character%20Creation#8-crisis-acts)
+9. [**Starting Emotions**](https://atmo26.github.io/crisisheroine/Character%20Creation#9-starting-emotions)
 
 ### 1. Features
 
-Choose or roll three features from the feature tables (1 from the first two, 1 each from the other two): [Feature Tables](https://github.com/Atmo26/crisisheroine/blob/master/Feature%20Tables.md)
+Choose or roll three features from the feature tables (1 from the first two, 1 each from the other two): [Feature Tables](https://atmo26.github.io/crisisheroine/Feature%20Tables)
 
 ### 2. Stats
 
@@ -37,15 +37,15 @@ Distribute 10 points into Conjuration and Evocation (minimum 1).
 
 ### 4. Magic
 
-Choose 4 spells from the magic list: [Spells](https://github.com/Atmo26/crisisheroine/blob/master/Spells.md)
+Choose 4 spells from the magic list: [Spells](https://atmo26.github.io/crisisheroine/Spells)
 
 ### 5. Crisis Ability
 
-Choose 1 Crisis Ability from the list, also learn *Potential* for free: [Crisis Abilities](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Abilities.md)
+Choose 1 Crisis Ability from the list, also learn *Potential* for free: [Crisis Abilities](https://atmo26.github.io/crisisheroine/Crisis%20Abilities)
 
 ### 6. Equipment
 
-Use your Conjuration to select items. Note that you do not actually lose your Conjuration but use it as a maximum capacity of equipment: [Equipment](https://github.com/Atmo26/crisisheroine/blob/master/Equipment.md)
+Use your Conjuration to select items. Note that you do not actually lose your Conjuration but use it as a maximum capacity of equipment: [Equipment](https://atmo26.github.io/crisisheroine/Equipment)
 
 ### 7. Derived Attributes
 
@@ -68,7 +68,7 @@ greater risk of permanently falling to darkness.
 
 ### 8. Crisis Acts
 
-Choose 10 Crisis Acts from the list: [Crisis Acts](https://github.com/Atmo26/crisisheroine/blob/master/Crisis%20Acts.md)
+Choose 10 Crisis Acts from the list: [Crisis Acts](https://atmo26.github.io/crisisheroine/Crisis%20Acts)
 
 
 ### 9. Starting Emotions
